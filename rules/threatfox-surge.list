@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-25T18:59:35.781902+00:00
+# Generated UTC 2026-10-25T19:25:05.418506+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -225,7 +225,6 @@ DOMAIN,nsx1-7f7aa.firebasestorage.app
 DOMAIN,nvc-info.beer
 DOMAIN,o.9qoi.org
 DOMAIN,o.a9bet.org
-DOMAIN,o7.9kio.org
 DOMAIN,ofleax.space
 DOMAIN,opsbridge.digital
 DOMAIN,orbitwindow.cfd
@@ -295,6 +294,7 @@ DOMAIN,thunder.godofthunder.st
 DOMAIN,titlerailwaytrainer.click
 DOMAIN,trulitesupport.com
 DOMAIN,u3.88kfc.org
+DOMAIN,u6.adilawa99.org
 DOMAIN,u7.ajo7.org
 DOMAIN,u973.cantdown.su
 DOMAIN,ui.abad777.org
@@ -365,7 +365,6 @@ IP-CIDR,101.35.26.34/32,no-resolve
 IP-CIDR,101.42.183.92/32,no-resolve
 IP-CIDR,101.43.128.112/32,no-resolve
 IP-CIDR,102.205.170.11/32,no-resolve
-IP-CIDR,102.220.161.196/32,no-resolve
 IP-CIDR,102.220.163.192/32,no-resolve
 IP-CIDR,103.114.43.152/32,no-resolve
 IP-CIDR,103.158.117.152/32,no-resolve
@@ -409,6 +408,7 @@ IP-CIDR,114.215.184.158/32,no-resolve
 IP-CIDR,115.159.190.77/32,no-resolve
 IP-CIDR,116.62.174.16/32,no-resolve
 IP-CIDR,116.62.44.146/32,no-resolve
+IP-CIDR,116.62.81.149/32,no-resolve
 IP-CIDR,117.72.205.100/32,no-resolve
 IP-CIDR,118.25.147.157/32,no-resolve
 IP-CIDR,123.123.74.83/32,no-resolve
