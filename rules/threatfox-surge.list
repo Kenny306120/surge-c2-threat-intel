@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-25T14:54:35.853786+00:00
+# Generated UTC 2026-10-25T15:17:57.432757+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -72,6 +72,7 @@ DOMAIN,deload.getpi.su
 DOMAIN,devs.homelabnode.qzz.io
 DOMAIN,dexband.quest
 DOMAIN,dhwmtu.icu
+DOMAIN,dku.adilawa99.org
 DOMAIN,dmgroup.space
 DOMAIN,driffo.live
 DOMAIN,driverupdate.app
@@ -411,7 +412,6 @@ IP-CIDR,116.62.174.16/32,no-resolve
 IP-CIDR,116.62.44.146/32,no-resolve
 IP-CIDR,117.72.205.100/32,no-resolve
 IP-CIDR,118.25.147.157/32,no-resolve
-IP-CIDR,119.45.236.76/32,no-resolve
 IP-CIDR,123.123.74.83/32,no-resolve
 IP-CIDR,123.56.74.141/32,no-resolve
 IP-CIDR,123.57.30.209/32,no-resolve
@@ -800,7 +800,6 @@ IP-CIDR,182.61.148.201/32,no-resolve
 IP-CIDR,183.60.176.124/32,no-resolve
 IP-CIDR,184.194.188.194/32,no-resolve
 IP-CIDR,185.132.53.158/32,no-resolve
-IP-CIDR,185.147.159.251/32,no-resolve
 IP-CIDR,185.193.125.201/32,no-resolve
 IP-CIDR,185.245.107.8/32,no-resolve
 IP-CIDR,188.166.150.80/32,no-resolve
