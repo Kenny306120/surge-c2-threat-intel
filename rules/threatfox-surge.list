@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-26T01:21:25.783261+00:00
+# Generated UTC 2026-10-26T02:06:39.390812+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -80,7 +80,6 @@ DOMAIN,dtapi.cc
 DOMAIN,elchapodonpablo.duckdns.org
 DOMAIN,emacademy.live
 DOMAIN,encorevault.live
-DOMAIN,f.88qr.org
 DOMAIN,f.abad777.org
 DOMAIN,fe5.88kfc.org
 DOMAIN,filmydhoom.live
@@ -124,7 +123,6 @@ DOMAIN,iy.acunbet89.org
 DOMAIN,j.9kio.org
 DOMAIN,j.abc22.org
 DOMAIN,j22g4aqk.icu
-DOMAIN,j7.88idr.org
 DOMAIN,javascript.skin
 DOMAIN,jm.88kfc.org
 DOMAIN,jscdncloude.beer
@@ -387,6 +385,7 @@ IP-CIDR,104.248.206.134/32,no-resolve
 IP-CIDR,106.12.190.248/32,no-resolve
 IP-CIDR,106.13.28.176/32,no-resolve
 IP-CIDR,106.14.26.31/32,no-resolve
+IP-CIDR,106.54.1.74/32,no-resolve
 IP-CIDR,106.55.178.204/32,no-resolve
 IP-CIDR,107.148.158.243/32,no-resolve
 IP-CIDR,109.120.178.160/32,no-resolve
@@ -790,6 +789,7 @@ IP-CIDR,178.16.53.68/32,no-resolve
 IP-CIDR,178.16.53.76/32,no-resolve
 IP-CIDR,178.62.54.91/32,no-resolve
 IP-CIDR,178.62.93.158/32,no-resolve
+IP-CIDR,179.199.199.60/32,no-resolve
 IP-CIDR,18.118.229.48/32,no-resolve
 IP-CIDR,18.179.34.241/32,no-resolve
 IP-CIDR,182.61.148.201/32,no-resolve
