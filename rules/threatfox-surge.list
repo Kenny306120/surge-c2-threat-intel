@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-26T09:11:34.930819+00:00
+# Generated UTC 2026-10-26T10:11:34.477478+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -88,6 +88,7 @@ DOMAIN,dmgroup.space
 DOMAIN,driffo.live
 DOMAIN,driverupdate.app
 DOMAIN,dtapi.cc
+DOMAIN,e.ayu99.pro
 DOMAIN,elchapodonpablo.duckdns.org
 DOMAIN,emacademy.live
 DOMAIN,encorevault.live
@@ -179,7 +180,6 @@ DOMAIN,millionairemind.live
 DOMAIN,minnarasanen.com
 DOMAIN,mipwc5byekofoatzrgj3wwxsy5wunjqprp2qakdddgbufc3bqgpxtoqd.onion
 DOMAIN,mobile.rumtar365-pro.click
-DOMAIN,model.bytedrop.cc
 DOMAIN,moneyhub-ajozecamixa.click
 DOMAIN,moneyhub-akujoxusuyi.click
 DOMAIN,moneyhub-amutizefucu.click
@@ -800,7 +800,6 @@ IP-CIDR,176.65.139.51/32,no-resolve
 IP-CIDR,176.65.144.99/32,no-resolve
 IP-CIDR,176.65.149.218/32,no-resolve
 IP-CIDR,176.97.117.157/32,no-resolve
-IP-CIDR,177.201.232.163/32,no-resolve
 IP-CIDR,178.16.53.56/32,no-resolve
 IP-CIDR,178.16.53.68/32,no-resolve
 IP-CIDR,178.16.53.76/32,no-resolve
@@ -884,6 +883,7 @@ IP-CIDR,37.27.4.38/32,no-resolve
 IP-CIDR,37.27.9.42/32,no-resolve
 IP-CIDR,38.190.224.38/32,no-resolve
 IP-CIDR,38.240.48.153/32,no-resolve
+IP-CIDR,38.240.56.216/32,no-resolve
 IP-CIDR,38.242.147.58/32,no-resolve
 IP-CIDR,38.54.40.15/32,no-resolve
 IP-CIDR,38.55.252.139/32,no-resolve
@@ -958,7 +958,6 @@ IP-CIDR,62.234.215.37/32,no-resolve
 IP-CIDR,64.176.37.39/32,no-resolve
 IP-CIDR,64.176.80.91/32,no-resolve
 IP-CIDR,64.177.68.245/32,no-resolve
-IP-CIDR,64.188.115.190/32,no-resolve
 IP-CIDR,64.89.161.138/32,no-resolve
 IP-CIDR,67.207.95.101/32,no-resolve
 IP-CIDR,68.183.183.60/32,no-resolve
