@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-26T13:48:47.418438+00:00
+# Generated UTC 2026-10-26T15:29:01.157107+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -23,6 +23,7 @@ DOMAIN,8c2x4.icu
 DOMAIN,8k2t5.icu
 DOMAIN,8xbet71.live
 DOMAIN,a9bet.org
+DOMAIN,ab41vc541fd04435740.health-carereform.com
 DOMAIN,abc212.org
 DOMAIN,abcbram.live
 DOMAIN,af2tfcqmwc3crg56d5iirf3u5znrqc36wxn4mst4ytljm56dwtxgkfid.onion
@@ -38,7 +39,6 @@ DOMAIN,at.adwgamestore.org
 DOMAIN,at.ajo7.org
 DOMAIN,ataturk.sbs
 DOMAIN,atr2t37ngllrkkbt7tsxprlnuejxknxjjiqvy3woralbuok3unhuzeqd.onion
-DOMAIN,audit.bitfetch.cc
 DOMAIN,audplay.space
 DOMAIN,autoccb.tech
 DOMAIN,aw52ywxpzf9kyxrhxzawoa.is
@@ -95,9 +95,11 @@ DOMAIN,exkbqpb36xgih7jgfobhwtvx3cxgdzsf6ccjzvsxpfycnmaq7fzlcfad.onion
 DOMAIN,f.abad777.org
 DOMAIN,fe5.88kfc.org
 DOMAIN,filmydhoom.live
+DOMAIN,firebase.emeraldpineventuresllc.com
 DOMAIN,floors.live
 DOMAIN,forton-apiculteur-miel-provence.live
 DOMAIN,freetrend.cc
+DOMAIN,ftp.jmacsafety.com
 DOMAIN,ftp.prometeon.info
 DOMAIN,fuckrussiafuckukraine.duckdns.org
 DOMAIN,fuckthecisunion.duckdns.org
@@ -138,7 +140,6 @@ DOMAIN,javascript.skin
 DOMAIN,jm.88kfc.org
 DOMAIN,jscdncloude.beer
 DOMAIN,jtf.adilawa99.org
-DOMAIN,jz.88idr.org
 DOMAIN,k.abc22.org
 DOMAIN,k.ajo7.org
 DOMAIN,kaloed.cfd
@@ -364,12 +365,12 @@ DOMAIN,x1zsp.cc
 DOMAIN,xa.agenplay89.org
 DOMAIN,xaic33d75dantn47hqcrpyzzqvpcl3mdes7wkmmkvz35l3aaznfxoaqd.onion
 DOMAIN,xdqn.gxs9of.icu
-DOMAIN,xl.88qr.org
 DOMAIN,xn--temple-de-lumire-6pb.space
 DOMAIN,xuesheng3nk6.space
 DOMAIN,y.9winn.org
 DOMAIN,y.aww88.net
 DOMAIN,y4.8g8g.org
+DOMAIN,ya.adwgamestore.org
 DOMAIN,yaniatbisb.duckdns.org
 DOMAIN,yeahp.live
 DOMAIN,yk7u8uk61r.icu
@@ -797,7 +798,6 @@ IP-CIDR,176.121.51.1/32,no-resolve
 IP-CIDR,176.65.132.7/32,no-resolve
 IP-CIDR,176.65.139.51/32,no-resolve
 IP-CIDR,176.65.144.99/32,no-resolve
-IP-CIDR,176.65.149.218/32,no-resolve
 IP-CIDR,176.97.117.157/32,no-resolve
 IP-CIDR,178.16.53.56/32,no-resolve
 IP-CIDR,178.16.53.68/32,no-resolve
@@ -831,6 +831,7 @@ IP-CIDR,198.44.116.156/32,no-resolve
 IP-CIDR,198.46.131.230/32,no-resolve
 IP-CIDR,2.27.120.130/32,no-resolve
 IP-CIDR,2.56.3.177/32,no-resolve
+IP-CIDR,20.109.163.207/32,no-resolve
 IP-CIDR,20.163.34.31/32,no-resolve
 IP-CIDR,203.195.219.186/32,no-resolve
 IP-CIDR,203.195.243.103/32,no-resolve
@@ -887,6 +888,7 @@ IP-CIDR,38.55.252.139/32,no-resolve
 IP-CIDR,38.60.179.108/32,no-resolve
 IP-CIDR,38.60.246.113/32,no-resolve
 IP-CIDR,38.76.195.64/32,no-resolve
+IP-CIDR,39.100.64.125/32,no-resolve
 IP-CIDR,39.100.80.24/32,no-resolve
 IP-CIDR,39.103.98.161/32,no-resolve
 IP-CIDR,39.106.251.194/32,no-resolve
@@ -902,7 +904,6 @@ IP-CIDR,43.242.128.207/32,no-resolve
 IP-CIDR,43.248.102.182/32,no-resolve
 IP-CIDR,43.99.14.199/32,no-resolve
 IP-CIDR,45.119.99.8/32,no-resolve
-IP-CIDR,45.128.12.14/32,no-resolve
 IP-CIDR,45.142.141.139/32,no-resolve
 IP-CIDR,45.150.109.94/32,no-resolve
 IP-CIDR,45.192.169.57/32,no-resolve
@@ -924,7 +925,6 @@ IP-CIDR,47.111.117.176/32,no-resolve
 IP-CIDR,47.122.120.188/32,no-resolve
 IP-CIDR,47.129.52.27/32,no-resolve
 IP-CIDR,47.236.70.111/32,no-resolve
-IP-CIDR,47.237.142.244/32,no-resolve
 IP-CIDR,47.239.212.183/32,no-resolve
 IP-CIDR,47.243.109.132/32,no-resolve
 IP-CIDR,47.92.113.149/32,no-resolve
@@ -970,6 +970,7 @@ IP-CIDR,80.190.73.17/32,no-resolve
 IP-CIDR,80.190.79.39/32,no-resolve
 IP-CIDR,80.253.249.242/32,no-resolve
 IP-CIDR,80.78.22.149/32,no-resolve
+IP-CIDR,81.71.128.221/32,no-resolve
 IP-CIDR,82.158.192.152/32,no-resolve
 IP-CIDR,82.158.89.27/32,no-resolve
 IP-CIDR,82.38.148.128/32,no-resolve
