@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-26T04:05:06.074880+00:00
+# Generated UTC 2026-10-26T05:05:45.420105+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -132,7 +132,6 @@ DOMAIN,indigo-finch-misgoaen.life
 DOMAIN,indo78livescore.live
 DOMAIN,iquickline.com
 DOMAIN,iy.acunbet89.org
-DOMAIN,j.9kio.org
 DOMAIN,j.abc22.org
 DOMAIN,j22g4aqk.icu
 DOMAIN,javascript.skin
@@ -793,7 +792,6 @@ IP-CIDR,168.220.248.106/32,no-resolve
 IP-CIDR,170.231.239.144/32,no-resolve
 IP-CIDR,170.39.187.52/32,no-resolve
 IP-CIDR,172.111.139.49/32,no-resolve
-IP-CIDR,172.111.150.135/32,no-resolve
 IP-CIDR,172.111.150.137/32,no-resolve
 IP-CIDR,172.233.28.7/32,no-resolve
 IP-CIDR,172.233.28.8/32,no-resolve
@@ -843,7 +841,6 @@ IP-CIDR,193.70.100.109/32,no-resolve
 IP-CIDR,194.102.104.223/32,no-resolve
 IP-CIDR,194.59.30.237/32,no-resolve
 IP-CIDR,194.87.219.118/32,no-resolve
-IP-CIDR,195.177.94.15/32,no-resolve
 IP-CIDR,195.177.94.75/32,no-resolve
 IP-CIDR,196.196.208.18/32,no-resolve
 IP-CIDR,198.44.116.156/32,no-resolve
@@ -916,7 +913,6 @@ IP-CIDR,41.234.6.114/32,no-resolve
 IP-CIDR,42.192.106.170/32,no-resolve
 IP-CIDR,42.51.33.180/32,no-resolve
 IP-CIDR,43.136.40.48/32,no-resolve
-IP-CIDR,43.136.92.170/32,no-resolve
 IP-CIDR,43.142.129.189/32,no-resolve
 IP-CIDR,43.142.137.169/32,no-resolve
 IP-CIDR,43.142.143.95/32,no-resolve
@@ -1028,6 +1024,7 @@ IP-CIDR,92.119.165.74/32,no-resolve
 IP-CIDR,92.249.61.190/32,no-resolve
 IP-CIDR,93.179.127.29/32,no-resolve
 IP-CIDR,94.154.32.128/32,no-resolve
+IP-CIDR,94.154.32.69/32,no-resolve
 IP-CIDR,94.154.40.111/32,no-resolve
 IP-CIDR,94.154.43.68/32,no-resolve
 IP-CIDR,94.156.152.7/32,no-resolve
