@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-26T11:06:34.131180+00:00
+# Generated UTC 2026-10-26T13:48:47.418438+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -30,7 +30,6 @@ DOMAIN,ahrp.rtdnu6sg.icu
 DOMAIN,airstatus.live
 DOMAIN,aket65o2xznczt5ef4xtlo46g6lv5nlebjpsjrl3ihrvq3pmysekhhyd.onion
 DOMAIN,alepocfr.live
-DOMAIN,amm-frosty.lol
 DOMAIN,anti.publicvm.com
 DOMAIN,apisumer.net
 DOMAIN,arcaneportalsofpower.live
@@ -61,7 +60,6 @@ DOMAIN,c.aww88.net
 DOMAIN,cardapiiofornallhadeliverypoop.click
 DOMAIN,cdn.decadenza.me
 DOMAIN,cdn.img.5a09f6f2.pnalumni.dgitd.anchorbolnorth.com
-DOMAIN,cdn.img.76e1e5fa.pnalumni.dgitd.anchorbolnorth.com
 DOMAIN,cdn.remusdownloads.su
 DOMAIN,cdn.remusdownloads.to
 DOMAIN,cfmlapi.cc
@@ -98,9 +96,9 @@ DOMAIN,f.abad777.org
 DOMAIN,fe5.88kfc.org
 DOMAIN,filmydhoom.live
 DOMAIN,floors.live
-DOMAIN,forge-ember.pw
 DOMAIN,forton-apiculteur-miel-provence.live
 DOMAIN,freetrend.cc
+DOMAIN,ftp.prometeon.info
 DOMAIN,fuckrussiafuckukraine.duckdns.org
 DOMAIN,fuckthecisunion.duckdns.org
 DOMAIN,galilea-naturopati.com.aditpropertybali.space
@@ -123,7 +121,6 @@ DOMAIN,heydear.duckdns.org
 DOMAIN,hohn365wbtrynmfw57z3crqgjyu2rwlcn2mfq7j2rwyhcfxfsuanakyd.onion
 DOMAIN,homo2workersbase.xyz
 DOMAIN,howtodisappearcompletely.zip
-DOMAIN,huhowabisi.net
 DOMAIN,im.adilawa99.org
 DOMAIN,imaweirdo.my
 DOMAIN,incadmd42ytgp4hwkejirji4m6pcbacazoeic7fc5sd27nr7it5ajyqd.onion
@@ -238,7 +235,6 @@ DOMAIN,ofleax.space
 DOMAIN,opsbridge.digital
 DOMAIN,orbitwindow.cfd
 DOMAIN,orgeconomics.cyou
-DOMAIN,ou.9kio.org
 DOMAIN,owlabc.net
 DOMAIN,p.2137gang.net
 DOMAIN,p.2137gang.pl
@@ -316,7 +312,6 @@ DOMAIN,u6.adilawa99.org
 DOMAIN,u7.ajo7.org
 DOMAIN,u973.cantdown.su
 DOMAIN,ui.abad777.org
-DOMAIN,upi.log.30ca777733df8aa6e4404bd8beadb65c36105e9346e15819152e9ecc4.fd746f6f221867dd6d504e00569cc108bbf5c5e0daf7628d26285775.86174a0a1dc3dd1625fc62e486572c26425c95ffef342f6dddb5ffe0.1b1f3f2edc.7605f6.pnalumni.dgitd.anchorbolnorth.com
 DOMAIN,urbanboxed.live
 DOMAIN,v.abc69.net
 DOMAIN,v.aww88.net
@@ -335,7 +330,6 @@ DOMAIN,w2rd3n.cc
 DOMAIN,w8.abad777.org
 DOMAIN,we.adilawa99.org
 DOMAIN,wf.abad777.org
-DOMAIN,wifihgu.duckdns.org
 DOMAIN,wiki.authornation.live
 DOMAIN,wishline.xyz
 DOMAIN,wjn5eyu4jxe3e27rqrlsf7s672s37z2ivpdpdzx3r67aqzcpxpt6abqd.onion
@@ -412,10 +406,10 @@ IP-CIDR,103.83.87.173/32,no-resolve
 IP-CIDR,103.97.176.121/32,no-resolve
 IP-CIDR,104.105.4.229/32,no-resolve
 IP-CIDR,104.248.206.134/32,no-resolve
-IP-CIDR,106.12.190.248/32,no-resolve
 IP-CIDR,106.13.28.176/32,no-resolve
 IP-CIDR,106.54.1.74/32,no-resolve
 IP-CIDR,106.55.178.204/32,no-resolve
+IP-CIDR,106.75.148.37/32,no-resolve
 IP-CIDR,107.148.158.243/32,no-resolve
 IP-CIDR,109.120.178.160/32,no-resolve
 IP-CIDR,109.120.179.122/32,no-resolve
@@ -432,6 +426,7 @@ IP-CIDR,110.41.77.122/32,no-resolve
 IP-CIDR,111.170.148.132/32,no-resolve
 IP-CIDR,111.229.144.163/32,no-resolve
 IP-CIDR,111.229.162.72/32,no-resolve
+IP-CIDR,111.229.199.24/32,no-resolve
 IP-CIDR,111.230.151.198/32,no-resolve
 IP-CIDR,113.52.135.27/32,no-resolve
 IP-CIDR,114.215.184.158/32,no-resolve
@@ -493,12 +488,12 @@ IP-CIDR,145.223.69.163/32,no-resolve
 IP-CIDR,147.124.202.170/32,no-resolve
 IP-CIDR,147.124.212.179/32,no-resolve
 IP-CIDR,147.124.221.97/32,no-resolve
-IP-CIDR,147.45.116.14/32,no-resolve
 IP-CIDR,147.93.2.250/32,no-resolve
 IP-CIDR,149.104.31.151/32,no-resolve
 IP-CIDR,15.164.241.232/32,no-resolve
 IP-CIDR,15.235.65.221/32,no-resolve
 IP-CIDR,150.241.203.68/32,no-resolve
+IP-CIDR,150.241.69.22/32,no-resolve
 IP-CIDR,151.245.121.241/32,no-resolve
 IP-CIDR,152.42.135.240/32,no-resolve
 IP-CIDR,154.217.234.105/32,no-resolve
@@ -828,7 +823,6 @@ IP-CIDR,193.142.59.34/32,no-resolve
 IP-CIDR,193.148.56.145/32,no-resolve
 IP-CIDR,193.148.56.77/32,no-resolve
 IP-CIDR,193.161.193.99/32,no-resolve
-IP-CIDR,193.70.100.109/32,no-resolve
 IP-CIDR,194.59.30.237/32,no-resolve
 IP-CIDR,194.87.219.118/32,no-resolve
 IP-CIDR,195.177.94.75/32,no-resolve
@@ -853,8 +847,6 @@ IP-CIDR,211.154.24.12/32,no-resolve
 IP-CIDR,211.161.232.122/32,no-resolve
 IP-CIDR,213.100.222.58/32,no-resolve
 IP-CIDR,213.152.176.152/32,no-resolve
-IP-CIDR,213.176.72.213/32,no-resolve
-IP-CIDR,217.60.102.156/32,no-resolve
 IP-CIDR,217.60.195.167/32,no-resolve
 IP-CIDR,217.60.242.27/32,no-resolve
 IP-CIDR,222.167.252.147/32,no-resolve
@@ -889,15 +881,14 @@ IP-CIDR,38.190.224.38/32,no-resolve
 IP-CIDR,38.240.48.153/32,no-resolve
 IP-CIDR,38.240.56.216/32,no-resolve
 IP-CIDR,38.242.147.58/32,no-resolve
+IP-CIDR,38.255.34.171/32,no-resolve
 IP-CIDR,38.54.40.15/32,no-resolve
 IP-CIDR,38.55.252.139/32,no-resolve
 IP-CIDR,38.60.179.108/32,no-resolve
 IP-CIDR,38.60.246.113/32,no-resolve
 IP-CIDR,38.76.195.64/32,no-resolve
-IP-CIDR,38.87.116.68/32,no-resolve
 IP-CIDR,39.100.80.24/32,no-resolve
 IP-CIDR,39.103.98.161/32,no-resolve
-IP-CIDR,39.104.48.247/32,no-resolve
 IP-CIDR,39.106.251.194/32,no-resolve
 IP-CIDR,39.96.202.122/32,no-resolve
 IP-CIDR,41.234.6.114/32,no-resolve
@@ -906,15 +897,12 @@ IP-CIDR,42.51.33.180/32,no-resolve
 IP-CIDR,43.136.40.48/32,no-resolve
 IP-CIDR,43.142.137.169/32,no-resolve
 IP-CIDR,43.142.143.95/32,no-resolve
-IP-CIDR,43.160.211.117/32,no-resolve
 IP-CIDR,43.203.112.69/32,no-resolve
 IP-CIDR,43.242.128.207/32,no-resolve
-IP-CIDR,43.242.128.210/32,no-resolve
 IP-CIDR,43.248.102.182/32,no-resolve
 IP-CIDR,43.99.14.199/32,no-resolve
 IP-CIDR,45.119.99.8/32,no-resolve
 IP-CIDR,45.128.12.14/32,no-resolve
-IP-CIDR,45.142.140.138/32,no-resolve
 IP-CIDR,45.142.141.139/32,no-resolve
 IP-CIDR,45.150.109.94/32,no-resolve
 IP-CIDR,45.192.169.57/32,no-resolve
@@ -929,7 +917,6 @@ IP-CIDR,45.91.202.47/32,no-resolve
 IP-CIDR,45.95.2.245/32,no-resolve
 IP-CIDR,46.101.198.130/32,no-resolve
 IP-CIDR,46.101.249.247/32,no-resolve
-IP-CIDR,46.19.140.45/32,no-resolve
 IP-CIDR,46.246.6.8/32,no-resolve
 IP-CIDR,47.100.187.173/32,no-resolve
 IP-CIDR,47.104.30.212/32,no-resolve
@@ -956,7 +943,6 @@ IP-CIDR,5.230.56.196/32,no-resolve
 IP-CIDR,5.249.163.245/32,no-resolve
 IP-CIDR,5.83.138.155/32,no-resolve
 IP-CIDR,54.71.81.78/32,no-resolve
-IP-CIDR,57.129.169.16/32,no-resolve
 IP-CIDR,60.205.221.206/32,no-resolve
 IP-CIDR,62.234.215.37/32,no-resolve
 IP-CIDR,64.176.37.39/32,no-resolve
@@ -978,7 +964,6 @@ IP-CIDR,8.148.27.183/32,no-resolve
 IP-CIDR,8.148.29.180/32,no-resolve
 IP-CIDR,8.156.80.127/32,no-resolve
 IP-CIDR,8.160.179.57/32,no-resolve
-IP-CIDR,8.163.76.203/32,no-resolve
 IP-CIDR,8.216.63.147/32,no-resolve
 IP-CIDR,8.218.8.170/32,no-resolve
 IP-CIDR,80.190.73.17/32,no-resolve
