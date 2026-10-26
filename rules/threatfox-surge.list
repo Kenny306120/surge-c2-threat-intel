@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-26T00:24:44.102971+00:00
+# Generated UTC 2026-10-26T01:21:25.783261+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -444,7 +444,6 @@ IP-CIDR,132.243.199.24/32,no-resolve
 IP-CIDR,134.209.156.186/32,no-resolve
 IP-CIDR,135.125.222.22/32,no-resolve
 IP-CIDR,136.148.69.233/32,no-resolve
-IP-CIDR,137.220.242.14/32,no-resolve
 IP-CIDR,138.68.170.147/32,no-resolve
 IP-CIDR,139.162.31.215/32,no-resolve
 IP-CIDR,139.180.191.42/32,no-resolve
@@ -924,6 +923,7 @@ IP-CIDR,47.122.120.188/32,no-resolve
 IP-CIDR,47.129.52.27/32,no-resolve
 IP-CIDR,47.236.70.111/32,no-resolve
 IP-CIDR,47.237.142.244/32,no-resolve
+IP-CIDR,47.239.212.183/32,no-resolve
 IP-CIDR,47.243.109.132/32,no-resolve
 IP-CIDR,47.92.113.149/32,no-resolve
 IP-CIDR,47.94.132.198/32,no-resolve
@@ -957,6 +957,7 @@ IP-CIDR,72.142.102.158/32,no-resolve
 IP-CIDR,74.0.32.71/32,no-resolve
 IP-CIDR,74.152.32.55/32,no-resolve
 IP-CIDR,77.239.124.135/32,no-resolve
+IP-CIDR,8.134.160.8/32,no-resolve
 IP-CIDR,8.145.41.135/32,no-resolve
 IP-CIDR,8.148.20.104/32,no-resolve
 IP-CIDR,8.148.27.183/32,no-resolve
@@ -965,7 +966,6 @@ IP-CIDR,8.156.80.127/32,no-resolve
 IP-CIDR,8.160.179.57/32,no-resolve
 IP-CIDR,8.163.76.203/32,no-resolve
 IP-CIDR,8.216.63.147/32,no-resolve
-IP-CIDR,8.217.47.159/32,no-resolve
 IP-CIDR,8.218.8.170/32,no-resolve
 IP-CIDR,80.190.73.17/32,no-resolve
 IP-CIDR,80.190.79.39/32,no-resolve
