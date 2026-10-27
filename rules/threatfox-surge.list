@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-27T14:15:19.822915+00:00
+# Generated UTC 2026-10-27T15:13:12.978940+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -151,6 +151,7 @@ DOMAIN,knecibfact4epasdbj7dzwfpl5k54z3g22vvcnxkvnflnobhxycolpyd.onion
 DOMAIN,kornikook12.icu
 DOMAIN,ky2i1tk4.icu
 DOMAIN,l.9winn.org
+DOMAIN,l5.aeon888link.org
 DOMAIN,labottegadibottone.live
 DOMAIN,labutotolab.space
 DOMAIN,lieblingstasche.live
@@ -384,6 +385,7 @@ DOMAIN,zen.ayxandevgang.workers.dev
 DOMAIN,zfs.agenpr.org
 DOMAIN,zurggoyttjof21.cc
 IP-CIDR,1.117.75.113/32,no-resolve
+IP-CIDR,1.14.181.139/32,no-resolve
 IP-CIDR,1.94.100.198/32,no-resolve
 IP-CIDR,101.35.26.34/32,no-resolve
 IP-CIDR,101.42.183.92/32,no-resolve
@@ -467,6 +469,7 @@ IP-CIDR,139.162.31.215/32,no-resolve
 IP-CIDR,139.180.191.42/32,no-resolve
 IP-CIDR,139.180.192.248/32,no-resolve
 IP-CIDR,139.196.107.4/32,no-resolve
+IP-CIDR,139.196.239.236/32,no-resolve
 IP-CIDR,14.242.243.212/32,no-resolve
 IP-CIDR,141.11.32.132/32,no-resolve
 IP-CIDR,141.98.10.184/32,no-resolve
@@ -794,6 +797,7 @@ IP-CIDR,178.16.53.76/32,no-resolve
 IP-CIDR,179.199.199.11/32,no-resolve
 IP-CIDR,179.199.199.60/32,no-resolve
 IP-CIDR,18.118.229.48/32,no-resolve
+IP-CIDR,182.16.98.82/32,no-resolve
 IP-CIDR,182.16.98.86/32,no-resolve
 IP-CIDR,182.16.98.91/32,no-resolve
 IP-CIDR,182.16.98.94/32,no-resolve
@@ -839,6 +843,7 @@ IP-CIDR,212.192.214.7/32,no-resolve
 IP-CIDR,213.100.222.58/32,no-resolve
 IP-CIDR,213.152.176.152/32,no-resolve
 IP-CIDR,217.60.195.167/32,no-resolve
+IP-CIDR,217.60.195.43/32,no-resolve
 IP-CIDR,217.60.242.27/32,no-resolve
 IP-CIDR,218.237.58.53/32,no-resolve
 IP-CIDR,222.167.252.147/32,no-resolve
