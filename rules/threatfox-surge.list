@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-27T23:03:18.747306+00:00
+# Generated UTC 2026-10-27T23:55:38.436127+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -142,6 +142,7 @@ DOMAIN,knecibfact4epasdbj7dzwfpl5k54z3g22vvcnxkvnflnobhxycolpyd.onion
 DOMAIN,kornikook12.icu
 DOMAIN,ky2i1tk4.icu
 DOMAIN,l.9winn.org
+DOMAIN,l0.aeon888link.org
 DOMAIN,l5.aeon888link.org
 DOMAIN,labottegadibottone.live
 DOMAIN,labutotolab.space
@@ -360,6 +361,7 @@ DOMAIN,yeahp.live
 DOMAIN,yk7u8uk61r.icu
 DOMAIN,yu.agenplay89.org
 DOMAIN,yu8z3uk.space
+DOMAIN,yw.bala7.org
 DOMAIN,yyjcykk6afxf6vtteeullde6qokefy7phsuxbplcswdqxjdqhkcf6ryd.onion
 DOMAIN,z.a9bet.org
 DOMAIN,z.abc22.org
@@ -655,7 +657,6 @@ IP-CIDR,156.240.41.32/32,no-resolve
 IP-CIDR,156.240.41.33/32,no-resolve
 IP-CIDR,156.240.41.34/32,no-resolve
 IP-CIDR,156.240.41.35/32,no-resolve
-IP-CIDR,156.240.41.36/32,no-resolve
 IP-CIDR,156.240.41.37/32,no-resolve
 IP-CIDR,156.240.41.38/32,no-resolve
 IP-CIDR,156.240.41.40/32,no-resolve
@@ -666,15 +667,11 @@ IP-CIDR,156.240.41.44/32,no-resolve
 IP-CIDR,156.240.41.45/32,no-resolve
 IP-CIDR,156.240.41.46/32,no-resolve
 IP-CIDR,156.240.41.47/32,no-resolve
-IP-CIDR,156.240.41.48/32,no-resolve
-IP-CIDR,156.240.41.49/32,no-resolve
 IP-CIDR,156.240.41.5/32,no-resolve
 IP-CIDR,156.240.41.50/32,no-resolve
-IP-CIDR,156.240.41.51/32,no-resolve
 IP-CIDR,156.240.41.52/32,no-resolve
 IP-CIDR,156.240.41.53/32,no-resolve
 IP-CIDR,156.240.41.54/32,no-resolve
-IP-CIDR,156.240.41.55/32,no-resolve
 IP-CIDR,156.240.41.56/32,no-resolve
 IP-CIDR,156.240.41.57/32,no-resolve
 IP-CIDR,156.240.41.58/32,no-resolve
@@ -768,6 +765,7 @@ IP-CIDR,179.199.199.11/32,no-resolve
 IP-CIDR,179.199.199.60/32,no-resolve
 IP-CIDR,18.118.229.48/32,no-resolve
 IP-CIDR,182.16.98.82/32,no-resolve
+IP-CIDR,182.16.98.83/32,no-resolve
 IP-CIDR,182.16.98.84/32,no-resolve
 IP-CIDR,182.16.98.86/32,no-resolve
 IP-CIDR,182.16.98.91/32,no-resolve
@@ -919,7 +917,6 @@ IP-CIDR,77.90.63.60/32,no-resolve
 IP-CIDR,77.90.63.62/32,no-resolve
 IP-CIDR,8.134.160.8/32,no-resolve
 IP-CIDR,8.145.41.135/32,no-resolve
-IP-CIDR,8.148.27.183/32,no-resolve
 IP-CIDR,8.148.29.180/32,no-resolve
 IP-CIDR,8.156.80.127/32,no-resolve
 IP-CIDR,8.160.179.57/32,no-resolve
