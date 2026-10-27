@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-27T09:30:32.060467+00:00
+# Generated UTC 2026-10-27T10:29:22.508715+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -259,7 +259,6 @@ DOMAIN,q.9winn.org
 DOMAIN,q5tb6pspk3ndnjb3hrjncxwjhcbdjs3gneyucav5nniv4zj7od5tehad.onion
 DOMAIN,qrgzshm3khqnud3kfcym4uw3zezjwaek35x6mjnflun4txxglm2cpoid.onion
 DOMAIN,qubitblockchain.space
-DOMAIN,r.88kfc.org
 DOMAIN,r.abc212.org
 DOMAIN,relay.reelxgrab.cc
 DOMAIN,remus.la
@@ -776,7 +775,6 @@ IP-CIDR,172.111.150.134/32,no-resolve
 IP-CIDR,172.111.150.137/32,no-resolve
 IP-CIDR,172.233.28.7/32,no-resolve
 IP-CIDR,172.233.28.8/32,no-resolve
-IP-CIDR,172.94.111.36/32,no-resolve
 IP-CIDR,172.94.111.51/32,no-resolve
 IP-CIDR,172.94.125.5/32,no-resolve
 IP-CIDR,173.249.215.187/32,no-resolve
@@ -813,7 +811,6 @@ IP-CIDR,193.142.59.34/32,no-resolve
 IP-CIDR,193.148.56.145/32,no-resolve
 IP-CIDR,193.148.56.77/32,no-resolve
 IP-CIDR,193.161.193.99/32,no-resolve
-IP-CIDR,194.59.30.237/32,no-resolve
 IP-CIDR,194.87.219.118/32,no-resolve
 IP-CIDR,196.196.208.18/32,no-resolve
 IP-CIDR,198.44.116.156/32,no-resolve
@@ -828,7 +825,6 @@ IP-CIDR,204.12.218.236/32,no-resolve
 IP-CIDR,204.168.137.221/32,no-resolve
 IP-CIDR,206.123.137.134/32,no-resolve
 IP-CIDR,206.123.137.162/32,no-resolve
-IP-CIDR,206.123.152.70/32,no-resolve
 IP-CIDR,207.174.31.71/32,no-resolve
 IP-CIDR,207.57.123.251/32,no-resolve
 IP-CIDR,209.200.246.18/32,no-resolve
@@ -859,7 +855,6 @@ IP-CIDR,31.56.209.165/32,no-resolve
 IP-CIDR,31.56.209.86/32,no-resolve
 IP-CIDR,31.57.201.47/32,no-resolve
 IP-CIDR,31.76.252.141/32,no-resolve
-IP-CIDR,31.77.168.155/32,no-resolve
 IP-CIDR,31.77.220.7/32,no-resolve
 IP-CIDR,34.41.139.193/32,no-resolve
 IP-CIDR,37.128.206.215/32,no-resolve
@@ -920,7 +915,6 @@ IP-CIDR,47.95.140.79/32,no-resolve
 IP-CIDR,47.95.31.143/32,no-resolve
 IP-CIDR,47.98.124.244/32,no-resolve
 IP-CIDR,47.98.207.191/32,no-resolve
-IP-CIDR,49.233.175.166/32,no-resolve
 IP-CIDR,49.235.158.141/32,no-resolve
 IP-CIDR,5.175.213.199/32,no-resolve
 IP-CIDR,5.175.222.236/32,no-resolve
