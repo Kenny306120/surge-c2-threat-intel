@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-27T03:02:37.906851+00:00
+# Generated UTC 2026-10-27T04:02:41.090868+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -225,6 +225,7 @@ DOMAIN,november.read-books.org
 DOMAIN,nrr5343n4rl7ymxhajoplth5bvrfdn5dm4pt4cifa2ypiqpvdk7l3xid.onion
 DOMAIN,nvc-info.beer
 DOMAIN,o.a9bet.org
+DOMAIN,o.adwgamestore.org
 DOMAIN,object.glimmerpull.cc
 DOMAIN,ofleax.space
 DOMAIN,opsbridge.digital
@@ -481,7 +482,6 @@ IP-CIDR,147.124.221.97/32,no-resolve
 IP-CIDR,147.93.2.250/32,no-resolve
 IP-CIDR,149.104.31.151/32,no-resolve
 IP-CIDR,15.164.241.232/32,no-resolve
-IP-CIDR,15.235.65.221/32,no-resolve
 IP-CIDR,150.241.203.68/32,no-resolve
 IP-CIDR,150.241.69.22/32,no-resolve
 IP-CIDR,151.245.121.241/32,no-resolve
@@ -570,7 +570,6 @@ IP-CIDR,156.240.41.164/32,no-resolve
 IP-CIDR,156.240.41.165/32,no-resolve
 IP-CIDR,156.240.41.166/32,no-resolve
 IP-CIDR,156.240.41.167/32,no-resolve
-IP-CIDR,156.240.41.168/32,no-resolve
 IP-CIDR,156.240.41.169/32,no-resolve
 IP-CIDR,156.240.41.17/32,no-resolve
 IP-CIDR,156.240.41.170/32,no-resolve
@@ -860,6 +859,7 @@ IP-CIDR,31.57.201.47/32,no-resolve
 IP-CIDR,31.76.252.141/32,no-resolve
 IP-CIDR,31.77.168.155/32,no-resolve
 IP-CIDR,31.77.220.7/32,no-resolve
+IP-CIDR,34.41.139.193/32,no-resolve
 IP-CIDR,35.72.209.50/32,no-resolve
 IP-CIDR,37.128.206.215/32,no-resolve
 IP-CIDR,37.204.245.214/32,no-resolve
