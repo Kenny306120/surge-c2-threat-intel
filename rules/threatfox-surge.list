@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-27T21:33:31.959432+00:00
+# Generated UTC 2026-10-27T22:28:04.421475+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -204,7 +204,6 @@ DOMAIN,moneyhub-xakirayotov.click
 DOMAIN,moneyhub-yasujaviqiw.click
 DOMAIN,moneyhub-zikasepipor.click
 DOMAIN,mt.acunbet89.org
-DOMAIN,n.88kfc.org
 DOMAIN,n.9winn.org
 DOMAIN,n.abc22.org
 DOMAIN,n.acunbet89.org
@@ -283,7 +282,6 @@ DOMAIN,stratos30.com
 DOMAIN,sullivanauctioneers.live
 DOMAIN,surexglobaldelivery.icu
 DOMAIN,syumai.life
-DOMAIN,t.9winn.org
 DOMAIN,t.aww88.net
 DOMAIN,t.ayu99.pro
 DOMAIN,t7.abad777.org
@@ -424,6 +422,7 @@ IP-CIDR,116.62.81.149/32,no-resolve
 IP-CIDR,117.72.205.100/32,no-resolve
 IP-CIDR,118.25.147.157/32,no-resolve
 IP-CIDR,119.42.148.187/32,no-resolve
+IP-CIDR,119.42.148.189/32,no-resolve
 IP-CIDR,119.42.148.190/32,no-resolve
 IP-CIDR,123.123.74.83/32,no-resolve
 IP-CIDR,123.207.214.58/32,no-resolve
@@ -583,7 +582,6 @@ IP-CIDR,156.240.41.19/32,no-resolve
 IP-CIDR,156.240.41.190/32,no-resolve
 IP-CIDR,156.240.41.191/32,no-resolve
 IP-CIDR,156.240.41.192/32,no-resolve
-IP-CIDR,156.240.41.193/32,no-resolve
 IP-CIDR,156.240.41.194/32,no-resolve
 IP-CIDR,156.240.41.195/32,no-resolve
 IP-CIDR,156.240.41.196/32,no-resolve
@@ -645,7 +643,6 @@ IP-CIDR,156.240.41.25/32,no-resolve
 IP-CIDR,156.240.41.250/32,no-resolve
 IP-CIDR,156.240.41.251/32,no-resolve
 IP-CIDR,156.240.41.252/32,no-resolve
-IP-CIDR,156.240.41.253/32,no-resolve
 IP-CIDR,156.240.41.254/32,no-resolve
 IP-CIDR,156.240.41.26/32,no-resolve
 IP-CIDR,156.240.41.27/32,no-resolve
@@ -661,8 +658,6 @@ IP-CIDR,156.240.41.35/32,no-resolve
 IP-CIDR,156.240.41.36/32,no-resolve
 IP-CIDR,156.240.41.37/32,no-resolve
 IP-CIDR,156.240.41.38/32,no-resolve
-IP-CIDR,156.240.41.39/32,no-resolve
-IP-CIDR,156.240.41.4/32,no-resolve
 IP-CIDR,156.240.41.40/32,no-resolve
 IP-CIDR,156.240.41.41/32,no-resolve
 IP-CIDR,156.240.41.42/32,no-resolve
@@ -929,6 +924,7 @@ IP-CIDR,8.148.29.180/32,no-resolve
 IP-CIDR,8.156.80.127/32,no-resolve
 IP-CIDR,8.160.179.57/32,no-resolve
 IP-CIDR,8.216.63.147/32,no-resolve
+IP-CIDR,8.217.91.135/32,no-resolve
 IP-CIDR,8.218.8.170/32,no-resolve
 IP-CIDR,80.190.73.17/32,no-resolve
 IP-CIDR,80.190.79.39/32,no-resolve
