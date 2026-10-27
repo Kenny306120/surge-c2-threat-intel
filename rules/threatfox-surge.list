@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-27T20:01:44.500955+00:00
+# Generated UTC 2026-10-27T21:00:08.481245+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -233,6 +233,7 @@ DOMAIN,p.2137gang.pl
 DOMAIN,p.2137gang.shop
 DOMAIN,p.2137gang.st
 DOMAIN,p.2137gang.store
+DOMAIN,p.bala7.org
 DOMAIN,p6hck3674wix7hcbeaxndqu45vkiafwokbtojykqxjwqkzwel3js3fqd.onion
 DOMAIN,panel.vidar.to
 DOMAIN,payload6eualw6kni6v2lqn7ovjcl76ojx25z5unsyvqo3lbqy3bo5qd.onion
@@ -538,13 +539,11 @@ IP-CIDR,156.240.41.145/32,no-resolve
 IP-CIDR,156.240.41.146/32,no-resolve
 IP-CIDR,156.240.41.147/32,no-resolve
 IP-CIDR,156.240.41.148/32,no-resolve
-IP-CIDR,156.240.41.149/32,no-resolve
 IP-CIDR,156.240.41.15/32,no-resolve
 IP-CIDR,156.240.41.150/32,no-resolve
 IP-CIDR,156.240.41.151/32,no-resolve
 IP-CIDR,156.240.41.152/32,no-resolve
 IP-CIDR,156.240.41.153/32,no-resolve
-IP-CIDR,156.240.41.154/32,no-resolve
 IP-CIDR,156.240.41.155/32,no-resolve
 IP-CIDR,156.240.41.156/32,no-resolve
 IP-CIDR,156.240.41.157/32,no-resolve
@@ -559,8 +558,6 @@ IP-CIDR,156.240.41.164/32,no-resolve
 IP-CIDR,156.240.41.165/32,no-resolve
 IP-CIDR,156.240.41.166/32,no-resolve
 IP-CIDR,156.240.41.167/32,no-resolve
-IP-CIDR,156.240.41.169/32,no-resolve
-IP-CIDR,156.240.41.17/32,no-resolve
 IP-CIDR,156.240.41.170/32,no-resolve
 IP-CIDR,156.240.41.171/32,no-resolve
 IP-CIDR,156.240.41.172/32,no-resolve
@@ -568,7 +565,6 @@ IP-CIDR,156.240.41.173/32,no-resolve
 IP-CIDR,156.240.41.174/32,no-resolve
 IP-CIDR,156.240.41.175/32,no-resolve
 IP-CIDR,156.240.41.176/32,no-resolve
-IP-CIDR,156.240.41.177/32,no-resolve
 IP-CIDR,156.240.41.178/32,no-resolve
 IP-CIDR,156.240.41.179/32,no-resolve
 IP-CIDR,156.240.41.18/32,no-resolve
@@ -768,6 +764,7 @@ IP-CIDR,172.94.125.5/32,no-resolve
 IP-CIDR,173.249.215.187/32,no-resolve
 IP-CIDR,175.178.126.48/32,no-resolve
 IP-CIDR,176.121.51.1/32,no-resolve
+IP-CIDR,176.234.231.136/32,no-resolve
 IP-CIDR,176.65.132.7/32,no-resolve
 IP-CIDR,176.65.139.201/32,no-resolve
 IP-CIDR,176.65.139.51/32,no-resolve
@@ -786,6 +783,8 @@ IP-CIDR,182.61.148.201/32,no-resolve
 IP-CIDR,183.60.176.124/32,no-resolve
 IP-CIDR,184.194.188.194/32,no-resolve
 IP-CIDR,185.173.235.233/32,no-resolve
+IP-CIDR,185.177.72.24/32,no-resolve
+IP-CIDR,185.177.72.38/32,no-resolve
 IP-CIDR,185.193.125.201/32,no-resolve
 IP-CIDR,185.245.107.8/32,no-resolve
 IP-CIDR,188.166.152.179/32,no-resolve
@@ -912,6 +911,7 @@ IP-CIDR,5.83.138.155/32,no-resolve
 IP-CIDR,54.71.81.78/32,no-resolve
 IP-CIDR,60.205.221.206/32,no-resolve
 IP-CIDR,64.176.37.39/32,no-resolve
+IP-CIDR,64.176.80.211/32,no-resolve
 IP-CIDR,64.176.80.91/32,no-resolve
 IP-CIDR,64.89.161.138/32,no-resolve
 IP-CIDR,67.207.95.101/32,no-resolve
