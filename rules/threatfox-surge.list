@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-28T00:33:38.611306+00:00
+# Generated UTC 2026-10-28T01:45:09.702139+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -205,7 +205,6 @@ DOMAIN,moneyhub-xakirayotov.click
 DOMAIN,moneyhub-yasujaviqiw.click
 DOMAIN,moneyhub-zikasepipor.click
 DOMAIN,mt.acunbet89.org
-DOMAIN,n.9winn.org
 DOMAIN,n.abc22.org
 DOMAIN,n.acunbet89.org
 DOMAIN,n3.acunbet89.org
@@ -745,7 +744,6 @@ IP-CIDR,172.111.150.137/32,no-resolve
 IP-CIDR,172.233.28.7/32,no-resolve
 IP-CIDR,172.233.28.8/32,no-resolve
 IP-CIDR,172.93.187.71/32,no-resolve
-IP-CIDR,172.94.111.51/32,no-resolve
 IP-CIDR,172.94.125.5/32,no-resolve
 IP-CIDR,173.249.215.187/32,no-resolve
 IP-CIDR,175.178.126.48/32,no-resolve
@@ -775,6 +773,7 @@ IP-CIDR,185.177.72.38/32,no-resolve
 IP-CIDR,185.193.125.201/32,no-resolve
 IP-CIDR,185.245.107.8/32,no-resolve
 IP-CIDR,188.166.152.179/32,no-resolve
+IP-CIDR,188.166.229.242/32,no-resolve
 IP-CIDR,191.217.203.232/32,no-resolve
 IP-CIDR,192.144.168.105/32,no-resolve
 IP-CIDR,192.169.69.25/32,no-resolve
@@ -801,7 +800,6 @@ IP-CIDR,206.123.137.162/32,no-resolve
 IP-CIDR,207.174.31.71/32,no-resolve
 IP-CIDR,207.57.123.251/32,no-resolve
 IP-CIDR,209.200.246.18/32,no-resolve
-IP-CIDR,209.54.102.133/32,no-resolve
 IP-CIDR,211.154.24.12/32,no-resolve
 IP-CIDR,211.161.232.122/32,no-resolve
 IP-CIDR,212.192.214.7/32,no-resolve
