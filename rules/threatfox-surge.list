@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-28T03:33:00.823277+00:00
+# Generated UTC 2026-10-28T04:33:24.484819+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -51,7 +51,6 @@ DOMAIN,batchat.icu
 DOMAIN,bloxstrap.top
 DOMAIN,bq2uu6vdafrufhfwheghkmurzogtmum67ffah7sqkqyzw36wps2l6xqd.onion
 DOMAIN,btorsercoyt31.cc
-DOMAIN,c.9winn.org
 DOMAIN,c.adilawa99.org
 DOMAIN,c.amo98.org
 DOMAIN,c.aot88.com
@@ -147,6 +146,7 @@ DOMAIN,l0.aeon888link.org
 DOMAIN,l5.aeon888link.org
 DOMAIN,labottegadibottone.live
 DOMAIN,labutotolab.space
+DOMAIN,larpestan.duckdns.org
 DOMAIN,lieblingstasche.live
 DOMAIN,littlevibe.space
 DOMAIN,lotto38.live
@@ -492,11 +492,6 @@ IP-CIDR,156.240.14.158/32,no-resolve
 IP-CIDR,156.240.41.10/32,no-resolve
 IP-CIDR,156.240.41.103/32,no-resolve
 IP-CIDR,156.240.41.106/32,no-resolve
-IP-CIDR,156.240.41.107/32,no-resolve
-IP-CIDR,156.240.41.108/32,no-resolve
-IP-CIDR,156.240.41.109/32,no-resolve
-IP-CIDR,156.240.41.11/32,no-resolve
-IP-CIDR,156.240.41.110/32,no-resolve
 IP-CIDR,156.240.41.111/32,no-resolve
 IP-CIDR,156.240.41.112/32,no-resolve
 IP-CIDR,156.240.41.113/32,no-resolve
@@ -755,7 +750,9 @@ IP-CIDR,18.118.229.48/32,no-resolve
 IP-CIDR,182.16.98.82/32,no-resolve
 IP-CIDR,182.16.98.83/32,no-resolve
 IP-CIDR,182.16.98.84/32,no-resolve
+IP-CIDR,182.16.98.85/32,no-resolve
 IP-CIDR,182.16.98.86/32,no-resolve
+IP-CIDR,182.16.98.88/32,no-resolve
 IP-CIDR,182.16.98.91/32,no-resolve
 IP-CIDR,182.16.98.94/32,no-resolve
 IP-CIDR,182.61.148.201/32,no-resolve
