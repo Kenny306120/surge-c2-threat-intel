@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-28T16:40:24.400072+00:00
+# Generated UTC 2026-10-28T17:35:46.134171+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -249,6 +249,7 @@ DOMAIN,q3.aeon888link.org
 DOMAIN,q5tb6pspk3ndnjb3hrjncxwjhcbdjs3gneyucav5nniv4zj7od5tehad.onion
 DOMAIN,qrgzshm3khqnud3kfcym4uw3zezjwaek35x6mjnflun4txxglm2cpoid.onion
 DOMAIN,qubitblockchain.space
+DOMAIN,r.bamto.org
 DOMAIN,relay.reelxgrab.cc
 DOMAIN,remus.la
 DOMAIN,remusapi.la
@@ -502,11 +503,6 @@ IP-CIDR,156.240.41.165/32,no-resolve
 IP-CIDR,156.240.41.167/32,no-resolve
 IP-CIDR,156.240.41.174/32,no-resolve
 IP-CIDR,156.240.41.176/32,no-resolve
-IP-CIDR,156.240.41.181/32,no-resolve
-IP-CIDR,156.240.41.182/32,no-resolve
-IP-CIDR,156.240.41.183/32,no-resolve
-IP-CIDR,156.240.41.184/32,no-resolve
-IP-CIDR,156.240.41.185/32,no-resolve
 IP-CIDR,156.240.41.186/32,no-resolve
 IP-CIDR,156.240.41.187/32,no-resolve
 IP-CIDR,156.240.41.188/32,no-resolve
