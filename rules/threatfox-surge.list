@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-28T17:35:46.134171+00:00
+# Generated UTC 2026-10-28T18:32:26.036034+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -306,7 +306,6 @@ DOMAIN,vqyux3rgt3ips2kecakobstj4ht2bmfjvpqdignb6zpjpstkmbun5fqd.onion
 DOMAIN,w.abc69.net
 DOMAIN,w1cfpbqk7n.icu
 DOMAIN,w2rd3n.cc
-DOMAIN,w8.abad777.org
 DOMAIN,we.adilawa99.org
 DOMAIN,wifisucks.duckdns.org
 DOMAIN,wiki.authornation.live
@@ -428,12 +427,9 @@ IP-CIDR,123.57.30.209/32,no-resolve
 IP-CIDR,124.220.22.82/32,no-resolve
 IP-CIDR,124.222.147.241/32,no-resolve
 IP-CIDR,124.71.65.203/32,no-resolve
-IP-CIDR,128.90.102.172/32,no-resolve
 IP-CIDR,128.90.102.42/32,no-resolve
 IP-CIDR,128.90.113.30/32,no-resolve
 IP-CIDR,129.121.115.43/32,no-resolve
-IP-CIDR,13.140.228.125/32,no-resolve
-IP-CIDR,13.140.40.133/32,no-resolve
 IP-CIDR,13.202.120.94/32,no-resolve
 IP-CIDR,13.60.4.205/32,no-resolve
 IP-CIDR,13.62.46.62/32,no-resolve
@@ -464,6 +460,7 @@ IP-CIDR,144.172.103.172/32,no-resolve
 IP-CIDR,144.172.103.188/32,no-resolve
 IP-CIDR,144.31.108.194/32,no-resolve
 IP-CIDR,144.31.57.121/32,no-resolve
+IP-CIDR,144.31.59.27/32,no-resolve
 IP-CIDR,145.223.69.163/32,no-resolve
 IP-CIDR,146.190.252.67/32,no-resolve
 IP-CIDR,146.70.169.146/32,no-resolve
@@ -503,12 +500,7 @@ IP-CIDR,156.240.41.165/32,no-resolve
 IP-CIDR,156.240.41.167/32,no-resolve
 IP-CIDR,156.240.41.174/32,no-resolve
 IP-CIDR,156.240.41.176/32,no-resolve
-IP-CIDR,156.240.41.186/32,no-resolve
-IP-CIDR,156.240.41.187/32,no-resolve
 IP-CIDR,156.240.41.188/32,no-resolve
-IP-CIDR,156.240.41.189/32,no-resolve
-IP-CIDR,156.240.41.19/32,no-resolve
-IP-CIDR,156.240.41.190/32,no-resolve
 IP-CIDR,156.240.41.191/32,no-resolve
 IP-CIDR,156.240.41.192/32,no-resolve
 IP-CIDR,156.240.41.194/32,no-resolve
@@ -844,12 +836,10 @@ IP-CIDR,8.160.179.57/32,no-resolve
 IP-CIDR,8.216.63.147/32,no-resolve
 IP-CIDR,8.217.91.135/32,no-resolve
 IP-CIDR,8.218.8.170/32,no-resolve
-IP-CIDR,80.190.73.17/32,no-resolve
 IP-CIDR,80.190.79.39/32,no-resolve
 IP-CIDR,80.253.249.242/32,no-resolve
 IP-CIDR,80.96.58.22/32,no-resolve
 IP-CIDR,81.71.128.221/32,no-resolve
-IP-CIDR,82.158.192.152/32,no-resolve
 IP-CIDR,83.97.20.250/32,no-resolve
 IP-CIDR,84.32.149.191/32,no-resolve
 IP-CIDR,85.11.167.7/32,no-resolve
