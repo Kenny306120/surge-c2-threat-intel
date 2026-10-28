@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-28T15:41:02.069694+00:00
+# Generated UTC 2026-10-28T16:40:24.400072+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -49,7 +49,6 @@ DOMAIN,bapeshop.us
 DOMAIN,batchat.icu
 DOMAIN,bloxstrap.top
 DOMAIN,bq2uu6vdafrufhfwheghkmurzogtmum67ffah7sqkqyzw36wps2l6xqd.onion
-DOMAIN,btorsercoyt31.cc
 DOMAIN,c.adilawa99.org
 DOMAIN,c.amo98.org
 DOMAIN,c.aot88.com
@@ -128,8 +127,8 @@ DOMAIN,j22g4aqk.icu
 DOMAIN,jf.piizeaa.shop
 DOMAIN,jj.adwgamestore.org
 DOMAIN,jj.bala7.org
-DOMAIN,jscdncloude.beer
 DOMAIN,jtf.adilawa99.org
+DOMAIN,jxk.imarapi.st
 DOMAIN,k.abc22.org
 DOMAIN,k.ajo7.org
 DOMAIN,k.bala7.org
@@ -144,6 +143,7 @@ DOMAIN,l5.aeon888link.org
 DOMAIN,labottegadibottone.live
 DOMAIN,labutotolab.space
 DOMAIN,larpestan.duckdns.org
+DOMAIN,lb.heronpull.cc
 DOMAIN,lieblingstasche.live
 DOMAIN,lift50.com
 DOMAIN,littlevibe.space
@@ -223,7 +223,6 @@ DOMAIN,ofleax.space
 DOMAIN,oj.aeon888link.org
 DOMAIN,orgeconomics.cyou
 DOMAIN,os.aeon888link.org
-DOMAIN,owlabc.net
 DOMAIN,p.2137gang.net
 DOMAIN,p.2137gang.pl
 DOMAIN,p.2137gang.shop
@@ -279,6 +278,7 @@ DOMAIN,stratos30.com
 DOMAIN,sullivanauctioneers.live
 DOMAIN,surexglobaldelivery.icu
 DOMAIN,syumai.life
+DOMAIN,t-smc.top
 DOMAIN,t.aww88.net
 DOMAIN,t.ayu99.pro
 DOMAIN,tb.abad777.org
@@ -424,13 +424,11 @@ IP-CIDR,123.123.74.83/32,no-resolve
 IP-CIDR,123.207.214.58/32,no-resolve
 IP-CIDR,123.56.74.141/32,no-resolve
 IP-CIDR,123.57.30.209/32,no-resolve
-IP-CIDR,124.198.132.174/32,no-resolve
 IP-CIDR,124.220.22.82/32,no-resolve
 IP-CIDR,124.222.147.241/32,no-resolve
 IP-CIDR,124.71.65.203/32,no-resolve
 IP-CIDR,128.90.102.172/32,no-resolve
 IP-CIDR,128.90.102.42/32,no-resolve
-IP-CIDR,128.90.102.92/32,no-resolve
 IP-CIDR,128.90.113.30/32,no-resolve
 IP-CIDR,129.121.115.43/32,no-resolve
 IP-CIDR,13.140.228.125/32,no-resolve
@@ -502,13 +500,8 @@ IP-CIDR,156.240.41.162/32,no-resolve
 IP-CIDR,156.240.41.163/32,no-resolve
 IP-CIDR,156.240.41.165/32,no-resolve
 IP-CIDR,156.240.41.167/32,no-resolve
-IP-CIDR,156.240.41.172/32,no-resolve
-IP-CIDR,156.240.41.173/32,no-resolve
 IP-CIDR,156.240.41.174/32,no-resolve
 IP-CIDR,156.240.41.176/32,no-resolve
-IP-CIDR,156.240.41.178/32,no-resolve
-IP-CIDR,156.240.41.18/32,no-resolve
-IP-CIDR,156.240.41.180/32,no-resolve
 IP-CIDR,156.240.41.181/32,no-resolve
 IP-CIDR,156.240.41.182/32,no-resolve
 IP-CIDR,156.240.41.183/32,no-resolve
@@ -691,7 +684,6 @@ IP-CIDR,176.65.139.201/32,no-resolve
 IP-CIDR,176.65.139.51/32,no-resolve
 IP-CIDR,176.65.144.135/32,no-resolve
 IP-CIDR,176.65.144.99/32,no-resolve
-IP-CIDR,178.16.53.76/32,no-resolve
 IP-CIDR,178.63.28.35/32,no-resolve
 IP-CIDR,179.199.199.11/32,no-resolve
 IP-CIDR,179.199.199.60/32,no-resolve
@@ -745,7 +737,6 @@ IP-CIDR,209.200.246.18/32,no-resolve
 IP-CIDR,211.154.24.12/32,no-resolve
 IP-CIDR,211.161.232.122/32,no-resolve
 IP-CIDR,212.192.214.7/32,no-resolve
-IP-CIDR,213.152.176.152/32,no-resolve
 IP-CIDR,217.60.195.167/32,no-resolve
 IP-CIDR,217.60.195.43/32,no-resolve
 IP-CIDR,217.60.242.27/32,no-resolve
@@ -828,7 +819,6 @@ IP-CIDR,47.98.207.191/32,no-resolve
 IP-CIDR,49.234.181.30/32,no-resolve
 IP-CIDR,49.235.158.141/32,no-resolve
 IP-CIDR,5.175.213.199/32,no-resolve
-IP-CIDR,5.175.222.236/32,no-resolve
 IP-CIDR,5.249.163.245/32,no-resolve
 IP-CIDR,5.83.138.155/32,no-resolve
 IP-CIDR,54.71.81.78/32,no-resolve
@@ -837,6 +827,7 @@ IP-CIDR,60.205.221.206/32,no-resolve
 IP-CIDR,64.118.134.192/32,no-resolve
 IP-CIDR,64.176.37.39/32,no-resolve
 IP-CIDR,64.176.80.211/32,no-resolve
+IP-CIDR,64.226.67.42/32,no-resolve
 IP-CIDR,64.89.161.138/32,no-resolve
 IP-CIDR,67.207.95.101/32,no-resolve
 IP-CIDR,68.183.183.60/32,no-resolve
@@ -875,7 +866,6 @@ IP-CIDR,89.106.84.23/32,no-resolve
 IP-CIDR,89.124.101.217/32,no-resolve
 IP-CIDR,89.167.19.6/32,no-resolve
 IP-CIDR,89.32.41.111/32,no-resolve
-IP-CIDR,89.32.41.114/32,no-resolve
 IP-CIDR,89.32.41.146/32,no-resolve
 IP-CIDR,89.32.41.43/32,no-resolve
 IP-CIDR,89.32.41.49/32,no-resolve
