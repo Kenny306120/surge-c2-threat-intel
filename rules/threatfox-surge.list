@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-28T12:34:18.792418+00:00
+# Generated UTC 2026-10-28T13:47:10.697755+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -218,7 +218,6 @@ DOMAIN,noahsruleomau.click
 DOMAIN,nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion
 DOMAIN,november.read-books.org
 DOMAIN,nrr5343n4rl7ymxhajoplth5bvrfdn5dm4pt4cifa2ypiqpvdk7l3xid.onion
-DOMAIN,o.a9bet.org
 DOMAIN,o.adwgamestore.org
 DOMAIN,object.glimmerpull.cc
 DOMAIN,ofleax.space
@@ -500,9 +499,7 @@ IP-CIDR,156.240.41.160/32,no-resolve
 IP-CIDR,156.240.41.161/32,no-resolve
 IP-CIDR,156.240.41.162/32,no-resolve
 IP-CIDR,156.240.41.163/32,no-resolve
-IP-CIDR,156.240.41.164/32,no-resolve
 IP-CIDR,156.240.41.165/32,no-resolve
-IP-CIDR,156.240.41.166/32,no-resolve
 IP-CIDR,156.240.41.167/32,no-resolve
 IP-CIDR,156.240.41.170/32,no-resolve
 IP-CIDR,156.240.41.171/32,no-resolve
@@ -690,7 +687,6 @@ IP-CIDR,172.93.187.71/32,no-resolve
 IP-CIDR,172.94.125.5/32,no-resolve
 IP-CIDR,175.178.126.48/32,no-resolve
 IP-CIDR,176.121.51.1/32,no-resolve
-IP-CIDR,176.234.231.136/32,no-resolve
 IP-CIDR,176.65.132.7/32,no-resolve
 IP-CIDR,176.65.139.131/32,no-resolve
 IP-CIDR,176.65.139.201/32,no-resolve
@@ -712,8 +708,6 @@ IP-CIDR,182.61.148.201/32,no-resolve
 IP-CIDR,183.60.176.124/32,no-resolve
 IP-CIDR,184.194.188.194/32,no-resolve
 IP-CIDR,185.173.235.233/32,no-resolve
-IP-CIDR,185.177.72.24/32,no-resolve
-IP-CIDR,185.177.72.38/32,no-resolve
 IP-CIDR,185.193.125.201/32,no-resolve
 IP-CIDR,185.245.107.8/32,no-resolve
 IP-CIDR,188.166.152.179/32,no-resolve
@@ -777,6 +771,7 @@ IP-CIDR,38.190.224.38/32,no-resolve
 IP-CIDR,38.240.48.153/32,no-resolve
 IP-CIDR,38.240.56.216/32,no-resolve
 IP-CIDR,38.242.147.58/32,no-resolve
+IP-CIDR,38.255.32.231/32,no-resolve
 IP-CIDR,38.255.34.171/32,no-resolve
 IP-CIDR,38.55.252.139/32,no-resolve
 IP-CIDR,38.60.179.108/32,no-resolve
@@ -866,10 +861,8 @@ IP-CIDR,85.137.244.138/32,no-resolve
 IP-CIDR,87.58.159.3/32,no-resolve
 IP-CIDR,89.106.84.23/32,no-resolve
 IP-CIDR,89.167.19.6/32,no-resolve
-IP-CIDR,89.32.41.109/32,no-resolve
 IP-CIDR,89.32.41.111/32,no-resolve
 IP-CIDR,89.32.41.114/32,no-resolve
-IP-CIDR,89.32.41.117/32,no-resolve
 IP-CIDR,89.32.41.146/32,no-resolve
 IP-CIDR,89.32.41.43/32,no-resolve
 IP-CIDR,89.32.41.49/32,no-resolve
