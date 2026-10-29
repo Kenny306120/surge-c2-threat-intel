@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-29T17:38:23.656146+00:00
+# Generated UTC 2026-10-29T18:35:14.537409+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -444,7 +444,6 @@ IP-CIDR,135.136.191.231/32,no-resolve
 IP-CIDR,137.184.153.245/32,no-resolve
 IP-CIDR,138.68.134.9/32,no-resolve
 IP-CIDR,139.162.31.215/32,no-resolve
-IP-CIDR,139.196.107.4/32,no-resolve
 IP-CIDR,139.196.239.236/32,no-resolve
 IP-CIDR,141.98.10.184/32,no-resolve
 IP-CIDR,141.98.10.185/32,no-resolve
@@ -716,7 +715,6 @@ IP-CIDR,47.243.109.132/32,no-resolve
 IP-CIDR,47.94.132.198/32,no-resolve
 IP-CIDR,47.94.175.176/32,no-resolve
 IP-CIDR,47.95.140.79/32,no-resolve
-IP-CIDR,47.95.31.143/32,no-resolve
 IP-CIDR,47.98.124.244/32,no-resolve
 IP-CIDR,47.98.207.191/32,no-resolve
 IP-CIDR,49.234.181.30/32,no-resolve
