@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-29T12:35:12.002899+00:00
+# Generated UTC 2026-10-29T13:50:11.786260+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -127,7 +127,6 @@ DOMAIN,jj.bala7.org
 DOMAIN,jq.aeoncash.org
 DOMAIN,jtf.adilawa99.org
 DOMAIN,jxk.imarapi.st
-DOMAIN,k.abc22.org
 DOMAIN,k.ajo7.org
 DOMAIN,k.bala7.org
 DOMAIN,kcipytrnpyvvjygeh5dtehdlhzc6i6ijvsivbgvvevuvbsplgawdezyd.onion
@@ -375,6 +374,7 @@ IP-CIDR,104.105.4.229/32,no-resolve
 IP-CIDR,104.153.209.125/32,no-resolve
 IP-CIDR,104.218.50.244/32,no-resolve
 IP-CIDR,104.248.206.134/32,no-resolve
+IP-CIDR,104.248.87.24/32,no-resolve
 IP-CIDR,106.54.1.74/32,no-resolve
 IP-CIDR,106.54.13.23/32,no-resolve
 IP-CIDR,106.55.178.204/32,no-resolve
@@ -532,13 +532,8 @@ IP-CIDR,156.240.41.70/32,no-resolve
 IP-CIDR,156.240.41.73/32,no-resolve
 IP-CIDR,156.240.41.75/32,no-resolve
 IP-CIDR,156.240.41.76/32,no-resolve
-IP-CIDR,156.240.41.8/32,no-resolve
 IP-CIDR,156.240.41.80/32,no-resolve
-IP-CIDR,156.240.41.84/32,no-resolve
-IP-CIDR,156.240.41.85/32,no-resolve
-IP-CIDR,156.240.41.86/32,no-resolve
 IP-CIDR,156.240.41.87/32,no-resolve
-IP-CIDR,156.240.41.88/32,no-resolve
 IP-CIDR,156.240.41.89/32,no-resolve
 IP-CIDR,156.240.41.9/32,no-resolve
 IP-CIDR,156.240.41.90/32,no-resolve
@@ -654,15 +649,7 @@ IP-CIDR,218.237.58.53/32,no-resolve
 IP-CIDR,23.94.145.143/32,no-resolve
 IP-CIDR,23.94.252.54/32,no-resolve
 IP-CIDR,3.10.5.120/32,no-resolve
-IP-CIDR,31.56.19.141/32,no-resolve
-IP-CIDR,31.56.19.142/32,no-resolve
-IP-CIDR,31.56.19.143/32,no-resolve
-IP-CIDR,31.56.19.144/32,no-resolve
-IP-CIDR,31.56.19.146/32,no-resolve
-IP-CIDR,31.56.19.147/32,no-resolve
-IP-CIDR,31.56.19.149/32,no-resolve
 IP-CIDR,31.56.19.71/32,no-resolve
-IP-CIDR,31.56.19.75/32,no-resolve
 IP-CIDR,31.56.209.165/32,no-resolve
 IP-CIDR,31.56.209.86/32,no-resolve
 IP-CIDR,31.56.48.249/32,no-resolve
@@ -720,6 +707,7 @@ IP-CIDR,45.88.186.145/32,no-resolve
 IP-CIDR,45.89.63.173/32,no-resolve
 IP-CIDR,45.95.2.245/32,no-resolve
 IP-CIDR,46.101.198.130/32,no-resolve
+IP-CIDR,46.101.249.247/32,no-resolve
 IP-CIDR,47.100.187.173/32,no-resolve
 IP-CIDR,47.103.70.55/32,no-resolve
 IP-CIDR,47.104.30.212/32,no-resolve
