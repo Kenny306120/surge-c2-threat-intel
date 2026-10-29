@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-29T23:05:50.671171+00:00
+# Generated UTC 2026-10-29T23:59:41.242434+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -71,6 +71,7 @@ DOMAIN,d.aww88.net
 DOMAIN,darnuquexunx.live
 DOMAIN,daruma-168.life
 DOMAIN,dataku.top
+DOMAIN,de.aeoncash.org
 DOMAIN,de.remusdownloads.su
 DOMAIN,debug.pingload.cc
 DOMAIN,deload.getpi.su
@@ -264,6 +265,7 @@ DOMAIN,rest.echofetch.cc
 DOMAIN,rf.adilawa99.org
 DOMAIN,rhysidaxx6gdihss7urv4ecbh2yz4izhnfulfbrb4ua5dwkocm653yid.onion
 DOMAIN,rute303-pride.space
+DOMAIN,s.bb69.org
 DOMAIN,s6.acunbet89.org
 DOMAIN,sakti123.space
 DOMAIN,searchmatrixteam.space
@@ -485,8 +487,13 @@ IP-CIDR,154.91.50.170/32,no-resolve
 IP-CIDR,154.91.50.176/32,no-resolve
 IP-CIDR,154.91.50.177/32,no-resolve
 IP-CIDR,154.91.50.178/32,no-resolve
+IP-CIDR,154.91.50.179/32,no-resolve
+IP-CIDR,154.91.50.180/32,no-resolve
+IP-CIDR,154.91.50.183/32,no-resolve
+IP-CIDR,154.91.50.190/32,no-resolve
 IP-CIDR,154.91.51.164/32,no-resolve
 IP-CIDR,154.91.51.165/32,no-resolve
+IP-CIDR,154.91.53.170/32,no-resolve
 IP-CIDR,154.94.237.203/32,no-resolve
 IP-CIDR,156.240.14.154/32,no-resolve
 IP-CIDR,156.240.14.155/32,no-resolve
@@ -553,6 +560,8 @@ IP-CIDR,159.223.142.230/32,no-resolve
 IP-CIDR,159.223.89.103/32,no-resolve
 IP-CIDR,160.119.66.206/32,no-resolve
 IP-CIDR,160.176.76.226/32,no-resolve
+IP-CIDR,161.132.47.189/32,no-resolve
+IP-CIDR,161.132.50.40/32,no-resolve
 IP-CIDR,161.248.179.115/32,no-resolve
 IP-CIDR,161.35.62.230/32,no-resolve
 IP-CIDR,164.92.166.123/32,no-resolve
@@ -705,6 +714,7 @@ IP-CIDR,45.87.61.137/32,no-resolve
 IP-CIDR,45.87.61.174/32,no-resolve
 IP-CIDR,46.101.198.130/32,no-resolve
 IP-CIDR,46.101.249.247/32,no-resolve
+IP-CIDR,46.151.182.70/32,no-resolve
 IP-CIDR,46.203.233.95/32,no-resolve
 IP-CIDR,47.100.187.173/32,no-resolve
 IP-CIDR,47.103.70.55/32,no-resolve
