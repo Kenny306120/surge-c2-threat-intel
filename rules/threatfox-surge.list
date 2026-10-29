@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-29T01:48:40.995692+00:00
+# Generated UTC 2026-10-29T02:38:52.035053+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -263,7 +263,6 @@ DOMAIN,rhysidaxx6gdihss7urv4ecbh2yz4izhnfulfbrb4ua5dwkocm653yid.onion
 DOMAIN,rute303-pride.space
 DOMAIN,s.abc22.org
 DOMAIN,s6.acunbet89.org
-DOMAIN,s8.abad777.org
 DOMAIN,sakti123.space
 DOMAIN,searchmatrixteam.space
 DOMAIN,secdarvin2026.icu
@@ -403,6 +402,7 @@ IP-CIDR,110.173.53.98/32,no-resolve
 IP-CIDR,110.173.53.99/32,no-resolve
 IP-CIDR,110.41.77.122/32,no-resolve
 IP-CIDR,111.170.148.132/32,no-resolve
+IP-CIDR,111.228.45.86/32,no-resolve
 IP-CIDR,111.229.144.163/32,no-resolve
 IP-CIDR,111.229.162.72/32,no-resolve
 IP-CIDR,111.229.199.24/32,no-resolve
@@ -421,6 +421,7 @@ IP-CIDR,119.42.148.187/32,no-resolve
 IP-CIDR,119.42.148.189/32,no-resolve
 IP-CIDR,119.42.148.190/32,no-resolve
 IP-CIDR,120.26.161.0/32,no-resolve
+IP-CIDR,121.43.102.230/32,no-resolve
 IP-CIDR,122.51.179.8/32,no-resolve
 IP-CIDR,123.123.74.83/32,no-resolve
 IP-CIDR,123.207.214.58/32,no-resolve
@@ -515,11 +516,8 @@ IP-CIDR,156.240.41.23/32,no-resolve
 IP-CIDR,156.240.41.231/32,no-resolve
 IP-CIDR,156.240.41.236/32,no-resolve
 IP-CIDR,156.240.41.238/32,no-resolve
-IP-CIDR,156.240.41.239/32,no-resolve
 IP-CIDR,156.240.41.24/32,no-resolve
 IP-CIDR,156.240.41.240/32,no-resolve
-IP-CIDR,156.240.41.241/32,no-resolve
-IP-CIDR,156.240.41.242/32,no-resolve
 IP-CIDR,156.240.41.243/32,no-resolve
 IP-CIDR,156.240.41.244/32,no-resolve
 IP-CIDR,156.240.41.245/32,no-resolve
@@ -688,6 +686,7 @@ IP-CIDR,204.10.160.206/32,no-resolve
 IP-CIDR,204.12.218.236/32,no-resolve
 IP-CIDR,204.168.137.221/32,no-resolve
 IP-CIDR,206.123.137.134/32,no-resolve
+IP-CIDR,206.238.123.21/32,no-resolve
 IP-CIDR,207.174.31.71/32,no-resolve
 IP-CIDR,207.57.123.251/32,no-resolve
 IP-CIDR,209.200.246.18/32,no-resolve
