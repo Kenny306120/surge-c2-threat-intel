@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-29T19:40:36.176417+00:00
+# Generated UTC 2026-10-29T20:32:19.814447+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -52,6 +52,7 @@ DOMAIN,c.amo98.org
 DOMAIN,c.aot88.com
 DOMAIN,c.aww88.net
 DOMAIN,c.bamto.org
+DOMAIN,c.bb69.org
 DOMAIN,cardapiiofornallhadeliverypoop.click
 DOMAIN,cdn.decadenza.me
 DOMAIN,cdn.remusdownloads.su
@@ -468,11 +469,14 @@ IP-CIDR,151.245.121.241/32,no-resolve
 IP-CIDR,152.42.135.240/32,no-resolve
 IP-CIDR,154.211.92.33/32,no-resolve
 IP-CIDR,154.217.234.105/32,no-resolve
-IP-CIDR,154.217.248.116/32,no-resolve
 IP-CIDR,154.40.45.170/32,no-resolve
 IP-CIDR,154.91.49.173/32,no-resolve
 IP-CIDR,154.91.49.175/32,no-resolve
 IP-CIDR,154.91.49.182/32,no-resolve
+IP-CIDR,154.91.49.188/32,no-resolve
+IP-CIDR,154.91.49.189/32,no-resolve
+IP-CIDR,154.91.50.162/32,no-resolve
+IP-CIDR,154.91.50.168/32,no-resolve
 IP-CIDR,154.91.51.164/32,no-resolve
 IP-CIDR,154.94.237.203/32,no-resolve
 IP-CIDR,156.240.14.154/32,no-resolve
@@ -482,7 +486,6 @@ IP-CIDR,156.240.41.10/32,no-resolve
 IP-CIDR,156.240.41.103/32,no-resolve
 IP-CIDR,156.240.41.106/32,no-resolve
 IP-CIDR,156.240.41.116/32,no-resolve
-IP-CIDR,156.240.41.119/32,no-resolve
 IP-CIDR,156.240.41.12/32,no-resolve
 IP-CIDR,156.240.41.121/32,no-resolve
 IP-CIDR,156.240.41.122/32,no-resolve
@@ -493,7 +496,6 @@ IP-CIDR,156.240.41.141/32,no-resolve
 IP-CIDR,156.240.41.152/32,no-resolve
 IP-CIDR,156.240.41.156/32,no-resolve
 IP-CIDR,156.240.41.162/32,no-resolve
-IP-CIDR,156.240.41.163/32,no-resolve
 IP-CIDR,156.240.41.165/32,no-resolve
 IP-CIDR,156.240.41.167/32,no-resolve
 IP-CIDR,156.240.41.174/32,no-resolve
@@ -504,7 +506,6 @@ IP-CIDR,156.240.41.194/32,no-resolve
 IP-CIDR,156.240.41.196/32,no-resolve
 IP-CIDR,156.240.41.199/32,no-resolve
 IP-CIDR,156.240.41.2/32,no-resolve
-IP-CIDR,156.240.41.209/32,no-resolve
 IP-CIDR,156.240.41.22/32,no-resolve
 IP-CIDR,156.240.41.220/32,no-resolve
 IP-CIDR,156.240.41.226/32,no-resolve
