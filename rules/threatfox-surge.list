@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-29T02:38:52.035053+00:00
+# Generated UTC 2026-10-29T03:36:14.501768+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -129,6 +129,7 @@ DOMAIN,j22g4aqk.icu
 DOMAIN,jf.piizeaa.shop
 DOMAIN,jj.adwgamestore.org
 DOMAIN,jj.bala7.org
+DOMAIN,jq.aeoncash.org
 DOMAIN,jtf.adilawa99.org
 DOMAIN,jxk.imarapi.st
 DOMAIN,k.abc22.org
@@ -515,15 +516,11 @@ IP-CIDR,156.240.41.226/32,no-resolve
 IP-CIDR,156.240.41.23/32,no-resolve
 IP-CIDR,156.240.41.231/32,no-resolve
 IP-CIDR,156.240.41.236/32,no-resolve
-IP-CIDR,156.240.41.238/32,no-resolve
 IP-CIDR,156.240.41.24/32,no-resolve
 IP-CIDR,156.240.41.240/32,no-resolve
 IP-CIDR,156.240.41.243/32,no-resolve
-IP-CIDR,156.240.41.244/32,no-resolve
-IP-CIDR,156.240.41.245/32,no-resolve
 IP-CIDR,156.240.41.246/32,no-resolve
 IP-CIDR,156.240.41.247/32,no-resolve
-IP-CIDR,156.240.41.248/32,no-resolve
 IP-CIDR,156.240.41.249/32,no-resolve
 IP-CIDR,156.240.41.25/32,no-resolve
 IP-CIDR,156.240.41.250/32,no-resolve
@@ -648,6 +645,7 @@ IP-CIDR,182.16.98.84/32,no-resolve
 IP-CIDR,182.16.98.85/32,no-resolve
 IP-CIDR,182.16.98.86/32,no-resolve
 IP-CIDR,182.16.98.88/32,no-resolve
+IP-CIDR,182.16.98.89/32,no-resolve
 IP-CIDR,182.16.98.90/32,no-resolve
 IP-CIDR,182.16.98.91/32,no-resolve
 IP-CIDR,182.16.98.93/32,no-resolve
@@ -796,6 +794,7 @@ IP-CIDR,77.42.9.174/32,no-resolve
 IP-CIDR,77.90.63.58/32,no-resolve
 IP-CIDR,77.90.63.60/32,no-resolve
 IP-CIDR,77.90.63.62/32,no-resolve
+IP-CIDR,78.153.136.20/32,no-resolve
 IP-CIDR,8.134.160.8/32,no-resolve
 IP-CIDR,8.140.228.202/32,no-resolve
 IP-CIDR,8.148.29.180/32,no-resolve
