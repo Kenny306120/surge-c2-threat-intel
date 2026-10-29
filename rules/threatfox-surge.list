@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-29T09:39:39.561309+00:00
+# Generated UTC 2026-10-29T10:37:14.080827+00:00
 DOMAIN,11181118.icu
 DOMAIN,1r7j0.icu
 DOMAIN,1s5h9.icu
@@ -285,7 +285,6 @@ DOMAIN,syumai.life
 DOMAIN,t-smc.top
 DOMAIN,t.aww88.net
 DOMAIN,t.ayu99.pro
-DOMAIN,tb.abad777.org
 DOMAIN,teaeffortscore.click
 DOMAIN,throwaway.icu
 DOMAIN,thunder.godofthunder.st
@@ -356,7 +355,6 @@ DOMAIN,yu.agenplay89.org
 DOMAIN,yu8z3uk.space
 DOMAIN,yw.bala7.org
 DOMAIN,yyjcykk6afxf6vtteeullde6qokefy7phsuxbplcswdqxjdqhkcf6ryd.onion
-DOMAIN,z.abc22.org
 DOMAIN,z.amo98.org
 DOMAIN,z.aww88.net
 DOMAIN,zen.ayxandevgang.workers.dev
@@ -390,7 +388,6 @@ IP-CIDR,106.54.13.23/32,no-resolve
 IP-CIDR,106.55.178.204/32,no-resolve
 IP-CIDR,106.75.148.37/32,no-resolve
 IP-CIDR,107.148.158.243/32,no-resolve
-IP-CIDR,109.237.98.251/32,no-resolve
 IP-CIDR,109.237.99.3/32,no-resolve
 IP-CIDR,109.238.86.106/32,no-resolve
 IP-CIDR,109.238.87.239/32,no-resolve
@@ -534,12 +531,8 @@ IP-CIDR,156.240.41.46/32,no-resolve
 IP-CIDR,156.240.41.53/32,no-resolve
 IP-CIDR,156.240.41.56/32,no-resolve
 IP-CIDR,156.240.41.59/32,no-resolve
-IP-CIDR,156.240.41.60/32,no-resolve
-IP-CIDR,156.240.41.61/32,no-resolve
 IP-CIDR,156.240.41.62/32,no-resolve
-IP-CIDR,156.240.41.63/32,no-resolve
 IP-CIDR,156.240.41.64/32,no-resolve
-IP-CIDR,156.240.41.65/32,no-resolve
 IP-CIDR,156.240.41.66/32,no-resolve
 IP-CIDR,156.240.41.67/32,no-resolve
 IP-CIDR,156.240.41.68/32,no-resolve
@@ -621,6 +614,7 @@ IP-CIDR,182.16.98.83/32,no-resolve
 IP-CIDR,182.16.98.84/32,no-resolve
 IP-CIDR,182.16.98.85/32,no-resolve
 IP-CIDR,182.16.98.86/32,no-resolve
+IP-CIDR,182.16.98.87/32,no-resolve
 IP-CIDR,182.16.98.88/32,no-resolve
 IP-CIDR,182.16.98.89/32,no-resolve
 IP-CIDR,182.16.98.90/32,no-resolve
