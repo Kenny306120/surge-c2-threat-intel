@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-30T10:38:29.503101+00:00
+# Generated UTC 2026-10-30T11:27:51.836854+00:00
 DOMAIN,2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
 DOMAIN,2v75pgpqlguqpflfjtz6iynwg3ndshjhh6vkxyldorarc6mpc5if5qqd.onion
 DOMAIN,4ee4snln5yuwmjdxwgznj5lahs24loa54f6aoehbeu6pc3axbcuzepyd.onion
@@ -54,11 +54,13 @@ DOMAIN,elchapodonpablo.duckdns.org
 DOMAIN,emberhaven.cfd
 DOMAIN,esastus-oct29.eastus.cloudapp.azure.com
 DOMAIN,et.aeon888link.org
+DOMAIN,events.mirthfield.cc
 DOMAIN,exkbqpb36xgih7jgfobhwtvx3cxgdzsf6ccjzvsxpfycnmaq7fzlcfad.onion
 DOMAIN,farenaw.cc
 DOMAIN,fileagreement.xyz
 DOMAIN,firebase.emeraldpineventuresllc.com
 DOMAIN,flv.aeoncash.org
+DOMAIN,fm.afktogel.org
 DOMAIN,freetrend.cc
 DOMAIN,ftp.jmacsafety.com
 DOMAIN,ftp.prometeon.info
@@ -95,6 +97,7 @@ DOMAIN,k1.bb69.org
 DOMAIN,kcipytrnpyvvjygeh5dtehdlhzc6i6ijvsivbgvvevuvbsplgawdezyd.onion
 DOMAIN,knecibfact4epasdbj7dzwfpl5k54z3g22vvcnxkvnflnobhxycolpyd.onion
 DOMAIN,ksm.aeoncash.org
+DOMAIN,l.bb69.org
 DOMAIN,l0.aeon888link.org
 DOMAIN,l5.aeon888link.org
 DOMAIN,larpestan.duckdns.org
@@ -331,6 +334,11 @@ IP-CIDR,151.245.121.241/32,no-resolve
 IP-CIDR,152.42.135.240/32,no-resolve
 IP-CIDR,154.211.92.33/32,no-resolve
 IP-CIDR,154.217.234.105/32,no-resolve
+IP-CIDR,154.91.48.166/32,no-resolve
+IP-CIDR,154.91.48.167/32,no-resolve
+IP-CIDR,154.91.48.168/32,no-resolve
+IP-CIDR,154.91.48.169/32,no-resolve
+IP-CIDR,154.91.48.170/32,no-resolve
 IP-CIDR,154.91.49.165/32,no-resolve
 IP-CIDR,154.91.49.166/32,no-resolve
 IP-CIDR,154.91.49.167/32,no-resolve
@@ -408,14 +416,9 @@ IP-CIDR,156.240.41.24/32,no-resolve
 IP-CIDR,156.240.41.240/32,no-resolve
 IP-CIDR,156.240.41.246/32,no-resolve
 IP-CIDR,156.240.41.247/32,no-resolve
-IP-CIDR,156.240.41.254/32,no-resolve
-IP-CIDR,156.240.41.38/32,no-resolve
 IP-CIDR,156.240.41.41/32,no-resolve
 IP-CIDR,156.240.41.44/32,no-resolve
-IP-CIDR,156.240.41.62/32,no-resolve
 IP-CIDR,156.240.41.67/32,no-resolve
-IP-CIDR,156.240.41.68/32,no-resolve
-IP-CIDR,156.240.41.69/32,no-resolve
 IP-CIDR,156.240.41.70/32,no-resolve
 IP-CIDR,156.240.41.87/32,no-resolve
 IP-CIDR,156.246.90.214/32,no-resolve
@@ -540,7 +543,6 @@ IP-CIDR,31.57.201.47/32,no-resolve
 IP-CIDR,31.77.220.7/32,no-resolve
 IP-CIDR,34.4.108.145/32,no-resolve
 IP-CIDR,34.41.139.193/32,no-resolve
-IP-CIDR,37.128.206.215/32,no-resolve
 IP-CIDR,37.204.245.214/32,no-resolve
 IP-CIDR,37.27.4.20/32,no-resolve
 IP-CIDR,37.27.4.38/32,no-resolve
@@ -550,7 +552,6 @@ IP-CIDR,38.190.196.38/32,no-resolve
 IP-CIDR,38.190.224.38/32,no-resolve
 IP-CIDR,38.240.48.153/32,no-resolve
 IP-CIDR,38.240.56.216/32,no-resolve
-IP-CIDR,38.242.147.58/32,no-resolve
 IP-CIDR,38.255.32.231/32,no-resolve
 IP-CIDR,38.255.34.171/32,no-resolve
 IP-CIDR,38.60.179.108/32,no-resolve
@@ -574,7 +575,6 @@ IP-CIDR,44.210.140.205/32,no-resolve
 IP-CIDR,45.135.118.214/32,no-resolve
 IP-CIDR,45.141.117.158/32,no-resolve
 IP-CIDR,45.144.172.49/32,no-resolve
-IP-CIDR,45.150.109.94/32,no-resolve
 IP-CIDR,45.192.169.57/32,no-resolve
 IP-CIDR,45.198.224.164/32,no-resolve
 IP-CIDR,45.202.245.70/32,no-resolve
