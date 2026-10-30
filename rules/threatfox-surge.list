@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-30T14:26:15.298584+00:00
+# Generated UTC 2026-10-30T15:20:19.561122+00:00
 DOMAIN,2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
 DOMAIN,2v75pgpqlguqpflfjtz6iynwg3ndshjhh6vkxyldorarc6mpc5if5qqd.onion
 DOMAIN,4ee4snln5yuwmjdxwgznj5lahs24loa54f6aoehbeu6pc3axbcuzepyd.onion
@@ -167,6 +167,7 @@ DOMAIN,rest.echofetch.cc
 DOMAIN,rf.adilawa99.org
 DOMAIN,rhysidaxx6gdihss7urv4ecbh2yz4izhnfulfbrb4ua5dwkocm653yid.onion
 DOMAIN,s.bb69.org
+DOMAIN,s4.afktogel.org
 DOMAIN,s4.bb69.org
 DOMAIN,s6.acunbet89.org
 DOMAIN,sigmauperdonesoft.com
@@ -331,6 +332,7 @@ IP-CIDR,151.245.121.241/32,no-resolve
 IP-CIDR,152.42.135.240/32,no-resolve
 IP-CIDR,154.211.92.33/32,no-resolve
 IP-CIDR,154.217.234.105/32,no-resolve
+IP-CIDR,154.91.48.163/32,no-resolve
 IP-CIDR,154.91.48.166/32,no-resolve
 IP-CIDR,154.91.48.167/32,no-resolve
 IP-CIDR,154.91.48.168/32,no-resolve
@@ -347,6 +349,7 @@ IP-CIDR,154.91.48.178/32,no-resolve
 IP-CIDR,154.91.48.179/32,no-resolve
 IP-CIDR,154.91.48.180/32,no-resolve
 IP-CIDR,154.91.48.181/32,no-resolve
+IP-CIDR,154.91.48.182/32,no-resolve
 IP-CIDR,154.91.49.165/32,no-resolve
 IP-CIDR,154.91.49.166/32,no-resolve
 IP-CIDR,154.91.49.167/32,no-resolve
@@ -357,6 +360,8 @@ IP-CIDR,154.91.49.179/32,no-resolve
 IP-CIDR,154.91.49.180/32,no-resolve
 IP-CIDR,154.91.49.181/32,no-resolve
 IP-CIDR,154.91.49.182/32,no-resolve
+IP-CIDR,154.91.49.183/32,no-resolve
+IP-CIDR,154.91.49.184/32,no-resolve
 IP-CIDR,154.91.49.188/32,no-resolve
 IP-CIDR,154.91.49.189/32,no-resolve
 IP-CIDR,154.91.50.162/32,no-resolve
@@ -418,10 +423,7 @@ IP-CIDR,156.240.14.154/32,no-resolve
 IP-CIDR,156.240.14.155/32,no-resolve
 IP-CIDR,156.240.14.158/32,no-resolve
 IP-CIDR,156.240.41.162/32,no-resolve
-IP-CIDR,156.240.41.192/32,no-resolve
-IP-CIDR,156.240.41.240/32,no-resolve
 IP-CIDR,156.240.41.41/32,no-resolve
-IP-CIDR,156.240.41.87/32,no-resolve
 IP-CIDR,156.246.90.214/32,no-resolve
 IP-CIDR,156.254.20.46/32,no-resolve
 IP-CIDR,156.254.20.47/32,no-resolve
