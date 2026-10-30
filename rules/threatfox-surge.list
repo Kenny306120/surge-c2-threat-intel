@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-30T13:28:52.524712+00:00
+# Generated UTC 2026-10-30T14:26:15.298584+00:00
 DOMAIN,2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
 DOMAIN,2v75pgpqlguqpflfjtz6iynwg3ndshjhh6vkxyldorarc6mpc5if5qqd.onion
 DOMAIN,4ee4snln5yuwmjdxwgznj5lahs24loa54f6aoehbeu6pc3axbcuzepyd.onion
@@ -343,7 +343,10 @@ IP-CIDR,154.91.48.174/32,no-resolve
 IP-CIDR,154.91.48.175/32,no-resolve
 IP-CIDR,154.91.48.176/32,no-resolve
 IP-CIDR,154.91.48.177/32,no-resolve
+IP-CIDR,154.91.48.178/32,no-resolve
+IP-CIDR,154.91.48.179/32,no-resolve
 IP-CIDR,154.91.48.180/32,no-resolve
+IP-CIDR,154.91.48.181/32,no-resolve
 IP-CIDR,154.91.49.165/32,no-resolve
 IP-CIDR,154.91.49.166/32,no-resolve
 IP-CIDR,154.91.49.167/32,no-resolve
@@ -351,6 +354,8 @@ IP-CIDR,154.91.49.169/32,no-resolve
 IP-CIDR,154.91.49.173/32,no-resolve
 IP-CIDR,154.91.49.175/32,no-resolve
 IP-CIDR,154.91.49.179/32,no-resolve
+IP-CIDR,154.91.49.180/32,no-resolve
+IP-CIDR,154.91.49.181/32,no-resolve
 IP-CIDR,154.91.49.182/32,no-resolve
 IP-CIDR,154.91.49.188/32,no-resolve
 IP-CIDR,154.91.49.189/32,no-resolve
@@ -415,10 +420,7 @@ IP-CIDR,156.240.14.158/32,no-resolve
 IP-CIDR,156.240.41.162/32,no-resolve
 IP-CIDR,156.240.41.192/32,no-resolve
 IP-CIDR,156.240.41.240/32,no-resolve
-IP-CIDR,156.240.41.247/32,no-resolve
 IP-CIDR,156.240.41.41/32,no-resolve
-IP-CIDR,156.240.41.44/32,no-resolve
-IP-CIDR,156.240.41.67/32,no-resolve
 IP-CIDR,156.240.41.87/32,no-resolve
 IP-CIDR,156.246.90.214/32,no-resolve
 IP-CIDR,156.254.20.46/32,no-resolve
@@ -526,7 +528,6 @@ IP-CIDR,211.161.232.122/32,no-resolve
 IP-CIDR,212.192.214.7/32,no-resolve
 IP-CIDR,216.9.224.44/32,no-resolve
 IP-CIDR,217.60.102.45/32,no-resolve
-IP-CIDR,217.60.195.167/32,no-resolve
 IP-CIDR,217.60.195.43/32,no-resolve
 IP-CIDR,217.60.242.27/32,no-resolve
 IP-CIDR,218.237.58.53/32,no-resolve
