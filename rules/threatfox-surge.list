@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-30T18:04:28.654376+00:00
+# Generated UTC 2026-10-30T19:16:34.563310+00:00
 DOMAIN,2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
 DOMAIN,2v75pgpqlguqpflfjtz6iynwg3ndshjhh6vkxyldorarc6mpc5if5qqd.onion
 DOMAIN,4ee4snln5yuwmjdxwgznj5lahs24loa54f6aoehbeu6pc3axbcuzepyd.onion
@@ -142,6 +142,7 @@ DOMAIN,payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion
 DOMAIN,payloadynyvabjacbun4uwhmxc7yvdzorycslzmnleguxjn7glahsvqd.onion
 DOMAIN,piizeaa.shop
 DOMAIN,poopflavored.beer
+DOMAIN,prairiedesk.cfd
 DOMAIN,q.aeoncash.org
 DOMAIN,q.bamto.org
 DOMAIN,q3.aeon888link.org
@@ -181,7 +182,6 @@ DOMAIN,v.ayu99.pro
 DOMAIN,v.getpi.su
 DOMAIN,v2puzhht3hgoduknhwjy6gpc4ylcgnkjepqhpzcmzx2qrj3ibwnicqyd.onion
 DOMAIN,v8.aeon888link.org
-DOMAIN,vazsilvaconstruction.com
 DOMAIN,veritymein.eastus.cloudapp.azure.com
 DOMAIN,vg.bb69.org
 DOMAIN,vm.adwgamestore.org
@@ -192,8 +192,6 @@ DOMAIN,wifisucks.duckdns.org
 DOMAIN,wishline.xyz
 DOMAIN,wjn5eyu4jxe3e27rqrlsf7s672s37z2ivpdpdzx3r67aqzcpxpt6abqd.onion
 DOMAIN,ww.adilawa99.org
-DOMAIN,x.acunbet89.org
-DOMAIN,x.ajo7.org
 DOMAIN,x.ayu99.pro
 DOMAIN,xa.agenplay89.org
 DOMAIN,xaic33d75dantn47hqcrpyzzqvpcl3mdes7wkmmkvz35l3aaznfxoaqd.onion
@@ -213,6 +211,7 @@ IP-CIDR,1.117.75.113/32,no-resolve
 IP-CIDR,1.14.181.139/32,no-resolve
 IP-CIDR,1.15.65.4/32,no-resolve
 IP-CIDR,1.94.146.36/32,no-resolve
+IP-CIDR,100.53.240.26/32,no-resolve
 IP-CIDR,101.133.229.117/32,no-resolve
 IP-CIDR,101.201.37.97/32,no-resolve
 IP-CIDR,101.35.26.34/32,no-resolve
@@ -259,7 +258,6 @@ IP-CIDR,111.90.150.193/32,no-resolve
 IP-CIDR,113.52.135.27/32,no-resolve
 IP-CIDR,114.215.184.158/32,no-resolve
 IP-CIDR,115.159.190.77/32,no-resolve
-IP-CIDR,116.62.44.146/32,no-resolve
 IP-CIDR,116.62.81.149/32,no-resolve
 IP-CIDR,117.72.112.223/32,no-resolve
 IP-CIDR,117.72.205.100/32,no-resolve
@@ -323,7 +321,6 @@ IP-CIDR,151.243.137.99/32,no-resolve
 IP-CIDR,151.245.121.241/32,no-resolve
 IP-CIDR,152.42.135.240/32,no-resolve
 IP-CIDR,154.211.92.33/32,no-resolve
-IP-CIDR,154.217.234.105/32,no-resolve
 IP-CIDR,154.91.48.162/32,no-resolve
 IP-CIDR,154.91.48.163/32,no-resolve
 IP-CIDR,154.91.48.166/32,no-resolve
@@ -347,6 +344,7 @@ IP-CIDR,154.91.48.183/32,no-resolve
 IP-CIDR,154.91.48.184/32,no-resolve
 IP-CIDR,154.91.48.185/32,no-resolve
 IP-CIDR,154.91.48.186/32,no-resolve
+IP-CIDR,154.91.48.187/32,no-resolve
 IP-CIDR,154.91.49.163/32,no-resolve
 IP-CIDR,154.91.49.164/32,no-resolve
 IP-CIDR,154.91.49.165/32,no-resolve
@@ -365,7 +363,9 @@ IP-CIDR,154.91.49.185/32,no-resolve
 IP-CIDR,154.91.49.186/32,no-resolve
 IP-CIDR,154.91.49.188/32,no-resolve
 IP-CIDR,154.91.49.189/32,no-resolve
+IP-CIDR,154.91.49.190/32,no-resolve
 IP-CIDR,154.91.50.162/32,no-resolve
+IP-CIDR,154.91.50.163/32,no-resolve
 IP-CIDR,154.91.50.165/32,no-resolve
 IP-CIDR,154.91.50.168/32,no-resolve
 IP-CIDR,154.91.50.170/32,no-resolve
@@ -383,6 +383,13 @@ IP-CIDR,154.91.51.168/32,no-resolve
 IP-CIDR,154.91.51.171/32,no-resolve
 IP-CIDR,154.91.51.173/32,no-resolve
 IP-CIDR,154.91.51.178/32,no-resolve
+IP-CIDR,154.91.51.179/32,no-resolve
+IP-CIDR,154.91.51.180/32,no-resolve
+IP-CIDR,154.91.51.181/32,no-resolve
+IP-CIDR,154.91.51.182/32,no-resolve
+IP-CIDR,154.91.51.183/32,no-resolve
+IP-CIDR,154.91.51.184/32,no-resolve
+IP-CIDR,154.91.51.185/32,no-resolve
 IP-CIDR,154.91.51.190/32,no-resolve
 IP-CIDR,154.91.52.162/32,no-resolve
 IP-CIDR,154.91.52.164/32,no-resolve
@@ -451,7 +458,6 @@ IP-CIDR,165.245.187.53/32,no-resolve
 IP-CIDR,167.148.195.14/32,no-resolve
 IP-CIDR,167.148.201.108/32,no-resolve
 IP-CIDR,167.17.180.107/32,no-resolve
-IP-CIDR,167.235.158.200/32,no-resolve
 IP-CIDR,167.99.165.191/32,no-resolve
 IP-CIDR,168.138.40.244/32,no-resolve
 IP-CIDR,168.144.241.131/32,no-resolve
@@ -604,7 +610,9 @@ IP-CIDR,47.95.140.79/32,no-resolve
 IP-CIDR,47.98.124.244/32,no-resolve
 IP-CIDR,49.234.181.30/32,no-resolve
 IP-CIDR,49.235.158.141/32,no-resolve
+IP-CIDR,5.78.211.219/32,no-resolve
 IP-CIDR,51.83.192.18/32,no-resolve
+IP-CIDR,54.197.209.134/32,no-resolve
 IP-CIDR,54.71.81.78/32,no-resolve
 IP-CIDR,60.204.226.40/32,no-resolve
 IP-CIDR,60.205.138.103/32,no-resolve
