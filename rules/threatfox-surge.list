@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-30T12:10:02.335374+00:00
+# Generated UTC 2026-10-30T13:28:52.524712+00:00
 DOMAIN,2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
 DOMAIN,2v75pgpqlguqpflfjtz6iynwg3ndshjhh6vkxyldorarc6mpc5if5qqd.onion
 DOMAIN,4ee4snln5yuwmjdxwgznj5lahs24loa54f6aoehbeu6pc3axbcuzepyd.onion
@@ -15,7 +15,6 @@ DOMAIN,arvion.network
 DOMAIN,at.adwgamestore.org
 DOMAIN,at.ajo7.org
 DOMAIN,atr2t37ngllrkkbt7tsxprlnuejxknxjjiqvy3woralbuok3unhuzeqd.onion
-DOMAIN,aw52ywxpzf9kyxrhxzawoa.is
 DOMAIN,b.ayu99.pro
 DOMAIN,bq2uu6vdafrufhfwheghkmurzogtmum67ffah7sqkqyzw36wps2l6xqd.onion
 DOMAIN,bryan.dvrcam.info
@@ -254,7 +253,6 @@ IP-CIDR,107.148.158.243/32,no-resolve
 IP-CIDR,108.61.247.185/32,no-resolve
 IP-CIDR,109.237.99.3/32,no-resolve
 IP-CIDR,109.238.86.106/32,no-resolve
-IP-CIDR,109.238.87.239/32,no-resolve
 IP-CIDR,110.173.53.100/32,no-resolve
 IP-CIDR,110.173.53.101/32,no-resolve
 IP-CIDR,110.173.53.102/32,no-resolve
@@ -343,6 +341,9 @@ IP-CIDR,154.91.48.172/32,no-resolve
 IP-CIDR,154.91.48.173/32,no-resolve
 IP-CIDR,154.91.48.174/32,no-resolve
 IP-CIDR,154.91.48.175/32,no-resolve
+IP-CIDR,154.91.48.176/32,no-resolve
+IP-CIDR,154.91.48.177/32,no-resolve
+IP-CIDR,154.91.48.180/32,no-resolve
 IP-CIDR,154.91.49.165/32,no-resolve
 IP-CIDR,154.91.49.166/32,no-resolve
 IP-CIDR,154.91.49.167/32,no-resolve
@@ -411,13 +412,9 @@ IP-CIDR,154.94.237.203/32,no-resolve
 IP-CIDR,156.240.14.154/32,no-resolve
 IP-CIDR,156.240.14.155/32,no-resolve
 IP-CIDR,156.240.14.158/32,no-resolve
-IP-CIDR,156.240.41.127/32,no-resolve
 IP-CIDR,156.240.41.162/32,no-resolve
 IP-CIDR,156.240.41.192/32,no-resolve
-IP-CIDR,156.240.41.23/32,no-resolve
-IP-CIDR,156.240.41.24/32,no-resolve
 IP-CIDR,156.240.41.240/32,no-resolve
-IP-CIDR,156.240.41.246/32,no-resolve
 IP-CIDR,156.240.41.247/32,no-resolve
 IP-CIDR,156.240.41.41/32,no-resolve
 IP-CIDR,156.240.41.44/32,no-resolve
@@ -676,5 +673,4 @@ IP-CIDR,95.111.226.157/32,no-resolve
 IP-CIDR,95.133.167.231/32,no-resolve
 IP-CIDR,95.215.19.53/32,no-resolve
 IP-CIDR,95.85.243.33/32,no-resolve
-IP-CIDR,96.62.218.147/32,no-resolve
 IP-CIDR,96.9.124.130/32,no-resolve
