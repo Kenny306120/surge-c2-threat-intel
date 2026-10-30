@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-30T15:20:19.561122+00:00
+# Generated UTC 2026-10-30T16:14:56.829927+00:00
 DOMAIN,2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
 DOMAIN,2v75pgpqlguqpflfjtz6iynwg3ndshjhh6vkxyldorarc6mpc5if5qqd.onion
 DOMAIN,4ee4snln5yuwmjdxwgznj5lahs24loa54f6aoehbeu6pc3axbcuzepyd.onion
@@ -122,7 +122,6 @@ DOMAIN,n.acunbet89.org
 DOMAIN,n.bamto.org
 DOMAIN,n0n-cases.net
 DOMAIN,n0n.to
-DOMAIN,n3.acunbet89.org
 DOMAIN,namecheat.niggerservers.xyz
 DOMAIN,nf.agenplay89.org
 DOMAIN,nikogdatakonebilo.cc
@@ -135,11 +134,6 @@ DOMAIN,october28floor.eastus.cloudapp.azure.com
 DOMAIN,oi.bb69.org
 DOMAIN,oj.aeon888link.org
 DOMAIN,os.aeon888link.org
-DOMAIN,p.2137gang.net
-DOMAIN,p.2137gang.pl
-DOMAIN,p.2137gang.shop
-DOMAIN,p.2137gang.st
-DOMAIN,p.2137gang.store
 DOMAIN,p.bala7.org
 DOMAIN,p6hck3674wix7hcbeaxndqu45vkiafwokbtojykqxjwqkzwel3js3fqd.onion
 DOMAIN,panel.vidar.to
@@ -148,10 +142,6 @@ DOMAIN,payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion
 DOMAIN,payloadynyvabjacbun4uwhmxc7yvdzorycslzmnleguxjn7glahsvqd.onion
 DOMAIN,piizeaa.shop
 DOMAIN,poopflavored.beer
-DOMAIN,proxies.identities.network
-DOMAIN,proxy.identities.network
-DOMAIN,proxy.insanecppdev.com
-DOMAIN,proxy.insanitycpp.cx
 DOMAIN,q.aeoncash.org
 DOMAIN,q.bamto.org
 DOMAIN,q3.aeon888link.org
@@ -186,12 +176,12 @@ DOMAIN,tripletungbroadband.top
 DOMAIN,u6.adilawa99.org
 DOMAIN,u7.ajo7.org
 DOMAIN,universal-api.algarveexportltd.com
-DOMAIN,v.abc69.net
 DOMAIN,v.aww88.net
 DOMAIN,v.ayu99.pro
 DOMAIN,v.getpi.su
 DOMAIN,v2puzhht3hgoduknhwjy6gpc4ylcgnkjepqhpzcmzx2qrj3ibwnicqyd.onion
 DOMAIN,v8.aeon888link.org
+DOMAIN,vazsilvaconstruction.com
 DOMAIN,veritymein.eastus.cloudapp.azure.com
 DOMAIN,vg.bb69.org
 DOMAIN,vm.adwgamestore.org
@@ -262,7 +252,6 @@ IP-CIDR,110.173.53.99/32,no-resolve
 IP-CIDR,110.41.77.122/32,no-resolve
 IP-CIDR,111.170.148.132/32,no-resolve
 IP-CIDR,111.228.45.86/32,no-resolve
-IP-CIDR,111.229.144.163/32,no-resolve
 IP-CIDR,111.229.162.72/32,no-resolve
 IP-CIDR,111.229.199.24/32,no-resolve
 IP-CIDR,111.229.215.182/32,no-resolve
@@ -275,6 +264,7 @@ IP-CIDR,116.62.44.146/32,no-resolve
 IP-CIDR,116.62.81.149/32,no-resolve
 IP-CIDR,117.72.112.223/32,no-resolve
 IP-CIDR,117.72.205.100/32,no-resolve
+IP-CIDR,118.107.44.67/32,no-resolve
 IP-CIDR,118.25.147.157/32,no-resolve
 IP-CIDR,119.42.148.186/32,no-resolve
 IP-CIDR,119.42.148.187/32,no-resolve
@@ -328,10 +318,12 @@ IP-CIDR,149.104.31.151/32,no-resolve
 IP-CIDR,15.164.241.232/32,no-resolve
 IP-CIDR,150.241.66.89/32,no-resolve
 IP-CIDR,150.241.69.22/32,no-resolve
+IP-CIDR,151.243.137.99/32,no-resolve
 IP-CIDR,151.245.121.241/32,no-resolve
 IP-CIDR,152.42.135.240/32,no-resolve
 IP-CIDR,154.211.92.33/32,no-resolve
 IP-CIDR,154.217.234.105/32,no-resolve
+IP-CIDR,154.91.48.162/32,no-resolve
 IP-CIDR,154.91.48.163/32,no-resolve
 IP-CIDR,154.91.48.166/32,no-resolve
 IP-CIDR,154.91.48.167/32,no-resolve
@@ -350,6 +342,10 @@ IP-CIDR,154.91.48.179/32,no-resolve
 IP-CIDR,154.91.48.180/32,no-resolve
 IP-CIDR,154.91.48.181/32,no-resolve
 IP-CIDR,154.91.48.182/32,no-resolve
+IP-CIDR,154.91.48.183/32,no-resolve
+IP-CIDR,154.91.48.184/32,no-resolve
+IP-CIDR,154.91.48.185/32,no-resolve
+IP-CIDR,154.91.48.186/32,no-resolve
 IP-CIDR,154.91.49.165/32,no-resolve
 IP-CIDR,154.91.49.166/32,no-resolve
 IP-CIDR,154.91.49.167/32,no-resolve
@@ -560,7 +556,6 @@ IP-CIDR,38.60.179.108/32,no-resolve
 IP-CIDR,38.60.246.113/32,no-resolve
 IP-CIDR,39.100.64.125/32,no-resolve
 IP-CIDR,39.103.98.161/32,no-resolve
-IP-CIDR,39.96.202.122/32,no-resolve
 IP-CIDR,39.96.78.162/32,no-resolve
 IP-CIDR,42.192.106.170/32,no-resolve
 IP-CIDR,42.194.146.97/32,no-resolve
@@ -666,6 +661,7 @@ IP-CIDR,94.154.32.128/32,no-resolve
 IP-CIDR,94.154.32.69/32,no-resolve
 IP-CIDR,94.154.43.102/32,no-resolve
 IP-CIDR,94.154.43.195/32,no-resolve
+IP-CIDR,94.154.43.26/32,no-resolve
 IP-CIDR,94.154.43.68/32,no-resolve
 IP-CIDR,94.26.0.120/32,no-resolve
 IP-CIDR,94.26.81.147/32,no-resolve
