@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-31T22:58:40.655775+00:00
+# Generated UTC 2026-10-31T23:30:22.654775+00:00
 DOMAIN,2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
 DOMAIN,2v75pgpqlguqpflfjtz6iynwg3ndshjhh6vkxyldorarc6mpc5if5qqd.onion
 DOMAIN,4ee4snln5yuwmjdxwgznj5lahs24loa54f6aoehbeu6pc3axbcuzepyd.onion
@@ -87,6 +87,7 @@ DOMAIN,jxk.imarapi.st
 DOMAIN,k.bala7.org
 DOMAIN,k1.bb69.org
 DOMAIN,kcipytrnpyvvjygeh5dtehdlhzc6i6ijvsivbgvvevuvbsplgawdezyd.onion
+DOMAIN,kh.afktogel.org
 DOMAIN,knecibfact4epasdbj7dzwfpl5k54z3g22vvcnxkvnflnobhxycolpyd.onion
 DOMAIN,ksm.aeoncash.org
 DOMAIN,l.bb69.org
@@ -229,6 +230,7 @@ IP-CIDR,108.187.43.110/32,no-resolve
 IP-CIDR,108.61.247.185/32,no-resolve
 IP-CIDR,109.238.86.106/32,no-resolve
 IP-CIDR,110.41.77.122/32,no-resolve
+IP-CIDR,111.170.148.141/32,no-resolve
 IP-CIDR,111.228.45.86/32,no-resolve
 IP-CIDR,111.229.162.72/32,no-resolve
 IP-CIDR,111.229.199.24/32,no-resolve
@@ -343,6 +345,7 @@ IP-CIDR,154.91.49.183/32,no-resolve
 IP-CIDR,154.91.49.184/32,no-resolve
 IP-CIDR,154.91.49.185/32,no-resolve
 IP-CIDR,154.91.49.186/32,no-resolve
+IP-CIDR,154.91.49.187/32,no-resolve
 IP-CIDR,154.91.49.188/32,no-resolve
 IP-CIDR,154.91.49.189/32,no-resolve
 IP-CIDR,154.91.49.190/32,no-resolve
@@ -505,7 +508,6 @@ IP-CIDR,154.91.55.190/32,no-resolve
 IP-CIDR,154.94.237.203/32,no-resolve
 IP-CIDR,156.234.7.14/32,no-resolve
 IP-CIDR,156.234.7.71/32,no-resolve
-IP-CIDR,156.240.14.158/32,no-resolve
 IP-CIDR,156.246.90.214/32,no-resolve
 IP-CIDR,156.247.40.170/32,no-resolve
 IP-CIDR,156.254.20.46/32,no-resolve
@@ -526,6 +528,7 @@ IP-CIDR,161.35.62.230/32,no-resolve
 IP-CIDR,164.92.128.244/32,no-resolve
 IP-CIDR,165.22.61.69/32,no-resolve
 IP-CIDR,165.227.210.117/32,no-resolve
+IP-CIDR,166.88.100.135/32,no-resolve
 IP-CIDR,167.148.195.14/32,no-resolve
 IP-CIDR,167.99.165.191/32,no-resolve
 IP-CIDR,168.138.40.244/32,no-resolve
@@ -588,7 +591,6 @@ IP-CIDR,20.109.163.207/32,no-resolve
 IP-CIDR,20.199.40.109/32,no-resolve
 IP-CIDR,202.61.160.181/32,no-resolve
 IP-CIDR,202.61.160.233/32,no-resolve
-IP-CIDR,203.195.243.103/32,no-resolve
 IP-CIDR,203.91.75.211/32,no-resolve
 IP-CIDR,204.10.160.206/32,no-resolve
 IP-CIDR,204.12.218.236/32,no-resolve
