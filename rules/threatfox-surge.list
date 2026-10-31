@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-31T18:32:12.439886+00:00
+# Generated UTC 2026-10-31T19:29:06.153194+00:00
 DOMAIN,2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
 DOMAIN,2v75pgpqlguqpflfjtz6iynwg3ndshjhh6vkxyldorarc6mpc5if5qqd.onion
 DOMAIN,4ee4snln5yuwmjdxwgznj5lahs24loa54f6aoehbeu6pc3axbcuzepyd.onion
@@ -146,6 +146,7 @@ DOMAIN,r.bamto.org
 DOMAIN,relay.reelxgrab.cc
 DOMAIN,rest.echofetch.cc
 DOMAIN,rhysidaxx6gdihss7urv4ecbh2yz4izhnfulfbrb4ua5dwkocm653yid.onion
+DOMAIN,rp.afktogel.org
 DOMAIN,s.bb69.org
 DOMAIN,s4.afktogel.org
 DOMAIN,s4.bb69.org
@@ -486,9 +487,14 @@ IP-CIDR,154.91.55.175/32,no-resolve
 IP-CIDR,154.91.55.176/32,no-resolve
 IP-CIDR,154.91.55.177/32,no-resolve
 IP-CIDR,154.91.55.178/32,no-resolve
+IP-CIDR,154.91.55.179/32,no-resolve
 IP-CIDR,154.91.55.180/32,no-resolve
 IP-CIDR,154.91.55.181/32,no-resolve
+IP-CIDR,154.91.55.182/32,no-resolve
+IP-CIDR,154.91.55.183/32,no-resolve
 IP-CIDR,154.91.55.184/32,no-resolve
+IP-CIDR,154.91.55.185/32,no-resolve
+IP-CIDR,154.91.55.186/32,no-resolve
 IP-CIDR,154.91.55.187/32,no-resolve
 IP-CIDR,154.91.55.189/32,no-resolve
 IP-CIDR,154.91.55.190/32,no-resolve
@@ -617,7 +623,6 @@ IP-CIDR,38.240.56.216/32,no-resolve
 IP-CIDR,38.255.32.231/32,no-resolve
 IP-CIDR,38.255.34.171/32,no-resolve
 IP-CIDR,38.60.179.108/32,no-resolve
-IP-CIDR,38.60.246.113/32,no-resolve
 IP-CIDR,39.100.64.125/32,no-resolve
 IP-CIDR,39.103.98.161/32,no-resolve
 IP-CIDR,39.96.78.162/32,no-resolve
