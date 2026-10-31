@@ -1,4 +1,4 @@
-# Generated UTC 2026-10-31T10:05:12.018668+00:00
+# Generated UTC 2026-10-31T10:59:57.487494+00:00
 DOMAIN,2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
 DOMAIN,2v75pgpqlguqpflfjtz6iynwg3ndshjhh6vkxyldorarc6mpc5if5qqd.onion
 DOMAIN,4ee4snln5yuwmjdxwgznj5lahs24loa54f6aoehbeu6pc3axbcuzepyd.onion
@@ -114,7 +114,6 @@ DOMAIN,merchantinvestnetwork.com
 DOMAIN,mipwc5byekofoatzrgj3wwxsy5wunjqprp2qakdddgbufc3bqgpxtoqd.onion
 DOMAIN,mopsikimilie.cc
 DOMAIN,mydiaperisfull.baby
-DOMAIN,n.acunbet89.org
 DOMAIN,n.bamto.org
 DOMAIN,n0n-cases.net
 DOMAIN,n0n.to
@@ -170,7 +169,6 @@ DOMAIN,t.ayu99.pro
 DOMAIN,trace9.web-nest.xyz
 DOMAIN,tripletungbroadband.top
 DOMAIN,u6.adilawa99.org
-DOMAIN,u7.ajo7.org
 DOMAIN,universal-api.algarveexportltd.com
 DOMAIN,v.aww88.net
 DOMAIN,v.ayu99.pro
@@ -225,6 +223,7 @@ IP-CIDR,104.218.50.244/32,no-resolve
 IP-CIDR,104.248.16.36/32,no-resolve
 IP-CIDR,104.248.206.134/32,no-resolve
 IP-CIDR,104.248.87.24/32,no-resolve
+IP-CIDR,104.64.43.105/32,no-resolve
 IP-CIDR,106.12.47.232/32,no-resolve
 IP-CIDR,106.54.1.74/32,no-resolve
 IP-CIDR,106.54.13.23/32,no-resolve
@@ -447,9 +446,14 @@ IP-CIDR,154.91.53.185/32,no-resolve
 IP-CIDR,154.91.53.186/32,no-resolve
 IP-CIDR,154.91.53.187/32,no-resolve
 IP-CIDR,154.91.53.188/32,no-resolve
+IP-CIDR,154.91.53.189/32,no-resolve
+IP-CIDR,154.91.53.190/32,no-resolve
+IP-CIDR,154.91.54.162/32,no-resolve
 IP-CIDR,154.91.54.163/32,no-resolve
 IP-CIDR,154.91.54.165/32,no-resolve
 IP-CIDR,154.91.54.169/32,no-resolve
+IP-CIDR,154.91.54.170/32,no-resolve
+IP-CIDR,154.91.54.171/32,no-resolve
 IP-CIDR,154.91.54.173/32,no-resolve
 IP-CIDR,154.91.54.175/32,no-resolve
 IP-CIDR,154.91.54.176/32,no-resolve
@@ -495,6 +499,8 @@ IP-CIDR,168.138.40.244/32,no-resolve
 IP-CIDR,168.144.241.131/32,no-resolve
 IP-CIDR,170.231.239.144/32,no-resolve
 IP-CIDR,172.111.150.134/32,no-resolve
+IP-CIDR,172.233.108.128/32,no-resolve
+IP-CIDR,172.233.108.189/32,no-resolve
 IP-CIDR,172.86.112.154/32,no-resolve
 IP-CIDR,172.93.187.71/32,no-resolve
 IP-CIDR,175.178.126.48/32,no-resolve
@@ -631,6 +637,7 @@ IP-CIDR,47.239.212.183/32,no-resolve
 IP-CIDR,47.243.109.132/32,no-resolve
 IP-CIDR,47.94.132.198/32,no-resolve
 IP-CIDR,47.95.140.79/32,no-resolve
+IP-CIDR,47.97.243.66/32,no-resolve
 IP-CIDR,49.234.181.30/32,no-resolve
 IP-CIDR,5.78.211.219/32,no-resolve
 IP-CIDR,51.83.192.18/32,no-resolve
