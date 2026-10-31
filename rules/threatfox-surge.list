@@ -1,9 +1,10 @@
-# Generated UTC 2026-10-31T12:31:50.773388+00:00
+# Generated UTC 2026-10-31T13:38:10.764237+00:00
 DOMAIN,2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
 DOMAIN,2v75pgpqlguqpflfjtz6iynwg3ndshjhh6vkxyldorarc6mpc5if5qqd.onion
 DOMAIN,4ee4snln5yuwmjdxwgznj5lahs24loa54f6aoehbeu6pc3axbcuzepyd.onion
 DOMAIN,4tumprjdxgadgyffjxce3be3adxvhrl4hud5rksy6yam3hc2uslfh5ad.onion
 DOMAIN,ab41vc541fd04435740.health-carereform.com
+DOMAIN,ac251.club
 DOMAIN,admin.model-point.click
 DOMAIN,af2tfcqmwc3crg56d5iirf3u5znrqc36wxn4mst4ytljm56dwtxgkfid.onion
 DOMAIN,aket65o2xznczt5ef4xtlo46g6lv5nlebjpsjrl3ihrvq3pmysekhhyd.onion
@@ -15,6 +16,7 @@ DOMAIN,arvion.network
 DOMAIN,at.adwgamestore.org
 DOMAIN,atr2t37ngllrkkbt7tsxprlnuejxknxjjiqvy3woralbuok3unhuzeqd.onion
 DOMAIN,b.ayu99.pro
+DOMAIN,boardmantra.in
 DOMAIN,bq2uu6vdafrufhfwheghkmurzogtmum67ffah7sqkqyzw36wps2l6xqd.onion
 DOMAIN,bryan.dvrcam.info
 DOMAIN,c.adilawa99.org
@@ -37,6 +39,7 @@ DOMAIN,cw.aeon888link.org
 DOMAIN,czxzcu2smxtrbm7rj4eclskgydq5kiif4tgrvlsn2ri5rbndj5hu6wad.onion
 DOMAIN,d.aww88.net
 DOMAIN,d.bb69.org
+DOMAIN,dagatructiep.digital
 DOMAIN,de.aeoncash.org
 DOMAIN,de.remusdownloads.su
 DOMAIN,debug.pingload.cc
@@ -78,6 +81,7 @@ DOMAIN,if.aeoncash.org
 DOMAIN,im.adilawa99.org
 DOMAIN,imap.hazelmoss.cc
 DOMAIN,imissyou333.duckdns.org
+DOMAIN,inmemoriam.in
 DOMAIN,is.adwgamestore.org
 DOMAIN,iy.acunbet89.org
 DOMAIN,j0.bala7.org
@@ -91,6 +95,7 @@ DOMAIN,k.bala7.org
 DOMAIN,k1.bb69.org
 DOMAIN,kcipytrnpyvvjygeh5dtehdlhzc6i6ijvsivbgvvevuvbsplgawdezyd.onion
 DOMAIN,knecibfact4epasdbj7dzwfpl5k54z3g22vvcnxkvnflnobhxycolpyd.onion
+DOMAIN,kordramas.co
 DOMAIN,ksm.aeoncash.org
 DOMAIN,l.bb69.org
 DOMAIN,l0.aeon888link.org
@@ -114,6 +119,8 @@ DOMAIN,megakefir.duckdns.org
 DOMAIN,merchantinvestnetwork.com
 DOMAIN,mipwc5byekofoatzrgj3wwxsy5wunjqprp2qakdddgbufc3bqgpxtoqd.onion
 DOMAIN,mopsikimilie.cc
+DOMAIN,mu88a2.com
+DOMAIN,mu88vuive.com
 DOMAIN,mydiaperisfull.baby
 DOMAIN,n.bamto.org
 DOMAIN,n0n-cases.net
@@ -159,6 +166,8 @@ DOMAIN,s4.bb69.org
 DOMAIN,sigmauperdonesoft.com
 DOMAIN,sigmus1-4fileportal-88.centralus.cloudapp.azure.com
 DOMAIN,sl3iwbho7zdqjc3phm24pcd2xnko3nympkiplp6xthkc4775lb6nmxqd.onion
+DOMAIN,slotslotbentley.cc
+DOMAIN,soicaurongbachkimmb.com
 DOMAIN,sometimes-i-fuck-a.baby
 DOMAIN,sorrelglen.cc
 DOMAIN,srglqrcvuey6p3a352d7hnqdnxwfvwfmlkclvs5u5zydvr6c2cq6mtad.onion
@@ -455,6 +464,7 @@ IP-CIDR,154.91.54.164/32,no-resolve
 IP-CIDR,154.91.54.165/32,no-resolve
 IP-CIDR,154.91.54.166/32,no-resolve
 IP-CIDR,154.91.54.167/32,no-resolve
+IP-CIDR,154.91.54.168/32,no-resolve
 IP-CIDR,154.91.54.169/32,no-resolve
 IP-CIDR,154.91.54.170/32,no-resolve
 IP-CIDR,154.91.54.171/32,no-resolve
@@ -463,6 +473,9 @@ IP-CIDR,154.91.54.173/32,no-resolve
 IP-CIDR,154.91.54.174/32,no-resolve
 IP-CIDR,154.91.54.175/32,no-resolve
 IP-CIDR,154.91.54.176/32,no-resolve
+IP-CIDR,154.91.54.178/32,no-resolve
+IP-CIDR,154.91.54.179/32,no-resolve
+IP-CIDR,154.91.54.180/32,no-resolve
 IP-CIDR,154.91.54.181/32,no-resolve
 IP-CIDR,154.91.54.182/32,no-resolve
 IP-CIDR,154.91.54.183/32,no-resolve
@@ -595,7 +608,6 @@ IP-CIDR,37.27.4.38/32,no-resolve
 IP-CIDR,37.27.9.42/32,no-resolve
 IP-CIDR,38.175.192.57/32,no-resolve
 IP-CIDR,38.190.196.38/32,no-resolve
-IP-CIDR,38.190.224.38/32,no-resolve
 IP-CIDR,38.240.48.153/32,no-resolve
 IP-CIDR,38.240.56.216/32,no-resolve
 IP-CIDR,38.255.32.231/32,no-resolve
