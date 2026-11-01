@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-01T16:33:35.798617+00:00
+# Generated UTC 2026-11-01T17:23:31.251793+00:00
 DOMAIN,2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
 DOMAIN,2v75pgpqlguqpflfjtz6iynwg3ndshjhh6vkxyldorarc6mpc5if5qqd.onion
 DOMAIN,4ee4snln5yuwmjdxwgznj5lahs24loa54f6aoehbeu6pc3axbcuzepyd.onion
@@ -101,7 +101,6 @@ DOMAIN,lb.heronpull.cc
 DOMAIN,lg.afktogel.org
 DOMAIN,lift50.com
 DOMAIN,login.sorrelglen.cc
-DOMAIN,lt.remusdownloads.to
 DOMAIN,m.aot88.com
 DOMAIN,m0.aeoncash.org
 DOMAIN,magicalplanet.4nmn.com
@@ -227,6 +226,7 @@ IP-CIDR,106.54.10.214/32,no-resolve
 IP-CIDR,106.54.13.23/32,no-resolve
 IP-CIDR,106.54.41.209/32,no-resolve
 IP-CIDR,106.75.148.37/32,no-resolve
+IP-CIDR,106.75.249.202/32,no-resolve
 IP-CIDR,107.149.104.215/32,no-resolve
 IP-CIDR,108.187.43.110/32,no-resolve
 IP-CIDR,108.61.247.185/32,no-resolve
@@ -625,6 +625,7 @@ IP-CIDR,217.60.102.45/32,no-resolve
 IP-CIDR,217.60.195.43/32,no-resolve
 IP-CIDR,217.60.242.27/32,no-resolve
 IP-CIDR,218.237.58.53/32,no-resolve
+IP-CIDR,23.227.203.239/32,no-resolve
 IP-CIDR,23.94.145.143/32,no-resolve
 IP-CIDR,23.94.252.54/32,no-resolve
 IP-CIDR,31.56.19.71/32,no-resolve
@@ -653,6 +654,7 @@ IP-CIDR,42.194.213.76/32,no-resolve
 IP-CIDR,43.108.51.124/32,no-resolve
 IP-CIDR,43.133.248.198/32,no-resolve
 IP-CIDR,43.136.92.170/32,no-resolve
+IP-CIDR,43.139.187.59/32,no-resolve
 IP-CIDR,43.163.242.241/32,no-resolve
 IP-CIDR,43.167.223.40/32,no-resolve
 IP-CIDR,43.203.112.69/32,no-resolve
@@ -717,6 +719,7 @@ IP-CIDR,8.140.228.202/32,no-resolve
 IP-CIDR,8.160.179.57/32,no-resolve
 IP-CIDR,8.217.254.211/32,no-resolve
 IP-CIDR,8.217.91.135/32,no-resolve
+IP-CIDR,8.220.246.195/32,no-resolve
 IP-CIDR,80.87.206.86/32,no-resolve
 IP-CIDR,80.96.113.59/32,no-resolve
 IP-CIDR,80.96.58.22/32,no-resolve
