@@ -1,8 +1,9 @@
-# Generated UTC 2026-11-01T02:38:42.869615+00:00
+# Generated UTC 2026-11-01T03:40:27.714815+00:00
 DOMAIN,2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
 DOMAIN,2v75pgpqlguqpflfjtz6iynwg3ndshjhh6vkxyldorarc6mpc5if5qqd.onion
 DOMAIN,4ee4snln5yuwmjdxwgznj5lahs24loa54f6aoehbeu6pc3axbcuzepyd.onion
 DOMAIN,4tumprjdxgadgyffjxce3be3adxvhrl4hud5rksy6yam3hc2uslfh5ad.onion
+DOMAIN,a.bok13.org
 DOMAIN,ab41vc541fd04435740.health-carereform.com
 DOMAIN,admin.model-point.click
 DOMAIN,af2tfcqmwc3crg56d5iirf3u5znrqc36wxn4mst4ytljm56dwtxgkfid.onion
@@ -82,7 +83,6 @@ DOMAIN,jf.piizeaa.shop
 DOMAIN,jj.adwgamestore.org
 DOMAIN,jj.bala7.org
 DOMAIN,jq.aeoncash.org
-DOMAIN,jtf.adilawa99.org
 DOMAIN,jxk.imarapi.st
 DOMAIN,k.bala7.org
 DOMAIN,k1.bb69.org
@@ -126,6 +126,7 @@ DOMAIN,object.glimmerpull.cc
 DOMAIN,october28floor.eastus.cloudapp.azure.com
 DOMAIN,oi.bb69.org
 DOMAIN,oj.aeon888link.org
+DOMAIN,op.afterbet88.org
 DOMAIN,os.aeon888link.org
 DOMAIN,p.bala7.org
 DOMAIN,p6hck3674wix7hcbeaxndqu45vkiafwokbtojykqxjwqkzwel3js3fqd.onion
@@ -654,6 +655,7 @@ IP-CIDR,45.43.37.232/32,no-resolve
 IP-CIDR,45.59.126.125/32,no-resolve
 IP-CIDR,45.61.176.112/32,no-resolve
 IP-CIDR,45.77.115.234/32,no-resolve
+IP-CIDR,45.87.53.3/32,no-resolve
 IP-CIDR,45.87.61.137/32,no-resolve
 IP-CIDR,46.101.198.130/32,no-resolve
 IP-CIDR,46.101.249.247/32,no-resolve
@@ -671,6 +673,7 @@ IP-CIDR,47.109.23.77/32,no-resolve
 IP-CIDR,47.111.117.176/32,no-resolve
 IP-CIDR,47.239.212.183/32,no-resolve
 IP-CIDR,47.243.109.132/32,no-resolve
+IP-CIDR,47.80.241.141/32,no-resolve
 IP-CIDR,47.94.132.198/32,no-resolve
 IP-CIDR,47.97.243.66/32,no-resolve
 IP-CIDR,49.234.181.30/32,no-resolve
@@ -684,7 +687,6 @@ IP-CIDR,64.118.128.131/32,no-resolve
 IP-CIDR,64.118.134.192/32,no-resolve
 IP-CIDR,64.176.80.211/32,no-resolve
 IP-CIDR,64.226.67.42/32,no-resolve
-IP-CIDR,64.89.161.138/32,no-resolve
 IP-CIDR,64.89.163.212/32,no-resolve
 IP-CIDR,68.183.90.240/32,no-resolve
 IP-CIDR,68.64.176.76/32,no-resolve
