@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-01T18:33:26.667583+00:00
+# Generated UTC 2026-11-01T19:29:27.628622+00:00
 DOMAIN,2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
 DOMAIN,2v75pgpqlguqpflfjtz6iynwg3ndshjhh6vkxyldorarc6mpc5if5qqd.onion
 DOMAIN,4ee4snln5yuwmjdxwgznj5lahs24loa54f6aoehbeu6pc3axbcuzepyd.onion
@@ -18,6 +18,7 @@ DOMAIN,atr2t37ngllrkkbt7tsxprlnuejxknxjjiqvy3woralbuok3unhuzeqd.onion
 DOMAIN,b.ayu99.pro
 DOMAIN,bq2uu6vdafrufhfwheghkmurzogtmum67ffah7sqkqyzw36wps2l6xqd.onion
 DOMAIN,bryan.dvrcam.info
+DOMAIN,c.afterbet88.org
 DOMAIN,c.aot88.com
 DOMAIN,c.aww88.net
 DOMAIN,c.bamto.org
@@ -165,7 +166,6 @@ DOMAIN,tallowfetch.cc
 DOMAIN,trace9.web-nest.xyz
 DOMAIN,tripletungbroadband.top
 DOMAIN,u.bok13.org
-DOMAIN,u6.adilawa99.org
 DOMAIN,universal-api.algarveexportltd.com
 DOMAIN,v.aww88.net
 DOMAIN,v.ayu99.pro
@@ -193,6 +193,7 @@ DOMAIN,yw.bala7.org
 DOMAIN,yyjcykk6afxf6vtteeullde6qokefy7phsuxbplcswdqxjdqhkcf6ryd.onion
 DOMAIN,z.amo98.org
 DOMAIN,z.aww88.net
+DOMAIN,z.bok13.org
 DOMAIN,z4.afktogel.org
 DOMAIN,zen.ayxandevgang.workers.dev
 DOMAIN,zfs.agenpr.org
@@ -240,7 +241,6 @@ IP-CIDR,111.229.199.24/32,no-resolve
 IP-CIDR,111.229.215.182/32,no-resolve
 IP-CIDR,111.90.150.193/32,no-resolve
 IP-CIDR,115.175.24.19/32,no-resolve
-IP-CIDR,116.62.81.149/32,no-resolve
 IP-CIDR,117.72.112.223/32,no-resolve
 IP-CIDR,117.72.205.100/32,no-resolve
 IP-CIDR,118.107.44.67/32,no-resolve
@@ -666,7 +666,6 @@ IP-CIDR,45.135.118.214/32,no-resolve
 IP-CIDR,45.141.117.158/32,no-resolve
 IP-CIDR,45.144.172.49/32,no-resolve
 IP-CIDR,45.198.224.164/32,no-resolve
-IP-CIDR,45.202.245.70/32,no-resolve
 IP-CIDR,45.32.39.157/32,no-resolve
 IP-CIDR,45.43.37.232/32,no-resolve
 IP-CIDR,45.59.126.125/32,no-resolve
