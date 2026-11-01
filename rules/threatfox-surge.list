@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-01T04:40:56.342810+00:00
+# Generated UTC 2026-11-01T05:36:44.934074+00:00
 DOMAIN,2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
 DOMAIN,2v75pgpqlguqpflfjtz6iynwg3ndshjhh6vkxyldorarc6mpc5if5qqd.onion
 DOMAIN,4ee4snln5yuwmjdxwgznj5lahs24loa54f6aoehbeu6pc3axbcuzepyd.onion
@@ -52,6 +52,7 @@ DOMAIN,exkbqpb36xgih7jgfobhwtvx3cxgdzsf6ccjzvsxpfycnmaq7fzlcfad.onion
 DOMAIN,f.au338.org
 DOMAIN,farenaw.cc
 DOMAIN,fileagreement.xyz
+DOMAIN,filqexo.com
 DOMAIN,firebase.emeraldpineventuresllc.com
 DOMAIN,flv.aeoncash.org
 DOMAIN,fm.afktogel.org
@@ -159,6 +160,7 @@ DOMAIN,sorrelglen.cc
 DOMAIN,srglqrcvuey6p3a352d7hnqdnxwfvwfmlkclvs5u5zydvr6c2cq6mtad.onion
 DOMAIN,ssl.cinderfetch.cc
 DOMAIN,stenchmaxx.study
+DOMAIN,supremegods.website
 DOMAIN,t-smc.top
 DOMAIN,t.aww88.net
 DOMAIN,t.ayu99.pro
@@ -430,6 +432,8 @@ IP-CIDR,154.91.52.179/32,no-resolve
 IP-CIDR,154.91.52.180/32,no-resolve
 IP-CIDR,154.91.52.181/32,no-resolve
 IP-CIDR,154.91.52.183/32,no-resolve
+IP-CIDR,154.91.52.186/32,no-resolve
+IP-CIDR,154.91.52.187/32,no-resolve
 IP-CIDR,154.91.52.188/32,no-resolve
 IP-CIDR,154.91.53.167/32,no-resolve
 IP-CIDR,154.91.53.168/32,no-resolve
@@ -657,6 +661,7 @@ IP-CIDR,45.61.176.112/32,no-resolve
 IP-CIDR,45.77.115.234/32,no-resolve
 IP-CIDR,45.87.53.10/32,no-resolve
 IP-CIDR,45.87.53.3/32,no-resolve
+IP-CIDR,45.87.53.4/32,no-resolve
 IP-CIDR,45.87.61.137/32,no-resolve
 IP-CIDR,46.101.198.130/32,no-resolve
 IP-CIDR,46.101.249.247/32,no-resolve
