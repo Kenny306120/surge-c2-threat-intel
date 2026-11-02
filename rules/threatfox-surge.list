@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-01T23:57:46.775714+00:00
+# Generated UTC 2026-11-02T00:49:46.460709+00:00
 DOMAIN,2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
 DOMAIN,2v75pgpqlguqpflfjtz6iynwg3ndshjhh6vkxyldorarc6mpc5if5qqd.onion
 DOMAIN,4ee4snln5yuwmjdxwgznj5lahs24loa54f6aoehbeu6pc3axbcuzepyd.onion
@@ -739,6 +739,7 @@ IP-CIDR,78.83.103.72/32,no-resolve
 IP-CIDR,8.134.160.8/32,no-resolve
 IP-CIDR,8.138.27.20/32,no-resolve
 IP-CIDR,8.140.228.202/32,no-resolve
+IP-CIDR,8.160.165.56/32,no-resolve
 IP-CIDR,8.160.179.57/32,no-resolve
 IP-CIDR,8.217.254.211/32,no-resolve
 IP-CIDR,8.217.91.135/32,no-resolve
