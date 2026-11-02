@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-02T06:59:53.724575+00:00
+# Generated UTC 2026-11-02T08:25:45.484883+00:00
 DOMAIN,2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
 DOMAIN,a.bok13.org
 DOMAIN,ab41vc541fd04435740.health-carereform.com
@@ -10,12 +10,10 @@ DOMAIN,apache-update.csproject.org
 DOMAIN,apache-update.ddns.net
 DOMAIN,aqringagook.website
 DOMAIN,arvion.network
-DOMAIN,at.adwgamestore.org
 DOMAIN,b.ayu99.pro
+DOMAIN,birchcore.cc
 DOMAIN,bryan.dvrcam.info
 DOMAIN,c.afterbet88.org
-DOMAIN,c.aot88.com
-DOMAIN,c.aww88.net
 DOMAIN,c.bamto.org
 DOMAIN,c.bb69.org
 DOMAIN,c.bok13.org
@@ -27,7 +25,6 @@ DOMAIN,compassagreement.cfd
 DOMAIN,concretehomesaruba.lat
 DOMAIN,crackedkrypton.xyz
 DOMAIN,cw.aeon888link.org
-DOMAIN,d.aww88.net
 DOMAIN,d.bb69.org
 DOMAIN,data.wickenhollow.cc
 DOMAIN,de.aeoncash.org
@@ -61,7 +58,6 @@ DOMAIN,gmpxaidwv4cw7o2uvkrxpwnxk5esflzv2l3lm4lvpypu56bigr4n4nad.onion
 DOMAIN,gol1111.store
 DOMAIN,good123.eastus.cloudapp.azure.com
 DOMAIN,greatwivesforme.wifenet.lol
-DOMAIN,h8h.agenplay89.org
 DOMAIN,hazelmoss.cc
 DOMAIN,health3.flex-haven.click
 DOMAIN,hi.afterbet88.org
@@ -89,6 +85,7 @@ DOMAIN,l.bb69.org
 DOMAIN,l0.aeon888link.org
 DOMAIN,l5.aeon888link.org
 DOMAIN,larpestan.duckdns.org
+DOMAIN,lb.birchcore.cc
 DOMAIN,lb.heronpull.cc
 DOMAIN,lg.afktogel.org
 DOMAIN,lift50.com
@@ -106,7 +103,6 @@ DOMAIN,n.bamto.org
 DOMAIN,n0n-cases.net
 DOMAIN,n0n.to
 DOMAIN,namecheat.niggerservers.xyz
-DOMAIN,nf.agenplay89.org
 DOMAIN,nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion
 DOMAIN,o.adwgamestore.org
 DOMAIN,object.glimmerpull.cc
@@ -140,14 +136,12 @@ DOMAIN,ssl.cinderfetch.cc
 DOMAIN,stenchmaxx.study
 DOMAIN,supremegods.website
 DOMAIN,t-smc.top
-DOMAIN,t.aww88.net
 DOMAIN,t.ayu99.pro
 DOMAIN,tallowfetch.cc
 DOMAIN,trace9.web-nest.xyz
 DOMAIN,tripletungbroadband.top
 DOMAIN,u.bok13.org
 DOMAIN,universal-api.algarveexportltd.com
-DOMAIN,v.aww88.net
 DOMAIN,v.ayu99.pro
 DOMAIN,v8.aeon888link.org
 DOMAIN,veritymein.eastus.cloudapp.azure.com
@@ -156,14 +150,12 @@ DOMAIN,vm.adwgamestore.org
 DOMAIN,westusserverfor.westus2.cloudapp.azure.com
 DOMAIN,wickenhollow.cc
 DOMAIN,wifisucks.duckdns.org
+DOMAIN,wvw.akuatoto.net
 DOMAIN,wwwapko.top
 DOMAIN,x.ayu99.pro
-DOMAIN,xa.agenplay89.org
 DOMAIN,xjhmtitnrdrgzw4vmsghirdoo2fk35a3tzj4enlmah4pvehdspydsiyd.onion
 DOMAIN,xwszdkj.com
-DOMAIN,y.aww88.net
 DOMAIN,ya.adwgamestore.org
-DOMAIN,yu.agenplay89.org
 DOMAIN,yw.bala7.org
 DOMAIN,z.aww88.net
 DOMAIN,z.bok13.org
@@ -187,7 +179,6 @@ IP-CIDR,103.186.85.180/32,no-resolve
 IP-CIDR,103.186.85.181/32,no-resolve
 IP-CIDR,103.208.87.56/32,no-resolve
 IP-CIDR,103.39.79.102/32,no-resolve
-IP-CIDR,104.105.4.229/32,no-resolve
 IP-CIDR,104.153.209.125/32,no-resolve
 IP-CIDR,104.168.7.227/32,no-resolve
 IP-CIDR,104.218.50.244/32,no-resolve
@@ -207,7 +198,6 @@ IP-CIDR,108.187.43.110/32,no-resolve
 IP-CIDR,108.61.247.185/32,no-resolve
 IP-CIDR,109.238.86.106/32,no-resolve
 IP-CIDR,109.238.92.50/32,no-resolve
-IP-CIDR,110.41.77.122/32,no-resolve
 IP-CIDR,111.170.148.141/32,no-resolve
 IP-CIDR,111.228.45.86/32,no-resolve
 IP-CIDR,111.229.199.24/32,no-resolve
@@ -247,6 +237,7 @@ IP-CIDR,135.136.191.231/32,no-resolve
 IP-CIDR,137.184.153.245/32,no-resolve
 IP-CIDR,138.68.134.9/32,no-resolve
 IP-CIDR,139.196.239.236/32,no-resolve
+IP-CIDR,139.196.74.76/32,no-resolve
 IP-CIDR,141.98.10.112/32,no-resolve
 IP-CIDR,141.98.10.157/32,no-resolve
 IP-CIDR,141.98.10.160/32,no-resolve
@@ -590,6 +581,7 @@ IP-CIDR,192.169.69.25/32,no-resolve
 IP-CIDR,192.238.244.116/32,no-resolve
 IP-CIDR,193.111.117.22/32,no-resolve
 IP-CIDR,193.233.16.35/32,no-resolve
+IP-CIDR,194.29.187.168/32,no-resolve
 IP-CIDR,195.128.248.38/32,no-resolve
 IP-CIDR,196.251.102.55/32,no-resolve
 IP-CIDR,196.251.122.91/32,no-resolve
@@ -604,11 +596,9 @@ IP-CIDR,202.61.160.233/32,no-resolve
 IP-CIDR,203.91.75.211/32,no-resolve
 IP-CIDR,204.10.160.206/32,no-resolve
 IP-CIDR,204.12.218.236/32,no-resolve
-IP-CIDR,204.168.137.221/32,no-resolve
 IP-CIDR,206.188.197.53/32,no-resolve
 IP-CIDR,206.238.123.21/32,no-resolve
 IP-CIDR,207.174.31.71/32,no-resolve
-IP-CIDR,207.57.123.251/32,no-resolve
 IP-CIDR,209.38.84.233/32,no-resolve
 IP-CIDR,209.99.187.159/32,no-resolve
 IP-CIDR,210.87.110.249/32,no-resolve
@@ -629,9 +619,6 @@ IP-CIDR,31.56.209.8/32,no-resolve
 IP-CIDR,31.56.48.249/32,no-resolve
 IP-CIDR,34.4.108.145/32,no-resolve
 IP-CIDR,34.41.139.193/32,no-resolve
-IP-CIDR,37.27.4.20/32,no-resolve
-IP-CIDR,37.27.4.38/32,no-resolve
-IP-CIDR,37.27.9.42/32,no-resolve
 IP-CIDR,38.175.192.57/32,no-resolve
 IP-CIDR,38.190.196.38/32,no-resolve
 IP-CIDR,38.240.56.216/32,no-resolve
@@ -665,6 +652,7 @@ IP-CIDR,45.43.37.232/32,no-resolve
 IP-CIDR,45.59.126.125/32,no-resolve
 IP-CIDR,45.61.145.161/32,no-resolve
 IP-CIDR,45.61.176.112/32,no-resolve
+IP-CIDR,45.76.99.126/32,no-resolve
 IP-CIDR,45.77.115.234/32,no-resolve
 IP-CIDR,45.87.53.10/32,no-resolve
 IP-CIDR,45.87.53.14/32,no-resolve
@@ -704,7 +692,6 @@ IP-CIDR,68.183.90.240/32,no-resolve
 IP-CIDR,68.64.176.76/32,no-resolve
 IP-CIDR,76.72.162.60/32,no-resolve
 IP-CIDR,77.232.36.162/32,no-resolve
-IP-CIDR,77.42.9.174/32,no-resolve
 IP-CIDR,77.90.63.58/32,no-resolve
 IP-CIDR,77.90.63.60/32,no-resolve
 IP-CIDR,77.90.63.62/32,no-resolve
