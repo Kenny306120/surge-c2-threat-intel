@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-02T15:19:07.499463+00:00
+# Generated UTC 2026-11-02T16:26:48.529907+00:00
 DOMAIN,2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
 DOMAIN,a.bok13.org
 DOMAIN,admin.model-point.click
@@ -47,7 +47,6 @@ DOMAIN,fileagreement.xyz
 DOMAIN,filqexo.com
 DOMAIN,flv.aeoncash.org
 DOMAIN,fm.afktogel.org
-DOMAIN,ftp.jmacsafety.com
 DOMAIN,g9.afterbet88.org
 DOMAIN,ga.adwgamestore.org
 DOMAIN,gmpxaidwv4cw7o2uvkrxpwnxk5esflzv2l3lm4lvpypu56bigr4n4nad.onion
@@ -151,6 +150,7 @@ DOMAIN,westusserverfor.westus2.cloudapp.azure.com
 DOMAIN,wickenhollow.cc
 DOMAIN,wifisucks.duckdns.org
 DOMAIN,wvw.akuatoto.net
+DOMAIN,www.zuqiubabaaw.net.cn
 DOMAIN,wwwapko.top
 DOMAIN,x.ayu99.pro
 DOMAIN,xjhmtitnrdrgzw4vmsghirdoo2fk35a3tzj4enlmah4pvehdspydsiyd.onion
@@ -1027,7 +1027,6 @@ IP-CIDR,198.44.190.59/32,no-resolve
 IP-CIDR,199.190.45.169/32,no-resolve
 IP-CIDR,2.27.160.21/32,no-resolve
 IP-CIDR,2.56.246.58/32,no-resolve
-IP-CIDR,20.109.163.207/32,no-resolve
 IP-CIDR,20.199.40.109/32,no-resolve
 IP-CIDR,202.61.140.195/32,no-resolve
 IP-CIDR,202.61.160.181/32,no-resolve
@@ -1377,6 +1376,7 @@ IP-CIDR,79.127.141.140/32,no-resolve
 IP-CIDR,79.127.141.145/32,no-resolve
 IP-CIDR,8.138.27.20/32,no-resolve
 IP-CIDR,8.140.228.202/32,no-resolve
+IP-CIDR,8.148.212.170/32,no-resolve
 IP-CIDR,8.160.165.56/32,no-resolve
 IP-CIDR,8.160.179.57/32,no-resolve
 IP-CIDR,8.217.254.211/32,no-resolve
