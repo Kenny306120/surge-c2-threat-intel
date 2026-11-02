@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-02T20:12:26.060197+00:00
+# Generated UTC 2026-11-02T21:08:34.777125+00:00
 DOMAIN,2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
 DOMAIN,a.bok13.org
 DOMAIN,admin.model-point.click
@@ -425,7 +425,6 @@ IP-CIDR,128.140.35.236/32,no-resolve
 IP-CIDR,129.227.67.234/32,no-resolve
 IP-CIDR,13.49.66.51/32,no-resolve
 IP-CIDR,13.60.192.200/32,no-resolve
-IP-CIDR,13.60.4.205/32,no-resolve
 IP-CIDR,13.62.46.62/32,no-resolve
 IP-CIDR,130.12.181.221/32,no-resolve
 IP-CIDR,130.254.45.8/32,no-resolve
