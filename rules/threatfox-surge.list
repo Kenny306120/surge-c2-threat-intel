@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-02T00:49:46.460709+00:00
+# Generated UTC 2026-11-02T01:53:57.493105+00:00
 DOMAIN,2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
 DOMAIN,2v75pgpqlguqpflfjtz6iynwg3ndshjhh6vkxyldorarc6mpc5if5qqd.onion
 DOMAIN,4ee4snln5yuwmjdxwgznj5lahs24loa54f6aoehbeu6pc3axbcuzepyd.onion
@@ -197,6 +197,7 @@ DOMAIN,yyjcykk6afxf6vtteeullde6qokefy7phsuxbplcswdqxjdqhkcf6ryd.onion
 DOMAIN,z.aww88.net
 DOMAIN,z.bok13.org
 DOMAIN,z4.afktogel.org
+DOMAIN,z59ux9.he2o9t.com
 DOMAIN,zen.ayxandevgang.workers.dev
 DOMAIN,zfs.agenpr.org
 DOMAIN,zone-14-service-8-8.eastus.cloudapp.azure.com
@@ -708,7 +709,6 @@ IP-CIDR,47.103.70.55/32,no-resolve
 IP-CIDR,47.108.144.9/32,no-resolve
 IP-CIDR,47.109.109.168/32,no-resolve
 IP-CIDR,47.109.23.77/32,no-resolve
-IP-CIDR,47.239.212.183/32,no-resolve
 IP-CIDR,47.80.241.141/32,no-resolve
 IP-CIDR,47.97.243.66/32,no-resolve
 IP-CIDR,49.234.181.30/32,no-resolve
@@ -736,7 +736,6 @@ IP-CIDR,78.129.237.27/32,no-resolve
 IP-CIDR,78.153.136.20/32,no-resolve
 IP-CIDR,78.159.131.254/32,no-resolve
 IP-CIDR,78.83.103.72/32,no-resolve
-IP-CIDR,8.134.160.8/32,no-resolve
 IP-CIDR,8.138.27.20/32,no-resolve
 IP-CIDR,8.140.228.202/32,no-resolve
 IP-CIDR,8.160.165.56/32,no-resolve
