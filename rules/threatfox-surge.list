@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-02T19:22:52.797853+00:00
+# Generated UTC 2026-11-02T20:12:26.060197+00:00
 DOMAIN,2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
 DOMAIN,a.bok13.org
 DOMAIN,admin.model-point.click
@@ -266,7 +266,6 @@ IP-CIDR,103.8.215.216/32,no-resolve
 IP-CIDR,103.8.215.217/32,no-resolve
 IP-CIDR,104.153.209.125/32,no-resolve
 IP-CIDR,104.168.7.227/32,no-resolve
-IP-CIDR,104.218.50.244/32,no-resolve
 IP-CIDR,104.248.16.36/32,no-resolve
 IP-CIDR,104.248.206.134/32,no-resolve
 IP-CIDR,104.248.87.24/32,no-resolve
@@ -970,7 +969,6 @@ IP-CIDR,188.42.82.65/32,no-resolve
 IP-CIDR,188.42.82.67/32,no-resolve
 IP-CIDR,188.42.94.20/32,no-resolve
 IP-CIDR,192.169.69.25/32,no-resolve
-IP-CIDR,192.238.244.116/32,no-resolve
 IP-CIDR,193.111.117.22/32,no-resolve
 IP-CIDR,193.233.16.35/32,no-resolve
 IP-CIDR,194.29.187.168/32,no-resolve
@@ -1032,7 +1030,6 @@ IP-CIDR,202.61.160.181/32,no-resolve
 IP-CIDR,202.61.160.233/32,no-resolve
 IP-CIDR,203.91.75.211/32,no-resolve
 IP-CIDR,204.10.160.206/32,no-resolve
-IP-CIDR,204.12.218.236/32,no-resolve
 IP-CIDR,206.188.197.53/32,no-resolve
 IP-CIDR,206.238.123.21/32,no-resolve
 IP-CIDR,207.174.31.71/32,no-resolve
@@ -1231,7 +1228,6 @@ IP-CIDR,45.153.34.71/32,no-resolve
 IP-CIDR,45.198.224.164/32,no-resolve
 IP-CIDR,45.32.39.157/32,no-resolve
 IP-CIDR,45.43.37.232/32,no-resolve
-IP-CIDR,45.59.126.125/32,no-resolve
 IP-CIDR,45.61.145.161/32,no-resolve
 IP-CIDR,45.61.176.112/32,no-resolve
 IP-CIDR,45.76.99.126/32,no-resolve
@@ -1311,9 +1307,11 @@ IP-CIDR,5.175.253.126/32,no-resolve
 IP-CIDR,5.78.211.219/32,no-resolve
 IP-CIDR,51.20.118.197/32,no-resolve
 IP-CIDR,51.83.192.18/32,no-resolve
+IP-CIDR,52.51.21.68/32,no-resolve
 IP-CIDR,54.197.209.134/32,no-resolve
 IP-CIDR,60.204.226.40/32,no-resolve
 IP-CIDR,60.205.138.103/32,no-resolve
+IP-CIDR,61.220.133.191/32,no-resolve
 IP-CIDR,62.60.226.22/32,no-resolve
 IP-CIDR,64.118.128.131/32,no-resolve
 IP-CIDR,64.118.134.192/32,no-resolve
@@ -1382,7 +1380,6 @@ IP-CIDR,80.87.206.86/32,no-resolve
 IP-CIDR,80.96.113.59/32,no-resolve
 IP-CIDR,80.96.58.22/32,no-resolve
 IP-CIDR,85.11.167.6/32,no-resolve
-IP-CIDR,85.137.244.138/32,no-resolve
 IP-CIDR,85.137.54.178/32,no-resolve
 IP-CIDR,85.217.226.233/32,no-resolve
 IP-CIDR,85.239.149.151/32,no-resolve
