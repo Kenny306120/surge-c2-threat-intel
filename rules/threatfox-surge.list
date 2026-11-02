@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-02T08:25:45.484883+00:00
+# Generated UTC 2026-11-02T09:33:07.406516+00:00
 DOMAIN,2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
 DOMAIN,a.bok13.org
 DOMAIN,ab41vc541fd04435740.health-carereform.com
@@ -33,7 +33,6 @@ DOMAIN,dexflow.pics
 DOMAIN,dfsellereneewu2cd54frrkusfy7po3bpd2alljaqlpwse5avkomgfyd.onion
 DOMAIN,dxnoft.homes
 DOMAIN,dxyour.forum
-DOMAIN,e.ayu99.pro
 DOMAIN,ec2-aws.ddns.net
 DOMAIN,ek.aeoncash.org
 DOMAIN,emberhaven.cfd
@@ -49,7 +48,6 @@ DOMAIN,filqexo.com
 DOMAIN,firebase.emeraldpineventuresllc.com
 DOMAIN,flv.aeoncash.org
 DOMAIN,fm.afktogel.org
-DOMAIN,freetrend.cc
 DOMAIN,ftp.jmacsafety.com
 DOMAIN,ftp.prometeon.info
 DOMAIN,g9.afterbet88.org
@@ -68,6 +66,7 @@ DOMAIN,if.aeoncash.org
 DOMAIN,imap.hazelmoss.cc
 DOMAIN,img.tallowfetch.cc
 DOMAIN,imissyou333.duckdns.org
+DOMAIN,internet-freedom-in-south-korea.lol
 DOMAIN,is.adwgamestore.org
 DOMAIN,j.bok13.org
 DOMAIN,j0.bala7.org
@@ -92,7 +91,6 @@ DOMAIN,lift50.com
 DOMAIN,login.sorrelglen.cc
 DOMAIN,m0.aeoncash.org
 DOMAIN,magicalplanet.4nmn.com
-DOMAIN,mail.freetrend.cc
 DOMAIN,mail.holzbrenzii.com
 DOMAIN,mail.merchantinvestnetwork.com
 DOMAIN,megakefir.duckdns.org
@@ -132,6 +130,7 @@ DOMAIN,sigmauperdonesoft.com
 DOMAIN,sigmus1-4fileportal-88.centralus.cloudapp.azure.com
 DOMAIN,sometimes-i-fuck-a.baby
 DOMAIN,sorrelglen.cc
+DOMAIN,spamhaus.help
 DOMAIN,ssl.cinderfetch.cc
 DOMAIN,stenchmaxx.study
 DOMAIN,supremegods.website
@@ -157,11 +156,9 @@ DOMAIN,xjhmtitnrdrgzw4vmsghirdoo2fk35a3tzj4enlmah4pvehdspydsiyd.onion
 DOMAIN,xwszdkj.com
 DOMAIN,ya.adwgamestore.org
 DOMAIN,yw.bala7.org
-DOMAIN,z.aww88.net
 DOMAIN,z.bok13.org
 DOMAIN,z4.afktogel.org
 DOMAIN,z59ux9.he2o9t.com
-DOMAIN,zfs.agenpr.org
 DOMAIN,zone-14-service-8-8.eastus.cloudapp.azure.com
 IP-CIDR,1.14.181.139/32,no-resolve
 IP-CIDR,1.15.65.4/32,no-resolve
@@ -235,6 +232,7 @@ IP-CIDR,134.122.189.138/32,no-resolve
 IP-CIDR,134.209.156.186/32,no-resolve
 IP-CIDR,135.136.191.231/32,no-resolve
 IP-CIDR,137.184.153.245/32,no-resolve
+IP-CIDR,137.220.136.165/32,no-resolve
 IP-CIDR,138.68.134.9/32,no-resolve
 IP-CIDR,139.196.239.236/32,no-resolve
 IP-CIDR,139.196.74.76/32,no-resolve
@@ -264,6 +262,7 @@ IP-CIDR,147.182.188.228/32,no-resolve
 IP-CIDR,147.50.253.184/32,no-resolve
 IP-CIDR,150.241.66.89/32,no-resolve
 IP-CIDR,150.241.69.22/32,no-resolve
+IP-CIDR,151.239.25.102/32,no-resolve
 IP-CIDR,151.243.137.99/32,no-resolve
 IP-CIDR,152.42.135.240/32,no-resolve
 IP-CIDR,153.75.87.26/32,no-resolve
@@ -583,6 +582,7 @@ IP-CIDR,193.111.117.22/32,no-resolve
 IP-CIDR,193.233.16.35/32,no-resolve
 IP-CIDR,194.29.187.168/32,no-resolve
 IP-CIDR,195.128.248.38/32,no-resolve
+IP-CIDR,196.202.45.5/32,no-resolve
 IP-CIDR,196.251.102.55/32,no-resolve
 IP-CIDR,196.251.122.91/32,no-resolve
 IP-CIDR,198.23.185.99/32,no-resolve
@@ -591,6 +591,7 @@ IP-CIDR,2.27.160.21/32,no-resolve
 IP-CIDR,2.56.246.58/32,no-resolve
 IP-CIDR,20.109.163.207/32,no-resolve
 IP-CIDR,20.199.40.109/32,no-resolve
+IP-CIDR,202.61.140.195/32,no-resolve
 IP-CIDR,202.61.160.181/32,no-resolve
 IP-CIDR,202.61.160.233/32,no-resolve
 IP-CIDR,203.91.75.211/32,no-resolve
@@ -605,6 +606,7 @@ IP-CIDR,210.87.110.249/32,no-resolve
 IP-CIDR,212.192.214.7/32,no-resolve
 IP-CIDR,213.176.72.224/32,no-resolve
 IP-CIDR,216.9.224.44/32,no-resolve
+IP-CIDR,217.60.102.209/32,no-resolve
 IP-CIDR,217.60.102.45/32,no-resolve
 IP-CIDR,217.60.195.43/32,no-resolve
 IP-CIDR,217.60.242.27/32,no-resolve
@@ -675,6 +677,7 @@ IP-CIDR,47.80.241.141/32,no-resolve
 IP-CIDR,47.97.243.66/32,no-resolve
 IP-CIDR,49.234.181.30/32,no-resolve
 IP-CIDR,49.235.131.10/32,no-resolve
+IP-CIDR,5.175.253.126/32,no-resolve
 IP-CIDR,5.78.211.219/32,no-resolve
 IP-CIDR,51.20.118.197/32,no-resolve
 IP-CIDR,51.83.192.18/32,no-resolve
