@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-03T02:39:59.984143+00:00
+# Generated UTC 2026-11-03T03:40:40.419939+00:00
 DOMAIN,2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
 DOMAIN,a.bok13.org
 DOMAIN,admin.model-point.click
@@ -109,7 +109,6 @@ DOMAIN,n0n.to
 DOMAIN,namecheat.niggerservers.xyz
 DOMAIN,nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion
 DOMAIN,nvbaeuyzskimpgqxhjdt.is-a-rockstar.com
-DOMAIN,o.adwgamestore.org
 DOMAIN,o.bola7.net
 DOMAIN,october28floor.eastus.cloudapp.azure.com
 DOMAIN,oi.bb69.org
@@ -126,6 +125,7 @@ DOMAIN,q3.aeon888link.org
 DOMAIN,r.au338.org
 DOMAIN,r.bamto.org
 DOMAIN,rhysidaxx6gdihss7urv4ecbh2yz4izhnfulfbrb4ua5dwkocm653yid.onion
+DOMAIN,rj.akuatoto.net
 DOMAIN,rp.afktogel.org
 DOMAIN,s.bb69.org
 DOMAIN,s.bok13.org
@@ -159,6 +159,7 @@ DOMAIN,wvw.akuatoto.net
 DOMAIN,www.zuqiubabaaw.net.cn
 DOMAIN,wwwapko.top
 DOMAIN,x.ayu99.pro
+DOMAIN,x.bola7.net
 DOMAIN,xjhmtitnrdrgzw4vmsghirdoo2fk35a3tzj4enlmah4pvehdspydsiyd.onion
 DOMAIN,xwszdkj.com
 DOMAIN,yw.bala7.org
@@ -1134,7 +1135,6 @@ IP-CIDR,31.56.209.8/32,no-resolve
 IP-CIDR,31.56.48.249/32,no-resolve
 IP-CIDR,34.234.221.116/32,no-resolve
 IP-CIDR,34.4.108.145/32,no-resolve
-IP-CIDR,34.41.139.193/32,no-resolve
 IP-CIDR,37.19.211.146/32,no-resolve
 IP-CIDR,37.19.211.147/32,no-resolve
 IP-CIDR,37.19.211.148/32,no-resolve
@@ -1148,6 +1148,7 @@ IP-CIDR,38.47.106.103/32,no-resolve
 IP-CIDR,38.55.17.100/32,no-resolve
 IP-CIDR,38.55.17.101/32,no-resolve
 IP-CIDR,38.55.193.25/32,no-resolve
+IP-CIDR,38.55.252.139/32,no-resolve
 IP-CIDR,38.76.190.209/32,no-resolve
 IP-CIDR,39.100.64.125/32,no-resolve
 IP-CIDR,39.107.238.247/32,no-resolve
@@ -1226,6 +1227,7 @@ IP-CIDR,45.136.154.99/32,no-resolve
 IP-CIDR,45.141.117.158/32,no-resolve
 IP-CIDR,45.144.172.49/32,no-resolve
 IP-CIDR,45.153.34.71/32,no-resolve
+IP-CIDR,45.192.99.236/32,no-resolve
 IP-CIDR,45.198.224.164/32,no-resolve
 IP-CIDR,45.32.39.157/32,no-resolve
 IP-CIDR,45.43.37.232/32,no-resolve
