@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-03T01:51:16.960470+00:00
+# Generated UTC 2026-11-03T02:39:59.984143+00:00
 DOMAIN,2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
 DOMAIN,a.bok13.org
 DOMAIN,admin.model-point.click
@@ -11,7 +11,6 @@ DOMAIN,apache-update.ddns.net
 DOMAIN,aqringagook.website
 DOMAIN,arvion.network
 DOMAIN,atl-ut.cannabisrootshub.com
-DOMAIN,b.ayu99.pro
 DOMAIN,birchcore.cc
 DOMAIN,bo787.com
 DOMAIN,bombon.vip
@@ -398,6 +397,7 @@ IP-CIDR,121.43.158.195/32,no-resolve
 IP-CIDR,121.78.158.102/32,no-resolve
 IP-CIDR,122.51.179.8/32,no-resolve
 IP-CIDR,123.207.214.58/32,no-resolve
+IP-CIDR,124.221.123.110/32,no-resolve
 IP-CIDR,124.221.133.13/32,no-resolve
 IP-CIDR,124.222.141.204/32,no-resolve
 IP-CIDR,124.222.232.67/32,no-resolve
@@ -591,6 +591,7 @@ IP-CIDR,153.75.87.26/32,no-resolve
 IP-CIDR,154.197.57.134/32,no-resolve
 IP-CIDR,154.211.92.33/32,no-resolve
 IP-CIDR,154.222.17.227/32,no-resolve
+IP-CIDR,154.37.219.102/32,no-resolve
 IP-CIDR,154.91.48.162/32,no-resolve
 IP-CIDR,154.91.48.163/32,no-resolve
 IP-CIDR,154.91.48.164/32,no-resolve
@@ -867,7 +868,6 @@ IP-CIDR,167.148.195.14/32,no-resolve
 IP-CIDR,167.148.201.186/32,no-resolve
 IP-CIDR,167.88.172.174/32,no-resolve
 IP-CIDR,167.88.175.252/32,no-resolve
-IP-CIDR,167.99.165.191/32,no-resolve
 IP-CIDR,168.144.241.131/32,no-resolve
 IP-CIDR,168.144.40.127/32,no-resolve
 IP-CIDR,172.111.150.134/32,no-resolve
@@ -1376,6 +1376,7 @@ IP-CIDR,8.140.228.202/32,no-resolve
 IP-CIDR,8.148.212.170/32,no-resolve
 IP-CIDR,8.160.165.56/32,no-resolve
 IP-CIDR,8.160.179.57/32,no-resolve
+IP-CIDR,8.160.189.25/32,no-resolve
 IP-CIDR,8.217.254.211/32,no-resolve
 IP-CIDR,8.217.91.135/32,no-resolve
 IP-CIDR,8.220.246.195/32,no-resolve
