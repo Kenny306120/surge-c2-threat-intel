@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-03T16:44:00.502442+00:00
+# Generated UTC 2026-11-03T17:41:25.115881+00:00
 DOMAIN,a.bok13.org
 DOMAIN,admin.model-point.click
 DOMAIN,ai.akuatoto.net
@@ -64,7 +64,6 @@ DOMAIN,hi.afterbet88.org
 DOMAIN,hjazfioe.surf
 DOMAIN,hm.akuatoto.net
 DOMAIN,hotel.wildhorsehotnet.net
-DOMAIN,i.bala7.org
 DOMAIN,i4.bala7.org
 DOMAIN,if.aeoncash.org
 DOMAIN,imap.hazelmoss.cc
@@ -279,7 +278,6 @@ IP-CIDR,103.118.252.177/32,no-resolve
 IP-CIDR,103.129.53.147/32,no-resolve
 IP-CIDR,103.129.53.148/32,no-resolve
 IP-CIDR,103.164.81.65/32,no-resolve
-IP-CIDR,103.186.85.178/32,no-resolve
 IP-CIDR,103.215.127.204/32,no-resolve
 IP-CIDR,103.237.101.199/32,no-resolve
 IP-CIDR,103.237.101.250/32,no-resolve
@@ -1191,7 +1189,6 @@ IP-CIDR,39.107.238.247/32,no-resolve
 IP-CIDR,39.107.50.187/32,no-resolve
 IP-CIDR,42.193.138.26/32,no-resolve
 IP-CIDR,42.194.146.97/32,no-resolve
-IP-CIDR,42.194.213.76/32,no-resolve
 IP-CIDR,43.102.132.75/32,no-resolve
 IP-CIDR,43.102.132.76/32,no-resolve
 IP-CIDR,43.102.132.77/32,no-resolve
@@ -1277,6 +1274,7 @@ IP-CIDR,45.61.145.161/32,no-resolve
 IP-CIDR,45.61.176.112/32,no-resolve
 IP-CIDR,45.76.99.126/32,no-resolve
 IP-CIDR,45.77.115.234/32,no-resolve
+IP-CIDR,45.83.31.203/32,no-resolve
 IP-CIDR,45.87.53.10/32,no-resolve
 IP-CIDR,45.87.53.14/32,no-resolve
 IP-CIDR,45.87.53.3/32,no-resolve
@@ -1429,7 +1427,6 @@ IP-CIDR,8.138.27.20/32,no-resolve
 IP-CIDR,8.140.228.202/32,no-resolve
 IP-CIDR,8.148.212.170/32,no-resolve
 IP-CIDR,8.160.165.56/32,no-resolve
-IP-CIDR,8.160.179.57/32,no-resolve
 IP-CIDR,8.160.189.25/32,no-resolve
 IP-CIDR,8.217.254.211/32,no-resolve
 IP-CIDR,8.217.91.135/32,no-resolve
