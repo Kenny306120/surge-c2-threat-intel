@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-03T08:02:38.053328+00:00
+# Generated UTC 2026-11-03T09:16:29.232620+00:00
 DOMAIN,a.bok13.org
 DOMAIN,admin.model-point.click
 DOMAIN,ai.akuatoto.net
@@ -185,7 +185,7 @@ DOMAIN,www.zuqiubabaaw.net.cn
 DOMAIN,wwwapko.top
 DOMAIN,wx.akurat80.org
 DOMAIN,x.akuatoto.net
-DOMAIN,x.ayu99.pro
+DOMAIN,x.bob78.org
 DOMAIN,x.bola7.net
 DOMAIN,x7.aksara87.org
 DOMAIN,xf.alan4d.org
@@ -429,7 +429,6 @@ IP-CIDR,121.43.102.230/32,no-resolve
 IP-CIDR,121.43.158.195/32,no-resolve
 IP-CIDR,121.78.158.102/32,no-resolve
 IP-CIDR,122.51.179.8/32,no-resolve
-IP-CIDR,123.207.214.58/32,no-resolve
 IP-CIDR,124.221.123.110/32,no-resolve
 IP-CIDR,124.221.133.13/32,no-resolve
 IP-CIDR,124.222.141.204/32,no-resolve
@@ -892,6 +891,7 @@ IP-CIDR,165.154.199.229/32,no-resolve
 IP-CIDR,165.154.199.245/32,no-resolve
 IP-CIDR,165.154.203.171/32,no-resolve
 IP-CIDR,165.154.203.173/32,no-resolve
+IP-CIDR,165.154.232.29/32,no-resolve
 IP-CIDR,165.154.235.212/32,no-resolve
 IP-CIDR,165.154.236.16/32,no-resolve
 IP-CIDR,165.154.239.242/32,no-resolve
@@ -936,7 +936,6 @@ IP-CIDR,178.249.214.236/32,no-resolve
 IP-CIDR,178.249.214.239/32,no-resolve
 IP-CIDR,178.63.28.35/32,no-resolve
 IP-CIDR,178.83.206.213/32,no-resolve
-IP-CIDR,179.199.199.11/32,no-resolve
 IP-CIDR,179.199.199.60/32,no-resolve
 IP-CIDR,18.190.253.142/32,no-resolve
 IP-CIDR,181.174.164.31/32,no-resolve
@@ -955,7 +954,6 @@ IP-CIDR,182.16.98.93/32,no-resolve
 IP-CIDR,182.16.98.94/32,no-resolve
 IP-CIDR,182.254.137.211/32,no-resolve
 IP-CIDR,185.103.167.136/32,no-resolve
-IP-CIDR,185.173.235.233/32,no-resolve
 IP-CIDR,185.173.36.87/32,no-resolve
 IP-CIDR,185.173.38.165/32,no-resolve
 IP-CIDR,185.173.39.100/32,no-resolve
@@ -1398,6 +1396,7 @@ IP-CIDR,66.93.248.153/32,no-resolve
 IP-CIDR,66.93.248.238/32,no-resolve
 IP-CIDR,66.93.248.41/32,no-resolve
 IP-CIDR,68.183.231.242/32,no-resolve
+IP-CIDR,68.183.236.229/32,no-resolve
 IP-CIDR,69.28.61.70/32,no-resolve
 IP-CIDR,69.28.61.71/32,no-resolve
 IP-CIDR,69.28.61.72/32,no-resolve
