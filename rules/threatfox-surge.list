@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-03T21:32:37.443676+00:00
+# Generated UTC 2026-11-03T22:30:37.550299+00:00
 DOMAIN,a.bok13.org
 DOMAIN,admin.model-point.click
 DOMAIN,ai.akuatoto.net
@@ -1440,7 +1440,6 @@ IP-CIDR,8.148.212.170/32,no-resolve
 IP-CIDR,8.160.165.56/32,no-resolve
 IP-CIDR,8.160.189.25/32,no-resolve
 IP-CIDR,8.217.254.211/32,no-resolve
-IP-CIDR,8.217.91.135/32,no-resolve
 IP-CIDR,8.220.246.195/32,no-resolve
 IP-CIDR,80.209.241.40/32,no-resolve
 IP-CIDR,80.87.206.86/32,no-resolve
