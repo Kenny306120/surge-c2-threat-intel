@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-04T00:09:26.672727+00:00
+# Generated UTC 2026-11-04T01:34:10.124137+00:00
 DOMAIN,a.bok13.org
 DOMAIN,admin.model-point.click
 DOMAIN,ai.akuatoto.net
@@ -207,6 +207,7 @@ IP-CIDR,1.94.146.36/32,no-resolve
 IP-CIDR,100.53.240.26/32,no-resolve
 IP-CIDR,101.201.37.97/32,no-resolve
 IP-CIDR,101.33.228.98/32,no-resolve
+IP-CIDR,101.34.218.233/32,no-resolve
 IP-CIDR,101.42.255.92/32,no-resolve
 IP-CIDR,101.42.49.202/32,no-resolve
 IP-CIDR,101.47.12.74/32,no-resolve
@@ -435,6 +436,7 @@ IP-CIDR,121.78.158.102/32,no-resolve
 IP-CIDR,122.51.179.8/32,no-resolve
 IP-CIDR,124.221.123.110/32,no-resolve
 IP-CIDR,124.221.133.13/32,no-resolve
+IP-CIDR,124.221.142.210/32,no-resolve
 IP-CIDR,124.222.141.204/32,no-resolve
 IP-CIDR,124.222.232.67/32,no-resolve
 IP-CIDR,124.222.254.87/32,no-resolve
@@ -863,6 +865,7 @@ IP-CIDR,156.223.153.229/32,no-resolve
 IP-CIDR,156.229.120.138/32,no-resolve
 IP-CIDR,156.234.7.14/32,no-resolve
 IP-CIDR,156.234.7.71/32,no-resolve
+IP-CIDR,156.238.237.103/32,no-resolve
 IP-CIDR,156.246.90.214/32,no-resolve
 IP-CIDR,156.247.40.170/32,no-resolve
 IP-CIDR,156.254.20.47/32,no-resolve
@@ -966,7 +969,6 @@ IP-CIDR,185.228.138.115/32,no-resolve
 IP-CIDR,185.80.234.25/32,no-resolve
 IP-CIDR,188.137.248.249/32,no-resolve
 IP-CIDR,188.166.152.179/32,no-resolve
-IP-CIDR,188.166.229.242/32,no-resolve
 IP-CIDR,188.245.153.190/32,no-resolve
 IP-CIDR,188.245.221.146/32,no-resolve
 IP-CIDR,188.245.241.8/32,no-resolve
@@ -1344,8 +1346,11 @@ IP-CIDR,49.12.237.199/32,no-resolve
 IP-CIDR,49.13.159.0/32,no-resolve
 IP-CIDR,49.13.235.217/32,no-resolve
 IP-CIDR,49.234.181.30/32,no-resolve
+IP-CIDR,49.234.47.190/32,no-resolve
 IP-CIDR,49.235.131.10/32,no-resolve
 IP-CIDR,49.235.158.141/32,no-resolve
+IP-CIDR,49.235.172.25/32,no-resolve
+IP-CIDR,49.235.179.14/32,no-resolve
 IP-CIDR,5.161.102.165/32,no-resolve
 IP-CIDR,5.161.109.144/32,no-resolve
 IP-CIDR,5.161.121.16/32,no-resolve
