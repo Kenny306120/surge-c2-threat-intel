@@ -1,7 +1,8 @@
-# Generated UTC 2026-11-04T09:23:50.664761+00:00
+# Generated UTC 2026-11-04T11:47:31.143025+00:00
 DOMAIN,a.bok13.org
 DOMAIN,a8.coy9.com
 DOMAIN,afktogel.org
+DOMAIN,agreement-rc.com
 DOMAIN,ai.akuatoto.net
 DOMAIN,aksara87.org
 DOMAIN,akun258.org
@@ -23,13 +24,13 @@ DOMAIN,c.afterbet88.org
 DOMAIN,c.bamto.org
 DOMAIN,c.bb69.org
 DOMAIN,c.bok13.org
+DOMAIN,c.bosmj.org
 DOMAIN,cd.afktogel.org
 DOMAIN,cm.afktogel.org
 DOMAIN,compassagreement.cfd
 DOMAIN,concretehomesaruba.lat
 DOMAIN,coy9.com
 DOMAIN,crackedkrypton.xyz
-DOMAIN,cw.aeon888link.org
 DOMAIN,cx.albino77.org
 DOMAIN,d.bb69.org
 DOMAIN,d.bob78.org
@@ -39,6 +40,7 @@ DOMAIN,de.aeoncash.org
 DOMAIN,dexflow.pics
 DOMAIN,dexgrow.quest
 DOMAIN,dfgdfhdftiudrtjrgjgdf.mom
+DOMAIN,distrohaven.xyz
 DOMAIN,do.akurat80.org
 DOMAIN,dr.albino77.org
 DOMAIN,dxnoft.homes
@@ -65,6 +67,7 @@ DOMAIN,g-hgfdsgd.mom
 DOMAIN,g-sdfgdsf.mom
 DOMAIN,g-sdfhvrg.rest
 DOMAIN,g-sdfrgh.rest
+DOMAIN,g7.akun258.org
 DOMAIN,g9.afterbet88.org
 DOMAIN,gdsfgdfg.mom
 DOMAIN,gi.akurat80.org
@@ -77,6 +80,8 @@ DOMAIN,hchjcc.bumbleshrimp.com
 DOMAIN,hi.afterbet88.org
 DOMAIN,hjazfioe.surf
 DOMAIN,hm.akuatoto.net
+DOMAIN,hn.coy9.com
+DOMAIN,ho.allbaslot.org
 DOMAIN,hotel.wildhorsehotnet.net
 DOMAIN,if.aeoncash.org
 DOMAIN,imap.hazelmoss.cc
@@ -84,11 +89,11 @@ DOMAIN,img.tallowfetch.cc
 DOMAIN,internet-freedom-in-south-korea.lol
 DOMAIN,ix.akurat80.org
 DOMAIN,j.bok13.org
+DOMAIN,jellyfishparty.info
 DOMAIN,jq.aeoncash.org
 DOMAIN,jujupuluz.icu
 DOMAIN,jutabhjba45.shop
 DOMAIN,jxk.imarapi.st
-DOMAIN,k.bala7.org
 DOMAIN,k.bo787.com
 DOMAIN,k.bob78.org
 DOMAIN,k1.bb69.org
@@ -97,6 +102,7 @@ DOMAIN,k9.alien203.org
 DOMAIN,kb.akasia988.net
 DOMAIN,kh.afktogel.org
 DOMAIN,ksm.aeoncash.org
+DOMAIN,kt.allbaslot.org
 DOMAIN,l.bb69.org
 DOMAIN,l.bola7.net
 DOMAIN,l1.albino77.org
@@ -115,6 +121,7 @@ DOMAIN,m8.akasia988.net
 DOMAIN,m8.albino77.org
 DOMAIN,magicalplanet.4nmn.com
 DOMAIN,mail.holzbrenzii.com
+DOMAIN,microsofttelemetryservices.st
 DOMAIN,mitmatmet.com
 DOMAIN,mopsikimilie.cc
 DOMAIN,mydiaperisfull.baby
@@ -145,6 +152,8 @@ DOMAIN,r.au338.org
 DOMAIN,r.bamto.org
 DOMAIN,r.bosmj.org
 DOMAIN,r1.akasia988.net
+DOMAIN,relay-3f9c71.kartohaantoha36-6a9.workers.dev
+DOMAIN,relay-mirror.kartohaantoha36-6a9.workers.dev
 DOMAIN,rj.akuatoto.net
 DOMAIN,rp.afktogel.org
 DOMAIN,rq.alan4d.org
@@ -198,6 +207,7 @@ DOMAIN,x.bob78.org
 DOMAIN,x.bola7.net
 DOMAIN,x7.aksara87.org
 DOMAIN,xf.alan4d.org
+DOMAIN,xix.allbaslot.org
 DOMAIN,xv5.aksara87.org
 DOMAIN,yau.aksara87.org
 DOMAIN,yh.akasia988.net
@@ -472,6 +482,7 @@ IP-CIDR,128.14.203.233/32,no-resolve
 IP-CIDR,128.14.209.54/32,no-resolve
 IP-CIDR,128.14.210.86/32,no-resolve
 IP-CIDR,128.140.35.236/32,no-resolve
+IP-CIDR,129.211.213.240/32,no-resolve
 IP-CIDR,129.227.67.234/32,no-resolve
 IP-CIDR,13.49.66.51/32,no-resolve
 IP-CIDR,13.60.192.200/32,no-resolve
@@ -873,7 +884,6 @@ IP-CIDR,156.234.7.71/32,no-resolve
 IP-CIDR,156.238.237.103/32,no-resolve
 IP-CIDR,156.246.90.214/32,no-resolve
 IP-CIDR,156.247.40.170/32,no-resolve
-IP-CIDR,156.254.20.47/32,no-resolve
 IP-CIDR,157.137.227.61/32,no-resolve
 IP-CIDR,157.180.23.24/32,no-resolve
 IP-CIDR,157.230.122.72/32,no-resolve
@@ -924,6 +934,7 @@ IP-CIDR,168.144.241.131/32,no-resolve
 IP-CIDR,168.144.40.127/32,no-resolve
 IP-CIDR,170.64.153.147/32,no-resolve
 IP-CIDR,172.104.203.148/32,no-resolve
+IP-CIDR,172.233.1.13/32,no-resolve
 IP-CIDR,172.233.108.128/32,no-resolve
 IP-CIDR,172.233.108.189/32,no-resolve
 IP-CIDR,172.241.71.220/32,no-resolve
@@ -1092,7 +1103,6 @@ IP-CIDR,202.61.140.195/32,no-resolve
 IP-CIDR,202.61.160.233/32,no-resolve
 IP-CIDR,202.95.13.142/32,no-resolve
 IP-CIDR,203.91.75.211/32,no-resolve
-IP-CIDR,204.10.160.206/32,no-resolve
 IP-CIDR,204.168.182.163/32,no-resolve
 IP-CIDR,206.188.197.53/32,no-resolve
 IP-CIDR,206.238.123.21/32,no-resolve
@@ -1144,7 +1154,6 @@ IP-CIDR,217.60.102.209/32,no-resolve
 IP-CIDR,217.60.102.231/32,no-resolve
 IP-CIDR,217.60.102.45/32,no-resolve
 IP-CIDR,217.60.102.78/32,no-resolve
-IP-CIDR,217.60.242.27/32,no-resolve
 IP-CIDR,217.79.118.25/32,no-resolve
 IP-CIDR,217.79.118.27/32,no-resolve
 IP-CIDR,217.79.118.28/32,no-resolve
@@ -1153,7 +1162,6 @@ IP-CIDR,217.79.118.43/32,no-resolve
 IP-CIDR,217.79.118.47/32,no-resolve
 IP-CIDR,217.79.118.48/32,no-resolve
 IP-CIDR,217.79.118.50/32,no-resolve
-IP-CIDR,218.237.58.53/32,no-resolve
 IP-CIDR,23.109.123.241/32,no-resolve
 IP-CIDR,23.109.146.20/32,no-resolve
 IP-CIDR,23.109.146.52/32,no-resolve
