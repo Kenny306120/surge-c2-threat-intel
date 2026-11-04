@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-04T04:45:05.864345+00:00
+# Generated UTC 2026-11-04T05:47:38.360036+00:00
 DOMAIN,a.bok13.org
 DOMAIN,admin.model-point.click
 DOMAIN,ai.akuatoto.net
@@ -80,7 +80,6 @@ DOMAIN,img.tallowfetch.cc
 DOMAIN,internet-freedom-in-south-korea.lol
 DOMAIN,ix.akurat80.org
 DOMAIN,j.bok13.org
-DOMAIN,j0.bala7.org
 DOMAIN,jq.aeoncash.org
 DOMAIN,jujupuluz.icu
 DOMAIN,jutabhjba45.shop
@@ -139,6 +138,7 @@ DOMAIN,prairiedesk.cfd
 DOMAIN,pu.aksara87.org
 DOMAIN,q.aeoncash.org
 DOMAIN,q.bamto.org
+DOMAIN,q3.alien203.org
 DOMAIN,r.au338.org
 DOMAIN,r.bamto.org
 DOMAIN,r1.akasia988.net
@@ -161,6 +161,7 @@ DOMAIN,ssl.cinderfetch.cc
 DOMAIN,stenchmaxx.study
 DOMAIN,supremegods.website
 DOMAIN,t-smc.top
+DOMAIN,t.coy9.com
 DOMAIN,tallowfetch.cc
 DOMAIN,tc.akasia988.net
 DOMAIN,trace9.web-nest.xyz
@@ -431,7 +432,6 @@ IP-CIDR,119.42.148.187/32,no-resolve
 IP-CIDR,119.42.148.189/32,no-resolve
 IP-CIDR,119.42.148.190/32,no-resolve
 IP-CIDR,120.26.112.247/32,no-resolve
-IP-CIDR,120.26.161.0/32,no-resolve
 IP-CIDR,121.43.102.230/32,no-resolve
 IP-CIDR,121.43.158.195/32,no-resolve
 IP-CIDR,121.78.158.102/32,no-resolve
@@ -1176,6 +1176,7 @@ IP-CIDR,23.251.57.254/32,no-resolve
 IP-CIDR,23.251.57.5/32,no-resolve
 IP-CIDR,23.251.57.79/32,no-resolve
 IP-CIDR,23.251.57.86/32,no-resolve
+IP-CIDR,23.254.226.103/32,no-resolve
 IP-CIDR,23.94.145.143/32,no-resolve
 IP-CIDR,23.94.252.54/32,no-resolve
 IP-CIDR,23.95.242.55/32,no-resolve
