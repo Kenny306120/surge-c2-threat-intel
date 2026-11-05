@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-05T01:58:22.574988+00:00
+# Generated UTC 2026-11-05T02:51:12.289568+00:00
 DOMAIN,a.bok13.org
 DOMAIN,a8.coy9.com
 DOMAIN,adobeupdate.ddns.net
@@ -207,6 +207,7 @@ DOMAIN,tu.aloytoto.org
 DOMAIN,ty.afktogel.org
 DOMAIN,tz.alloha4d.org
 DOMAIN,u.bok13.org
+DOMAIN,u.cuit8.org
 DOMAIN,u8j.alloha4d.org
 DOMAIN,u9.akasia988.net
 DOMAIN,ubbrobccheck20.cc
@@ -242,6 +243,7 @@ DOMAIN,x.bosmj.org
 DOMAIN,x7.aksara87.org
 DOMAIN,xf.alan4d.org
 DOMAIN,xix.allbaslot.org
+DOMAIN,xn.aloytoto.org
 DOMAIN,xv5.aksara87.org
 DOMAIN,y.coy9.com
 DOMAIN,yau.aksara87.org
@@ -467,7 +469,6 @@ IP-CIDR,109.110.170.72/32,no-resolve
 IP-CIDR,109.238.92.50/32,no-resolve
 IP-CIDR,111.170.148.132/32,no-resolve
 IP-CIDR,111.170.148.141/32,no-resolve
-IP-CIDR,111.228.45.86/32,no-resolve
 IP-CIDR,111.229.215.182/32,no-resolve
 IP-CIDR,112.213.110.225/32,no-resolve
 IP-CIDR,115.175.24.19/32,no-resolve
@@ -481,7 +482,6 @@ IP-CIDR,119.42.148.187/32,no-resolve
 IP-CIDR,119.42.148.189/32,no-resolve
 IP-CIDR,119.42.148.190/32,no-resolve
 IP-CIDR,120.26.112.247/32,no-resolve
-IP-CIDR,121.43.102.230/32,no-resolve
 IP-CIDR,121.43.158.195/32,no-resolve
 IP-CIDR,121.78.158.102/32,no-resolve
 IP-CIDR,122.51.179.8/32,no-resolve
@@ -993,9 +993,7 @@ IP-CIDR,179.199.199.60/32,no-resolve
 IP-CIDR,18.190.253.142/32,no-resolve
 IP-CIDR,182.16.98.82/32,no-resolve
 IP-CIDR,182.16.98.83/32,no-resolve
-IP-CIDR,182.16.98.84/32,no-resolve
 IP-CIDR,182.16.98.85/32,no-resolve
-IP-CIDR,182.16.98.86/32,no-resolve
 IP-CIDR,182.16.98.87/32,no-resolve
 IP-CIDR,182.16.98.88/32,no-resolve
 IP-CIDR,182.16.98.89/32,no-resolve
@@ -1126,13 +1124,13 @@ IP-CIDR,2.29.159.106/32,no-resolve
 IP-CIDR,2.29.45.84/32,no-resolve
 IP-CIDR,2.56.246.58/32,no-resolve
 IP-CIDR,20.235.65.170/32,no-resolve
+IP-CIDR,202.6.205.18/32,no-resolve
 IP-CIDR,202.61.140.195/32,no-resolve
 IP-CIDR,202.61.160.233/32,no-resolve
 IP-CIDR,202.95.13.142/32,no-resolve
 IP-CIDR,203.91.75.211/32,no-resolve
 IP-CIDR,204.168.182.163/32,no-resolve
 IP-CIDR,206.188.197.53/32,no-resolve
-IP-CIDR,206.238.123.21/32,no-resolve
 IP-CIDR,208.87.89.211/32,no-resolve
 IP-CIDR,208.87.89.213/32,no-resolve
 IP-CIDR,208.87.89.229/32,no-resolve
