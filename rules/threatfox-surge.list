@@ -1,7 +1,8 @@
-# Generated UTC 2026-11-05T18:41:43.753798+00:00
+# Generated UTC 2026-11-05T19:44:40.303181+00:00
 DOMAIN,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
 DOMAIN,7dfw4p3pzo3zlcy5hzm7y43z3kfke2rhd3eudncmvknwhsqqvseadkad.onion
 DOMAIN,a.bok13.org
+DOMAIN,a8.akun269.org
 DOMAIN,a8.coy9.com
 DOMAIN,adobeupdate.ddns.net
 DOMAIN,afktogel.org
@@ -85,6 +86,7 @@ DOMAIN,dxnoft.homes
 DOMAIN,dxyour.forum
 DOMAIN,dy-adstats.net
 DOMAIN,dy-applog.net
+DOMAIN,e.bro50.org
 DOMAIN,ea52lfk4w6dza6hmmb4o6ndef7ep45wkkjxuo7sfzkyqt7rplyph3zyd.onion
 DOMAIN,ec2-aws.ddns.net
 DOMAIN,ei.akun269.org
@@ -127,6 +129,7 @@ DOMAIN,grufunminnal204.instrumentoviolino.cfd
 DOMAIN,gs.alan4d.org
 DOMAIN,h.bosmj.org
 DOMAIN,h7.aloytoto.org
+DOMAIN,ha.alsg96.org
 DOMAIN,hazelmoss.cc
 DOMAIN,hchjcc.bumbleshrimp.com
 DOMAIN,hfbyx46eezec276yss.pages.dev
@@ -290,7 +293,6 @@ DOMAIN,prapinvaz.instrumentopiano.cfd
 DOMAIN,priconfinfel.instrumentoguitarra.cfd
 DOMAIN,priconlingor.instrumentobateria.cfd
 DOMAIN,pu.aksara87.org
-DOMAIN,q.aeoncash.org
 DOMAIN,q3.alien203.org
 DOMAIN,qs.alphaslot677.org
 DOMAIN,qv.alphaslot677.org
@@ -865,7 +867,6 @@ IP-CIDR,154.91.49.178/32,no-resolve
 IP-CIDR,154.91.49.179/32,no-resolve
 IP-CIDR,154.91.49.180/32,no-resolve
 IP-CIDR,154.91.49.181/32,no-resolve
-IP-CIDR,154.91.49.182/32,no-resolve
 IP-CIDR,154.91.49.183/32,no-resolve
 IP-CIDR,154.91.49.184/32,no-resolve
 IP-CIDR,154.91.49.185/32,no-resolve
@@ -1431,7 +1432,6 @@ IP-CIDR,43.136.174.17/32,no-resolve
 IP-CIDR,43.136.92.170/32,no-resolve
 IP-CIDR,43.139.187.59/32,no-resolve
 IP-CIDR,43.155.171.8/32,no-resolve
-IP-CIDR,43.163.242.241/32,no-resolve
 IP-CIDR,43.167.223.40/32,no-resolve
 IP-CIDR,43.251.102.131/32,no-resolve
 IP-CIDR,43.255.159.93/32,no-resolve
@@ -1466,8 +1466,8 @@ IP-CIDR,46.8.70.157/32,no-resolve
 IP-CIDR,47.100.183.95/32,no-resolve
 IP-CIDR,47.102.40.187/32,no-resolve
 IP-CIDR,47.109.109.168/32,no-resolve
-IP-CIDR,47.109.23.77/32,no-resolve
 IP-CIDR,47.110.227.98/32,no-resolve
+IP-CIDR,47.122.106.5/32,no-resolve
 IP-CIDR,47.239.109.26/32,no-resolve
 IP-CIDR,47.252.72.197/32,no-resolve
 IP-CIDR,47.252.83.215/32,no-resolve
