@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-05T09:27:37.663703+00:00
+# Generated UTC 2026-11-05T10:29:19.048771+00:00
 DOMAIN,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
 DOMAIN,7dfw4p3pzo3zlcy5hzm7y43z3kfke2rhd3eudncmvknwhsqqvseadkad.onion
 DOMAIN,a.bok13.org
@@ -259,6 +259,7 @@ DOMAIN,pu.aksara87.org
 DOMAIN,q.aeoncash.org
 DOMAIN,q3.alien203.org
 DOMAIN,qs.alphaslot677.org
+DOMAIN,qv.alphaslot677.org
 DOMAIN,qvfgzg2yukem4ldat2zk6umidqbzydhf7au5ecfybp7d65av6q3jyjad.onion
 DOMAIN,r.au338.org
 DOMAIN,r.bosmj.org
@@ -1095,10 +1096,7 @@ IP-CIDR,178.249.214.239/32,no-resolve
 IP-CIDR,178.83.206.213/32,no-resolve
 IP-CIDR,179.199.199.60/32,no-resolve
 IP-CIDR,18.190.253.142/32,no-resolve
-IP-CIDR,182.16.98.83/32,no-resolve
 IP-CIDR,182.16.98.87/32,no-resolve
-IP-CIDR,182.16.98.89/32,no-resolve
-IP-CIDR,182.16.98.91/32,no-resolve
 IP-CIDR,182.16.98.92/32,no-resolve
 IP-CIDR,182.16.98.93/32,no-resolve
 IP-CIDR,182.254.137.211/32,no-resolve
