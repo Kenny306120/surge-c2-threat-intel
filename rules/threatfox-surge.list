@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-06T06:56:15.225884+00:00
+# Generated UTC 2026-11-06T08:09:25.088219+00:00
 DOMAIN,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
 DOMAIN,7dfw4p3pzo3zlcy5hzm7y43z3kfke2rhd3eudncmvknwhsqqvseadkad.onion
 DOMAIN,a.bok13.org
@@ -56,7 +56,6 @@ DOMAIN,cd.afktogel.org
 DOMAIN,chocolatemilf.fun
 DOMAIN,cindermoor.cc
 DOMAIN,cletal.instrumentocello.cfd
-DOMAIN,cm.afktogel.org
 DOMAIN,co.alloha4d.org
 DOMAIN,compassagreement.cfd
 DOMAIN,concretehomesaruba.lat
@@ -68,7 +67,6 @@ DOMAIN,cuit8.org
 DOMAIN,cuq.alloha4d.org
 DOMAIN,custardlegwarmer.cc
 DOMAIN,cx.albino77.org
-DOMAIN,d.bb69.org
 DOMAIN,d.bob78.org
 DOMAIN,d.bosmj.org
 DOMAIN,d200n.com
@@ -100,7 +98,6 @@ DOMAIN,f.au338.org
 DOMAIN,f2.afterbet88.org
 DOMAIN,f6.alloha4d.org
 DOMAIN,fairmoor.cc
-DOMAIN,farenaw.cc
 DOMAIN,fasterflogging.cc
 DOMAIN,filqexo.com
 DOMAIN,fj.albino77.org
@@ -109,6 +106,7 @@ DOMAIN,fk.alan4d.org
 DOMAIN,flicanxoncal.instrumentocontrabaixo.cfd
 DOMAIN,fm.afktogel.org
 DOMAIN,fs.alphaslot677.org
+DOMAIN,fu.alxeabet.org
 DOMAIN,funrat.top
 DOMAIN,fz.afktogel.org
 DOMAIN,g-hgfdsgd.mom
@@ -334,6 +332,7 @@ DOMAIN,scrimantanpor.instrumentobaixo.cfd
 DOMAIN,service.upgrade.ug
 DOMAIN,shadowbirch.cc
 DOMAIN,slatefold.cc
+DOMAIN,so.alxeabet.org
 DOMAIN,sometimes-i-fuck-a.baby
 DOMAIN,sorrelglen.cc
 DOMAIN,spamhaus.help
@@ -344,6 +343,7 @@ DOMAIN,stenchmaxx.study
 DOMAIN,stratenpanfar.instrumentobateria.cfd
 DOMAIN,support.grovecityelectrician.com
 DOMAIN,supremegods.website
+DOMAIN,t.akuntoti.net
 DOMAIN,t.coy9.com
 DOMAIN,t.cuit8.org
 DOMAIN,t.d200n.com
@@ -378,6 +378,7 @@ DOMAIN,verifyidentrob01.cc
 DOMAIN,verse-38.com
 DOMAIN,vicmyf7pwjrbn6vusk.pages.dev
 DOMAIN,vinip-xup.mom
+DOMAIN,voovvv.cc
 DOMAIN,vp.akun258.org
 DOMAIN,vt.akun269.org
 DOMAIN,vz.altertogel.net
@@ -860,9 +861,7 @@ IP-CIDR,154.91.48.190/32,no-resolve
 IP-CIDR,154.91.49.162/32,no-resolve
 IP-CIDR,154.91.49.163/32,no-resolve
 IP-CIDR,154.91.49.164/32,no-resolve
-IP-CIDR,154.91.49.167/32,no-resolve
 IP-CIDR,154.91.49.168/32,no-resolve
-IP-CIDR,154.91.49.169/32,no-resolve
 IP-CIDR,154.91.49.170/32,no-resolve
 IP-CIDR,154.91.49.171/32,no-resolve
 IP-CIDR,154.91.49.172/32,no-resolve
@@ -870,7 +869,6 @@ IP-CIDR,154.91.49.174/32,no-resolve
 IP-CIDR,154.91.49.176/32,no-resolve
 IP-CIDR,154.91.49.177/32,no-resolve
 IP-CIDR,154.91.49.178/32,no-resolve
-IP-CIDR,154.91.49.179/32,no-resolve
 IP-CIDR,154.91.49.180/32,no-resolve
 IP-CIDR,154.91.49.181/32,no-resolve
 IP-CIDR,154.91.49.183/32,no-resolve
@@ -930,19 +928,15 @@ IP-CIDR,154.91.52.172/32,no-resolve
 IP-CIDR,154.91.52.173/32,no-resolve
 IP-CIDR,154.91.52.174/32,no-resolve
 IP-CIDR,154.91.52.175/32,no-resolve
-IP-CIDR,154.91.52.176/32,no-resolve
 IP-CIDR,154.91.52.177/32,no-resolve
 IP-CIDR,154.91.52.178/32,no-resolve
 IP-CIDR,154.91.52.179/32,no-resolve
 IP-CIDR,154.91.52.180/32,no-resolve
-IP-CIDR,154.91.52.181/32,no-resolve
 IP-CIDR,154.91.52.182/32,no-resolve
-IP-CIDR,154.91.52.183/32,no-resolve
 IP-CIDR,154.91.52.184/32,no-resolve
 IP-CIDR,154.91.52.185/32,no-resolve
 IP-CIDR,154.91.52.186/32,no-resolve
 IP-CIDR,154.91.52.187/32,no-resolve
-IP-CIDR,154.91.52.188/32,no-resolve
 IP-CIDR,154.91.52.189/32,no-resolve
 IP-CIDR,154.91.52.190/32,no-resolve
 IP-CIDR,154.91.53.162/32,no-resolve
@@ -950,8 +944,6 @@ IP-CIDR,154.91.53.163/32,no-resolve
 IP-CIDR,154.91.53.164/32,no-resolve
 IP-CIDR,154.91.53.165/32,no-resolve
 IP-CIDR,154.91.53.166/32,no-resolve
-IP-CIDR,154.91.53.167/32,no-resolve
-IP-CIDR,154.91.53.168/32,no-resolve
 IP-CIDR,154.91.53.169/32,no-resolve
 IP-CIDR,154.91.53.171/32,no-resolve
 IP-CIDR,154.91.53.172/32,no-resolve
@@ -975,7 +967,6 @@ IP-CIDR,154.91.54.170/32,no-resolve
 IP-CIDR,154.91.54.171/32,no-resolve
 IP-CIDR,154.91.54.172/32,no-resolve
 IP-CIDR,154.91.54.174/32,no-resolve
-IP-CIDR,154.91.54.175/32,no-resolve
 IP-CIDR,154.91.54.176/32,no-resolve
 IP-CIDR,154.91.54.177/32,no-resolve
 IP-CIDR,154.91.54.178/32,no-resolve
@@ -1395,6 +1386,7 @@ IP-CIDR,43.119.51.36/32,no-resolve
 IP-CIDR,43.133.248.198/32,no-resolve
 IP-CIDR,43.136.174.17/32,no-resolve
 IP-CIDR,43.136.92.170/32,no-resolve
+IP-CIDR,43.137.2.139/32,no-resolve
 IP-CIDR,43.139.187.59/32,no-resolve
 IP-CIDR,43.155.171.8/32,no-resolve
 IP-CIDR,43.167.223.40/32,no-resolve
