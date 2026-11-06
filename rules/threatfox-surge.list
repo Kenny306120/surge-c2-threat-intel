@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-06T00:41:54.391045+00:00
+# Generated UTC 2026-11-06T01:58:14.919439+00:00
 DOMAIN,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
 DOMAIN,7dfw4p3pzo3zlcy5hzm7y43z3kfke2rhd3eudncmvknwhsqqvseadkad.onion
 DOMAIN,a.bok13.org
@@ -26,6 +26,7 @@ DOMAIN,aqringagook.website
 DOMAIN,as.alsg96.org
 DOMAIN,ashfold.cc
 DOMAIN,atl-ut.cannabisrootshub.com
+DOMAIN,b.bro50.org
 DOMAIN,b.coy9.com
 DOMAIN,b0.alloha4d.org
 DOMAIN,b5.aksara87.org
@@ -373,6 +374,7 @@ DOMAIN,vicmyf7pwjrbn6vusk.pages.dev
 DOMAIN,vinip-xup.mom
 DOMAIN,vp.akun258.org
 DOMAIN,vt.akun269.org
+DOMAIN,vz.altertogel.net
 DOMAIN,w.bosmj.org
 DOMAIN,w4.altertogel.net
 DOMAIN,w9.alphaslot677.org
@@ -892,9 +894,7 @@ IP-CIDR,154.91.50.188/32,no-resolve
 IP-CIDR,154.91.50.189/32,no-resolve
 IP-CIDR,154.91.51.162/32,no-resolve
 IP-CIDR,154.91.51.163/32,no-resolve
-IP-CIDR,154.91.51.166/32,no-resolve
 IP-CIDR,154.91.51.167/32,no-resolve
-IP-CIDR,154.91.51.168/32,no-resolve
 IP-CIDR,154.91.51.169/32,no-resolve
 IP-CIDR,154.91.51.170/32,no-resolve
 IP-CIDR,154.91.51.171/32,no-resolve
@@ -1419,6 +1419,7 @@ IP-CIDR,45.128.156.112/32,no-resolve
 IP-CIDR,45.136.154.97/32,no-resolve
 IP-CIDR,45.136.154.98/32,no-resolve
 IP-CIDR,45.136.154.99/32,no-resolve
+IP-CIDR,45.147.251.71/32,no-resolve
 IP-CIDR,45.153.34.71/32,no-resolve
 IP-CIDR,45.154.98.118/32,no-resolve
 IP-CIDR,45.192.213.11/32,no-resolve
@@ -1561,6 +1562,7 @@ IP-CIDR,78.159.131.254/32,no-resolve
 IP-CIDR,78.46.59.171/32,no-resolve
 IP-CIDR,78.46.65.190/32,no-resolve
 IP-CIDR,78.83.103.72/32,no-resolve
+IP-CIDR,79.108.160.118/32,no-resolve
 IP-CIDR,79.127.141.129/32,no-resolve
 IP-CIDR,79.127.141.133/32,no-resolve
 IP-CIDR,79.127.141.134/32,no-resolve
