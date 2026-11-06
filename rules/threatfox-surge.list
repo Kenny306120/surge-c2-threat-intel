@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-06T19:43:30.194828+00:00
+# Generated UTC 2026-11-06T20:37:55.344014+00:00
 DOMAIN,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
 DOMAIN,7dfw4p3pzo3zlcy5hzm7y43z3kfke2rhd3eudncmvknwhsqqvseadkad.onion
 DOMAIN,a.bok13.org
@@ -843,11 +843,6 @@ IP-CIDR,154.37.219.102/32,no-resolve
 IP-CIDR,154.80.128.137/32,no-resolve
 IP-CIDR,154.91.48.164/32,no-resolve
 IP-CIDR,154.91.48.165/32,no-resolve
-IP-CIDR,154.91.48.188/32,no-resolve
-IP-CIDR,154.91.48.189/32,no-resolve
-IP-CIDR,154.91.48.190/32,no-resolve
-IP-CIDR,154.91.49.162/32,no-resolve
-IP-CIDR,154.91.49.168/32,no-resolve
 IP-CIDR,154.91.49.170/32,no-resolve
 IP-CIDR,154.91.49.171/32,no-resolve
 IP-CIDR,154.91.49.172/32,no-resolve
@@ -1172,6 +1167,7 @@ IP-CIDR,202.95.13.142/32,no-resolve
 IP-CIDR,203.202.232.21/32,no-resolve
 IP-CIDR,203.91.75.211/32,no-resolve
 IP-CIDR,204.168.182.163/32,no-resolve
+IP-CIDR,206.119.104.39/32,no-resolve
 IP-CIDR,206.188.197.53/32,no-resolve
 IP-CIDR,207.57.126.175/32,no-resolve
 IP-CIDR,208.87.89.211/32,no-resolve
@@ -1457,6 +1453,7 @@ IP-CIDR,5.161.92.56/32,no-resolve
 IP-CIDR,5.175.253.126/32,no-resolve
 IP-CIDR,5.231.31.64/32,no-resolve
 IP-CIDR,51.20.118.197/32,no-resolve
+IP-CIDR,51.210.65.37/32,no-resolve
 IP-CIDR,51.79.168.5/32,no-resolve
 IP-CIDR,51.89.166.173/32,no-resolve
 IP-CIDR,52.51.21.68/32,no-resolve
