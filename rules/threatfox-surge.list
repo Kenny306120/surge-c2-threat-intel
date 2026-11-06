@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-06T03:42:46.096408+00:00
+# Generated UTC 2026-11-06T04:47:56.845596+00:00
 DOMAIN,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
 DOMAIN,7dfw4p3pzo3zlcy5hzm7y43z3kfke2rhd3eudncmvknwhsqqvseadkad.onion
 DOMAIN,a.bok13.org
@@ -21,6 +21,7 @@ DOMAIN,aloytoto.org
 DOMAIN,alphaslot677.org
 DOMAIN,alsg96.org
 DOMAIN,altertogel.net
+DOMAIN,alxeabet.org
 DOMAIN,amerika88.org
 DOMAIN,applauseraking.cc
 DOMAIN,aqringagook.website
@@ -91,6 +92,7 @@ DOMAIN,dy-applog.net
 DOMAIN,e.bro50.org
 DOMAIN,ea52lfk4w6dza6hmmb4o6ndef7ep45wkkjxuo7sfzkyqt7rplyph3zyd.onion
 DOMAIN,ei.akun269.org
+DOMAIN,ei1.alxeabet.org
 DOMAIN,ev.afterbet88.org
 DOMAIN,events.mirthfield.cc
 DOMAIN,evu.akun258.org
@@ -956,7 +958,6 @@ IP-CIDR,154.91.53.172/32,no-resolve
 IP-CIDR,154.91.53.173/32,no-resolve
 IP-CIDR,154.91.53.177/32,no-resolve
 IP-CIDR,154.91.53.178/32,no-resolve
-IP-CIDR,154.91.53.182/32,no-resolve
 IP-CIDR,154.91.53.183/32,no-resolve
 IP-CIDR,154.91.53.184/32,no-resolve
 IP-CIDR,154.91.53.185/32,no-resolve
@@ -966,17 +967,13 @@ IP-CIDR,154.91.53.188/32,no-resolve
 IP-CIDR,154.91.53.189/32,no-resolve
 IP-CIDR,154.91.53.190/32,no-resolve
 IP-CIDR,154.91.54.162/32,no-resolve
-IP-CIDR,154.91.54.163/32,no-resolve
 IP-CIDR,154.91.54.164/32,no-resolve
-IP-CIDR,154.91.54.165/32,no-resolve
 IP-CIDR,154.91.54.166/32,no-resolve
 IP-CIDR,154.91.54.167/32,no-resolve
 IP-CIDR,154.91.54.168/32,no-resolve
-IP-CIDR,154.91.54.169/32,no-resolve
 IP-CIDR,154.91.54.170/32,no-resolve
 IP-CIDR,154.91.54.171/32,no-resolve
 IP-CIDR,154.91.54.172/32,no-resolve
-IP-CIDR,154.91.54.173/32,no-resolve
 IP-CIDR,154.91.54.174/32,no-resolve
 IP-CIDR,154.91.54.175/32,no-resolve
 IP-CIDR,154.91.54.176/32,no-resolve
@@ -1096,6 +1093,7 @@ IP-CIDR,178.249.214.236/32,no-resolve
 IP-CIDR,178.249.214.239/32,no-resolve
 IP-CIDR,179.199.199.60/32,no-resolve
 IP-CIDR,18.190.253.142/32,no-resolve
+IP-CIDR,180.76.172.229/32,no-resolve
 IP-CIDR,184.64.22.194/32,no-resolve
 IP-CIDR,185.173.36.87/32,no-resolve
 IP-CIDR,185.173.38.165/32,no-resolve
