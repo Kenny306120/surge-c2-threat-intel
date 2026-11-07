@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-07T16:03:24.671513+00:00
+# Generated UTC 2026-11-07T17:03:56.457654+00:00
 DOMAIN,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
 DOMAIN,7dfw4p3pzo3zlcy5hzm7y43z3kfke2rhd3eudncmvknwhsqqvseadkad.onion
 DOMAIN,a.bok13.org
@@ -89,6 +89,7 @@ DOMAIN,dfgdfhdftiudrtjrgjgdf.mom
 DOMAIN,distrohaven.xyz
 DOMAIN,dlbs2m9uajwi0w5k0f.pages.dev
 DOMAIN,do.akurat80.org
+DOMAIN,do.amanbet89.org
 DOMAIN,dr.albino77.org
 DOMAIN,drelunzinnal.instrumentoguitarra.cfd
 DOMAIN,drieduproot.cc
@@ -133,7 +134,6 @@ DOMAIN,gdsfgdfg.mom
 DOMAIN,gf.akuntoti.net
 DOMAIN,gi.akurat80.org
 DOMAIN,glacansal76.instrumentoviolao.cfd
-DOMAIN,gol1111.store
 DOMAIN,gorsevale.cc
 DOMAIN,grayfen.cc
 DOMAIN,grufunminnal204.instrumentoviolino.cfd
@@ -892,10 +892,6 @@ IP-CIDR,154.91.53.173/32,no-resolve
 IP-CIDR,154.91.53.177/32,no-resolve
 IP-CIDR,154.91.53.184/32,no-resolve
 IP-CIDR,154.91.54.189/32,no-resolve
-IP-CIDR,154.91.54.190/32,no-resolve
-IP-CIDR,154.91.55.162/32,no-resolve
-IP-CIDR,154.91.55.163/32,no-resolve
-IP-CIDR,154.91.55.164/32,no-resolve
 IP-CIDR,154.91.55.165/32,no-resolve
 IP-CIDR,154.91.55.166/32,no-resolve
 IP-CIDR,154.91.55.177/32,no-resolve
@@ -984,6 +980,7 @@ IP-CIDR,185.228.138.115/32,no-resolve
 IP-CIDR,185.7.214.97/32,no-resolve
 IP-CIDR,186.246.17.208/32,no-resolve
 IP-CIDR,188.166.233.203/32,no-resolve
+IP-CIDR,188.190.6.25/32,no-resolve
 IP-CIDR,188.213.128.89/32,no-resolve
 IP-CIDR,188.245.153.190/32,no-resolve
 IP-CIDR,188.245.221.146/32,no-resolve
