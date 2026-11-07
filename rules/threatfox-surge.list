@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-07T05:38:45.296260+00:00
+# Generated UTC 2026-11-07T06:41:32.033590+00:00
 DOMAIN,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
 DOMAIN,7dfw4p3pzo3zlcy5hzm7y43z3kfke2rhd3eudncmvknwhsqqvseadkad.onion
 DOMAIN,a.bok13.org
@@ -231,6 +231,7 @@ DOMAIN,kb.akasia988.net
 DOMAIN,kg.afktogel.org
 DOMAIN,kh.afktogel.org
 DOMAIN,kissingimpulse.cc
+DOMAIN,km.amanbet87.org
 DOMAIN,kt.allbaslot.org
 DOMAIN,l.bola7.net
 DOMAIN,l.bro50.org
@@ -731,9 +732,6 @@ IP-CIDR,138.199.57.8/32,no-resolve
 IP-CIDR,139.196.57.120/32,no-resolve
 IP-CIDR,139.196.74.76/32,no-resolve
 IP-CIDR,141.98.10.112/32,no-resolve
-IP-CIDR,141.98.10.157/32,no-resolve
-IP-CIDR,141.98.10.160/32,no-resolve
-IP-CIDR,141.98.10.172/32,no-resolve
 IP-CIDR,141.98.10.213/32,no-resolve
 IP-CIDR,142.4.38.191/32,no-resolve
 IP-CIDR,144.172.107.191/32,no-resolve
@@ -860,15 +858,12 @@ IP-CIDR,154.37.219.102/32,no-resolve
 IP-CIDR,154.80.128.137/32,no-resolve
 IP-CIDR,154.91.48.164/32,no-resolve
 IP-CIDR,154.91.48.165/32,no-resolve
-IP-CIDR,154.91.49.178/32,no-resolve
 IP-CIDR,154.91.49.187/32,no-resolve
 IP-CIDR,154.91.51.172/32,no-resolve
 IP-CIDR,154.91.51.174/32,no-resolve
 IP-CIDR,154.91.51.175/32,no-resolve
 IP-CIDR,154.91.51.176/32,no-resolve
 IP-CIDR,154.91.51.177/32,no-resolve
-IP-CIDR,154.91.52.165/32,no-resolve
-IP-CIDR,154.91.52.169/32,no-resolve
 IP-CIDR,154.91.52.170/32,no-resolve
 IP-CIDR,154.91.52.171/32,no-resolve
 IP-CIDR,154.91.52.172/32,no-resolve
@@ -896,9 +891,7 @@ IP-CIDR,154.91.53.171/32,no-resolve
 IP-CIDR,154.91.53.172/32,no-resolve
 IP-CIDR,154.91.53.173/32,no-resolve
 IP-CIDR,154.91.53.177/32,no-resolve
-IP-CIDR,154.91.53.183/32,no-resolve
 IP-CIDR,154.91.53.184/32,no-resolve
-IP-CIDR,154.91.53.185/32,no-resolve
 IP-CIDR,154.91.53.186/32,no-resolve
 IP-CIDR,154.91.53.187/32,no-resolve
 IP-CIDR,154.91.53.188/32,no-resolve
