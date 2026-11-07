@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-07T20:26:11.617540+00:00
+# Generated UTC 2026-11-07T21:05:18.926401+00:00
 DOMAIN,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
 DOMAIN,7dfw4p3pzo3zlcy5hzm7y43z3kfke2rhd3eudncmvknwhsqqvseadkad.onion
 DOMAIN,a.bok13.org
@@ -543,7 +543,6 @@ IP-CIDR,101.47.46.72/32,no-resolve
 IP-CIDR,101.47.46.77/32,no-resolve
 IP-CIDR,101.94.133.75/32,no-resolve
 IP-CIDR,102.117.165.20/32,no-resolve
-IP-CIDR,102.134.35.205/32,no-resolve
 IP-CIDR,102.205.170.11/32,no-resolve
 IP-CIDR,103.118.252.177/32,no-resolve
 IP-CIDR,103.129.53.147/32,no-resolve
