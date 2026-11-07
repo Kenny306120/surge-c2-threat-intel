@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-07T17:03:56.457654+00:00
+# Generated UTC 2026-11-07T17:58:36.981085+00:00
 DOMAIN,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
 DOMAIN,7dfw4p3pzo3zlcy5hzm7y43z3kfke2rhd3eudncmvknwhsqqvseadkad.onion
 DOMAIN,a.bok13.org
@@ -27,6 +27,7 @@ DOMAIN,altertogel.net
 DOMAIN,alxeabet.org
 DOMAIN,amanbet87.org
 DOMAIN,amanbet89.org
+DOMAIN,amanbet99.net
 DOMAIN,amarikatoto.com
 DOMAIN,amerika88.org
 DOMAIN,applauseraking.cc
@@ -107,6 +108,7 @@ DOMAIN,ei1.alxeabet.org
 DOMAIN,ev.afterbet88.org
 DOMAIN,evu.akun258.org
 DOMAIN,f.akasia988.net
+DOMAIN,f.dak69.org
 DOMAIN,f2.afterbet88.org
 DOMAIN,f6.alloha4d.org
 DOMAIN,fairmoor.cc
@@ -305,6 +307,7 @@ DOMAIN,o6.amarikatoto.com
 DOMAIN,ohnnyeriesen51.com
 DOMAIN,olympusgods.website
 DOMAIN,op.afterbet88.org
+DOMAIN,oui.amanbet99.net
 DOMAIN,oz.alxeabet.org
 DOMAIN,p.bob78.org
 DOMAIN,p.bro50.org
@@ -891,11 +894,6 @@ IP-CIDR,154.91.53.172/32,no-resolve
 IP-CIDR,154.91.53.173/32,no-resolve
 IP-CIDR,154.91.53.177/32,no-resolve
 IP-CIDR,154.91.53.184/32,no-resolve
-IP-CIDR,154.91.54.189/32,no-resolve
-IP-CIDR,154.91.55.165/32,no-resolve
-IP-CIDR,154.91.55.166/32,no-resolve
-IP-CIDR,154.91.55.177/32,no-resolve
-IP-CIDR,154.91.55.178/32,no-resolve
 IP-CIDR,154.91.55.179/32,no-resolve
 IP-CIDR,154.91.55.181/32,no-resolve
 IP-CIDR,154.91.55.182/32,no-resolve
@@ -1395,6 +1393,9 @@ IP-CIDR,5.161.55.230/32,no-resolve
 IP-CIDR,5.161.69.73/32,no-resolve
 IP-CIDR,5.161.92.56/32,no-resolve
 IP-CIDR,5.175.253.126/32,no-resolve
+IP-CIDR,5.231.31.116/32,no-resolve
+IP-CIDR,5.231.31.128/32,no-resolve
+IP-CIDR,5.231.31.129/32,no-resolve
 IP-CIDR,5.231.31.64/32,no-resolve
 IP-CIDR,51.20.118.197/32,no-resolve
 IP-CIDR,51.210.65.37/32,no-resolve
