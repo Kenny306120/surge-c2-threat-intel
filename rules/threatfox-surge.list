@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-07T14:12:00.070371+00:00
+# Generated UTC 2026-11-07T15:06:05.076821+00:00
 DOMAIN,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
 DOMAIN,7dfw4p3pzo3zlcy5hzm7y43z3kfke2rhd3eudncmvknwhsqqvseadkad.onion
 DOMAIN,a.bok13.org
@@ -302,6 +302,7 @@ DOMAIN,ny.altertogel.net
 DOMAIN,o.bob78.org
 DOMAIN,o.bola7.net
 DOMAIN,o.cou4d.org
+DOMAIN,o6.amarikatoto.com
 DOMAIN,ohnnyeriesen51.com
 DOMAIN,olympusgods.website
 DOMAIN,op.afterbet88.org
@@ -344,6 +345,7 @@ DOMAIN,rx.aloytoto.org
 DOMAIN,s.bok13.org
 DOMAIN,s.bola7.net
 DOMAIN,s.cuit8.org
+DOMAIN,s.dewii.net
 DOMAIN,s27k4va5sqe2h2sbw4wmbikibaz6lnwdjngl4v3qptcffsvtrdxx7yyd.onion
 DOMAIN,s8.akun258.org
 DOMAIN,s9.alan4d.org
@@ -419,7 +421,6 @@ DOMAIN,wvw.akuatoto.net
 DOMAIN,www.akasia988.net
 DOMAIN,www.ms-telemetry.us
 DOMAIN,www.zuqiubabaaw.net.cn
-DOMAIN,wwwapko.top
 DOMAIN,wx.akurat80.org
 DOMAIN,x.akuatoto.net
 DOMAIN,x.alphaslot677.org
@@ -445,7 +446,6 @@ DOMAIN,z.allbaslot.org
 DOMAIN,z.bok13.org
 DOMAIN,z.cou4d.org
 DOMAIN,z.d300m.org
-DOMAIN,z4.afktogel.org
 DOMAIN,z59ux9.he2o9t.com
 DOMAIN,z7kqxbhjtn8ntgspd3.pages.dev
 DOMAIN,zf.akurat80.org
@@ -725,6 +725,7 @@ IP-CIDR,134.122.173.96/32,no-resolve
 IP-CIDR,134.122.62.90/32,no-resolve
 IP-CIDR,136.243.19.24/32,no-resolve
 IP-CIDR,137.220.136.165/32,no-resolve
+IP-CIDR,137.220.205.17/32,no-resolve
 IP-CIDR,138.199.221.194/32,no-resolve
 IP-CIDR,138.199.48.113/32,no-resolve
 IP-CIDR,138.199.48.114/32,no-resolve
@@ -890,7 +891,6 @@ IP-CIDR,154.91.53.172/32,no-resolve
 IP-CIDR,154.91.53.173/32,no-resolve
 IP-CIDR,154.91.53.177/32,no-resolve
 IP-CIDR,154.91.53.184/32,no-resolve
-IP-CIDR,154.91.54.188/32,no-resolve
 IP-CIDR,154.91.54.189/32,no-resolve
 IP-CIDR,154.91.54.190/32,no-resolve
 IP-CIDR,154.91.55.162/32,no-resolve
@@ -898,10 +898,6 @@ IP-CIDR,154.91.55.163/32,no-resolve
 IP-CIDR,154.91.55.164/32,no-resolve
 IP-CIDR,154.91.55.165/32,no-resolve
 IP-CIDR,154.91.55.166/32,no-resolve
-IP-CIDR,154.91.55.169/32,no-resolve
-IP-CIDR,154.91.55.172/32,no-resolve
-IP-CIDR,154.91.55.173/32,no-resolve
-IP-CIDR,154.91.55.174/32,no-resolve
 IP-CIDR,154.91.55.177/32,no-resolve
 IP-CIDR,154.91.55.178/32,no-resolve
 IP-CIDR,154.91.55.179/32,no-resolve
@@ -913,7 +909,6 @@ IP-CIDR,154.91.55.186/32,no-resolve
 IP-CIDR,154.91.55.188/32,no-resolve
 IP-CIDR,156.223.153.229/32,no-resolve
 IP-CIDR,156.229.120.138/32,no-resolve
-IP-CIDR,156.234.7.71/32,no-resolve
 IP-CIDR,156.238.237.103/32,no-resolve
 IP-CIDR,157.137.227.61/32,no-resolve
 IP-CIDR,157.180.23.24/32,no-resolve
@@ -1110,6 +1105,7 @@ IP-CIDR,2.29.157.217/32,no-resolve
 IP-CIDR,2.29.159.106/32,no-resolve
 IP-CIDR,2.29.45.84/32,no-resolve
 IP-CIDR,20.235.65.170/32,no-resolve
+IP-CIDR,202.170.75.107/32,no-resolve
 IP-CIDR,202.6.205.18/32,no-resolve
 IP-CIDR,202.61.140.195/32,no-resolve
 IP-CIDR,202.95.13.142/32,no-resolve
