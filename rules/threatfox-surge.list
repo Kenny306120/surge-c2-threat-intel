@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-07T19:32:46.013512+00:00
+# Generated UTC 2026-11-07T20:26:11.617540+00:00
 DOMAIN,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
 DOMAIN,7dfw4p3pzo3zlcy5hzm7y43z3kfke2rhd3eudncmvknwhsqqvseadkad.onion
 DOMAIN,a.bok13.org
@@ -231,6 +231,7 @@ DOMAIN,k.akuntoti.net
 DOMAIN,k.bo787.com
 DOMAIN,k.bob78.org
 DOMAIN,k.d300m.org
+DOMAIN,k.dak69.org
 DOMAIN,k4.akurat80.org
 DOMAIN,k4.altertogel.net
 DOMAIN,k9.alien203.org
@@ -369,6 +370,7 @@ DOMAIN,stratenpanfar.instrumentobateria.cfd
 DOMAIN,support.grovecityelectrician.com
 DOMAIN,supremegods.website
 DOMAIN,t.akuntoti.net
+DOMAIN,t.amanbet99.net
 DOMAIN,t.coy9.com
 DOMAIN,t.cuit8.org
 DOMAIN,t.d200n.com
@@ -573,7 +575,6 @@ IP-CIDR,104.251.122.121/32,no-resolve
 IP-CIDR,106.13.176.233/32,no-resolve
 IP-CIDR,106.13.42.133/32,no-resolve
 IP-CIDR,106.54.10.214/32,no-resolve
-IP-CIDR,106.54.41.209/32,no-resolve
 IP-CIDR,106.75.209.40/32,no-resolve
 IP-CIDR,106.75.249.202/32,no-resolve
 IP-CIDR,107.149.104.215/32,no-resolve
@@ -876,8 +877,6 @@ IP-CIDR,154.222.17.227/32,no-resolve
 IP-CIDR,154.31.217.202/32,no-resolve
 IP-CIDR,154.37.219.102/32,no-resolve
 IP-CIDR,154.80.128.137/32,no-resolve
-IP-CIDR,154.91.48.164/32,no-resolve
-IP-CIDR,154.91.48.165/32,no-resolve
 IP-CIDR,154.91.49.187/32,no-resolve
 IP-CIDR,154.91.51.175/32,no-resolve
 IP-CIDR,154.91.52.182/32,no-resolve
@@ -898,7 +897,6 @@ IP-CIDR,154.91.53.172/32,no-resolve
 IP-CIDR,154.91.53.173/32,no-resolve
 IP-CIDR,154.91.53.177/32,no-resolve
 IP-CIDR,154.91.53.184/32,no-resolve
-IP-CIDR,154.91.55.188/32,no-resolve
 IP-CIDR,156.223.153.229/32,no-resolve
 IP-CIDR,156.229.120.138/32,no-resolve
 IP-CIDR,156.238.237.103/32,no-resolve
@@ -1366,6 +1364,7 @@ IP-CIDR,47.82.211.103/32,no-resolve
 IP-CIDR,47.82.5.242/32,no-resolve
 IP-CIDR,47.82.6.111/32,no-resolve
 IP-CIDR,47.97.197.89/32,no-resolve
+IP-CIDR,47.97.215.190/32,no-resolve
 IP-CIDR,49.12.237.199/32,no-resolve
 IP-CIDR,49.13.159.0/32,no-resolve
 IP-CIDR,49.13.235.217/32,no-resolve
