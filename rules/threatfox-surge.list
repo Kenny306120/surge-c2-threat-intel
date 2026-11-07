@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-07T17:58:36.981085+00:00
+# Generated UTC 2026-11-07T18:37:15.236024+00:00
 DOMAIN,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
 DOMAIN,7dfw4p3pzo3zlcy5hzm7y43z3kfke2rhd3eudncmvknwhsqqvseadkad.onion
 DOMAIN,a.bok13.org
@@ -64,6 +64,7 @@ DOMAIN,bz.alsg96.org
 DOMAIN,c.afterbet88.org
 DOMAIN,c.bok13.org
 DOMAIN,c.bosmj.org
+DOMAIN,c5.amanbet99.net
 DOMAIN,chocolatemilf.fun
 DOMAIN,cindermoor.cc
 DOMAIN,cletal.instrumentocello.cfd
@@ -895,7 +896,6 @@ IP-CIDR,154.91.53.173/32,no-resolve
 IP-CIDR,154.91.53.177/32,no-resolve
 IP-CIDR,154.91.53.184/32,no-resolve
 IP-CIDR,154.91.55.179/32,no-resolve
-IP-CIDR,154.91.55.181/32,no-resolve
 IP-CIDR,154.91.55.182/32,no-resolve
 IP-CIDR,154.91.55.183/32,no-resolve
 IP-CIDR,154.91.55.185/32,no-resolve
@@ -1393,9 +1393,15 @@ IP-CIDR,5.161.55.230/32,no-resolve
 IP-CIDR,5.161.69.73/32,no-resolve
 IP-CIDR,5.161.92.56/32,no-resolve
 IP-CIDR,5.175.253.126/32,no-resolve
+IP-CIDR,5.231.31.114/32,no-resolve
 IP-CIDR,5.231.31.116/32,no-resolve
+IP-CIDR,5.231.31.118/32,no-resolve
+IP-CIDR,5.231.31.122/32,no-resolve
 IP-CIDR,5.231.31.128/32,no-resolve
 IP-CIDR,5.231.31.129/32,no-resolve
+IP-CIDR,5.231.31.130/32,no-resolve
+IP-CIDR,5.231.31.131/32,no-resolve
+IP-CIDR,5.231.31.57/32,no-resolve
 IP-CIDR,5.231.31.64/32,no-resolve
 IP-CIDR,51.20.118.197/32,no-resolve
 IP-CIDR,51.210.65.37/32,no-resolve
