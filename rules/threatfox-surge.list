@@ -1,7 +1,6 @@
-# Generated UTC 2026-11-08T02:41:40.508211+00:00
+# Generated UTC 2026-11-08T03:42:22.826976+00:00
 DOMAIN,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
 DOMAIN,7dfw4p3pzo3zlcy5hzm7y43z3kfke2rhd3eudncmvknwhsqqvseadkad.onion
-DOMAIN,a.bok13.org
 DOMAIN,a.dewii.net
 DOMAIN,a8.akun269.org
 DOMAIN,a8.coy9.com
@@ -241,6 +240,7 @@ DOMAIN,k.bo787.com
 DOMAIN,k.bob78.org
 DOMAIN,k.d300m.org
 DOMAIN,k.dak69.org
+DOMAIN,k.dewii.net
 DOMAIN,k4.akurat80.org
 DOMAIN,k4.altertogel.net
 DOMAIN,k9.alien203.org
@@ -257,6 +257,7 @@ DOMAIN,l.cuit8.org
 DOMAIN,l.d300m.org
 DOMAIN,l1.albino77.org
 DOMAIN,l2.amanbet87.org
+DOMAIN,l5.amanlay.org
 DOMAIN,l8.amanbet87.org
 DOMAIN,larkfen.cc
 DOMAIN,lb.birchcore.cc
@@ -319,7 +320,6 @@ DOMAIN,o.dewii.net
 DOMAIN,o6.amarikatoto.com
 DOMAIN,ohnnyeriesen51.com
 DOMAIN,olympusgods.website
-DOMAIN,op.afterbet88.org
 DOMAIN,oui.amanbet99.net
 DOMAIN,oz.alxeabet.org
 DOMAIN,p.bob78.org
@@ -353,6 +353,7 @@ DOMAIN,relay-3f9c71.kartohaantoha36-6a9.workers.dev
 DOMAIN,relay-mirror.kartohaantoha36-6a9.workers.dev
 DOMAIN,res.shadowbirch.cc
 DOMAIN,rj.akuatoto.net
+DOMAIN,rm.amarikatoto.com
 DOMAIN,rp.amanlay.org
 DOMAIN,rq.alan4d.org
 DOMAIN,rushwick.cc
@@ -1103,6 +1104,7 @@ IP-CIDR,202.61.140.195/32,no-resolve
 IP-CIDR,202.95.13.142/32,no-resolve
 IP-CIDR,203.202.232.21/32,no-resolve
 IP-CIDR,203.91.74.4/32,no-resolve
+IP-CIDR,203.91.77.154/32,no-resolve
 IP-CIDR,204.168.182.163/32,no-resolve
 IP-CIDR,206.119.104.39/32,no-resolve
 IP-CIDR,206.188.197.53/32,no-resolve
@@ -1116,6 +1118,7 @@ IP-CIDR,209.192.191.252/32,no-resolve
 IP-CIDR,209.192.192.100/32,no-resolve
 IP-CIDR,209.192.192.108/32,no-resolve
 IP-CIDR,210.87.110.249/32,no-resolve
+IP-CIDR,211.154.28.214/32,no-resolve
 IP-CIDR,212.74.20.100/32,no-resolve
 IP-CIDR,212.74.20.101/32,no-resolve
 IP-CIDR,212.74.20.102/32,no-resolve
@@ -1311,7 +1314,6 @@ IP-CIDR,45.76.99.126/32,no-resolve
 IP-CIDR,45.83.31.203/32,no-resolve
 IP-CIDR,45.87.53.10/32,no-resolve
 IP-CIDR,45.87.53.14/32,no-resolve
-IP-CIDR,45.87.53.3/32,no-resolve
 IP-CIDR,45.87.53.4/32,no-resolve
 IP-CIDR,46.19.140.50/32,no-resolve
 IP-CIDR,46.224.147.190/32,no-resolve
