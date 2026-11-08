@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-08T14:11:17.931474+00:00
+# Generated UTC 2026-11-08T15:05:01.544540+00:00
 DOMAIN,3131.lol
 DOMAIN,3169.lol
 DOMAIN,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
@@ -840,7 +840,6 @@ IP-CIDR,144.172.91.133/32,no-resolve
 IP-CIDR,144.172.93.169/32,no-resolve
 IP-CIDR,144.172.94.202/32,no-resolve
 IP-CIDR,144.31.166.182/32,no-resolve
-IP-CIDR,144.31.53.142/32,no-resolve
 IP-CIDR,144.76.109.28/32,no-resolve
 IP-CIDR,144.76.83.59/32,no-resolve
 IP-CIDR,146.190.101.87/32,no-resolve
@@ -1353,6 +1352,7 @@ IP-CIDR,45.13.232.234/32,no-resolve
 IP-CIDR,45.136.154.97/32,no-resolve
 IP-CIDR,45.136.154.98/32,no-resolve
 IP-CIDR,45.136.154.99/32,no-resolve
+IP-CIDR,45.141.117.158/32,no-resolve
 IP-CIDR,45.147.251.71/32,no-resolve
 IP-CIDR,45.153.34.71/32,no-resolve
 IP-CIDR,45.154.98.118/32,no-resolve
