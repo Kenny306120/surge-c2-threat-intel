@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-08T00:51:35.062142+00:00
+# Generated UTC 2026-11-08T01:53:39.635940+00:00
 DOMAIN,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
 DOMAIN,7dfw4p3pzo3zlcy5hzm7y43z3kfke2rhd3eudncmvknwhsqqvseadkad.onion
 DOMAIN,a.bok13.org
@@ -28,6 +28,7 @@ DOMAIN,alxeabet.org
 DOMAIN,amanbet87.org
 DOMAIN,amanbet89.org
 DOMAIN,amanbet99.net
+DOMAIN,amanlay.org
 DOMAIN,amarikatoto.com
 DOMAIN,amerika88.org
 DOMAIN,applauseraking.cc
@@ -322,6 +323,7 @@ DOMAIN,oui.amanbet99.net
 DOMAIN,oz.alxeabet.org
 DOMAIN,p.bob78.org
 DOMAIN,p.bro50.org
+DOMAIN,p9.amanlay.org
 DOMAIN,palefen.cc
 DOMAIN,pinemarsh.cc
 DOMAIN,plagem.instrumentocontrabaixo.cfd
@@ -1217,7 +1219,6 @@ IP-CIDR,38.55.17.101/32,no-resolve
 IP-CIDR,38.55.17.113/32,no-resolve
 IP-CIDR,38.55.193.25/32,no-resolve
 IP-CIDR,38.55.252.139/32,no-resolve
-IP-CIDR,38.76.190.209/32,no-resolve
 IP-CIDR,39.105.214.210/32,no-resolve
 IP-CIDR,39.107.238.247/32,no-resolve
 IP-CIDR,39.107.50.187/32,no-resolve
@@ -1323,7 +1324,6 @@ IP-CIDR,46.62.166.138/32,no-resolve
 IP-CIDR,46.8.102.144/32,no-resolve
 IP-CIDR,46.8.70.157/32,no-resolve
 IP-CIDR,47.101.140.195/32,no-resolve
-IP-CIDR,47.109.109.168/32,no-resolve
 IP-CIDR,47.109.183.168/32,no-resolve
 IP-CIDR,47.110.227.98/32,no-resolve
 IP-CIDR,47.116.40.77/32,no-resolve
