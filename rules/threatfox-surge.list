@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-08T11:27:00.297567+00:00
+# Generated UTC 2026-11-08T12:06:24.929625+00:00
 DOMAIN,3131.lol
 DOMAIN,3169.lol
 DOMAIN,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
@@ -261,7 +261,6 @@ DOMAIN,jaspereye.cc
 DOMAIN,jellyfishparty.info
 DOMAIN,ji.alsg96.org
 DOMAIN,jq.alsg96.org
-DOMAIN,jujupuluz.icu
 DOMAIN,jutabhjba45.shop
 DOMAIN,jv.aloytoto.org
 DOMAIN,jyc.amanbet99.net
@@ -379,6 +378,7 @@ DOMAIN,panel.strong-men.icu
 DOMAIN,payneofin.cc
 DOMAIN,pinemarsh.cc
 DOMAIN,plagem.instrumentocontrabaixo.cfd
+DOMAIN,plg.amanplya.org
 DOMAIN,plipal.instrumentobaixo.cfd
 DOMAIN,plorinwinnal45.instrumentoviolao.cfd
 DOMAIN,po.alsg96.org
@@ -1179,7 +1179,6 @@ IP-CIDR,209.192.191.236/32,no-resolve
 IP-CIDR,209.192.191.252/32,no-resolve
 IP-CIDR,209.192.192.100/32,no-resolve
 IP-CIDR,209.192.192.108/32,no-resolve
-IP-CIDR,210.87.110.249/32,no-resolve
 IP-CIDR,211.154.28.214/32,no-resolve
 IP-CIDR,212.74.20.100/32,no-resolve
 IP-CIDR,212.74.20.101/32,no-resolve
@@ -1290,7 +1289,6 @@ IP-CIDR,39.105.214.210/32,no-resolve
 IP-CIDR,39.107.238.247/32,no-resolve
 IP-CIDR,39.107.50.187/32,no-resolve
 IP-CIDR,39.98.168.196/32,no-resolve
-IP-CIDR,42.193.138.26/32,no-resolve
 IP-CIDR,43.102.132.75/32,no-resolve
 IP-CIDR,43.102.132.76/32,no-resolve
 IP-CIDR,43.102.132.77/32,no-resolve
@@ -1351,11 +1349,9 @@ IP-CIDR,43.119.50.172/32,no-resolve
 IP-CIDR,43.119.51.36/32,no-resolve
 IP-CIDR,43.133.248.198/32,no-resolve
 IP-CIDR,43.136.174.17/32,no-resolve
-IP-CIDR,43.136.92.170/32,no-resolve
 IP-CIDR,43.137.2.139/32,no-resolve
 IP-CIDR,43.139.187.59/32,no-resolve
 IP-CIDR,43.155.171.8/32,no-resolve
-IP-CIDR,43.167.223.40/32,no-resolve
 IP-CIDR,43.198.242.224/32,no-resolve
 IP-CIDR,43.242.33.64/32,no-resolve
 IP-CIDR,43.251.102.131/32,no-resolve
