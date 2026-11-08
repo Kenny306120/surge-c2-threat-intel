@@ -1,12 +1,17 @@
-# Generated UTC 2026-11-08T03:42:22.826976+00:00
+# Generated UTC 2026-11-08T04:42:44.834920+00:00
+DOMAIN,3131.lol
+DOMAIN,3169.lol
 DOMAIN,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
+DOMAIN,7dak.lol
 DOMAIN,7dfw4p3pzo3zlcy5hzm7y43z3kfke2rhd3eudncmvknwhsqqvseadkad.onion
 DOMAIN,a.dewii.net
 DOMAIN,a8.akun269.org
 DOMAIN,a8.coy9.com
+DOMAIN,acilicak.lol
 DOMAIN,adobeupdate.ddns.net
 DOMAIN,afktogel.org
 DOMAIN,agreement-rc.com
+DOMAIN,ahmetaga.lol
 DOMAIN,ai.akuatoto.net
 DOMAIN,aksara87.org
 DOMAIN,akun258.org
@@ -98,6 +103,7 @@ DOMAIN,dr.albino77.org
 DOMAIN,drelunzinnal.instrumentoguitarra.cfd
 DOMAIN,drieduproot.cc
 DOMAIN,drotez.instrumentoviolino.cfd
+DOMAIN,dumbaero.lol
 DOMAIN,duskglen.cc
 DOMAIN,dxnoft.homes
 DOMAIN,dxyour.forum
@@ -112,6 +118,7 @@ DOMAIN,ev.afterbet88.org
 DOMAIN,evu.akun258.org
 DOMAIN,ewababa.sbs
 DOMAIN,f.akasia988.net
+DOMAIN,f.amanlay.org
 DOMAIN,f.dak69.org
 DOMAIN,f2.afterbet88.org
 DOMAIN,f6.alloha4d.org
@@ -139,6 +146,7 @@ DOMAIN,g5.altertogel.net
 DOMAIN,g7.akun258.org
 DOMAIN,g9.afterbet88.org
 DOMAIN,gdsfgdfg.mom
+DOMAIN,gelmedi.lol
 DOMAIN,gf.akuntoti.net
 DOMAIN,gi.akurat80.org
 DOMAIN,glacansal76.instrumentoviolao.cfd
@@ -153,6 +161,7 @@ DOMAIN,h.d200n.com
 DOMAIN,h7.aloytoto.org
 DOMAIN,ha.alsg96.org
 DOMAIN,hchjcc.bumbleshrimp.com
+DOMAIN,helelele.lol
 DOMAIN,hfbyx46eezec276yss.pages.dev
 DOMAIN,hh002.tx-logtrace.net
 DOMAIN,hi.afterbet88.org
@@ -244,10 +253,13 @@ DOMAIN,k.dewii.net
 DOMAIN,k4.akurat80.org
 DOMAIN,k4.altertogel.net
 DOMAIN,k9.alien203.org
+DOMAIN,kabab.lol
 DOMAIN,kb.akasia988.net
+DOMAIN,keke.lol
 DOMAIN,kg.afktogel.org
 DOMAIN,ki.amanbet99.net
 DOMAIN,kissingimpulse.cc
+DOMAIN,kiyamet.lol
 DOMAIN,km.amanbet87.org
 DOMAIN,kt.allbaslot.org
 DOMAIN,ky.amanbet89.org
@@ -260,6 +272,7 @@ DOMAIN,l2.amanbet87.org
 DOMAIN,l5.amanlay.org
 DOMAIN,l8.amanbet87.org
 DOMAIN,larkfen.cc
+DOMAIN,lastabuse.lol
 DOMAIN,lb.birchcore.cc
 DOMAIN,ldy.albino77.org
 DOMAIN,ll.aksara87.org
@@ -437,6 +450,7 @@ DOMAIN,wishdirection.xyz
 DOMAIN,wr.akurat80.org
 DOMAIN,wrathtables.cc
 DOMAIN,wrenholt.cc
+DOMAIN,wuhhuu.lol
 DOMAIN,wvw.akuatoto.net
 DOMAIN,www.akasia988.net
 DOMAIN,www.ms-telemetry.us
@@ -469,6 +483,7 @@ DOMAIN,z.cou4d.org
 DOMAIN,z.d300m.org
 DOMAIN,z59ux9.he2o9t.com
 DOMAIN,z7kqxbhjtn8ntgspd3.pages.dev
+DOMAIN,zbabuvj.lol
 DOMAIN,zf.akurat80.org
 DOMAIN,zi.amarikatoto.com
 DOMAIN,zj.amanbet89.org
@@ -740,6 +755,7 @@ IP-CIDR,134.122.173.96/32,no-resolve
 IP-CIDR,134.122.62.90/32,no-resolve
 IP-CIDR,136.243.19.24/32,no-resolve
 IP-CIDR,137.220.136.165/32,no-resolve
+IP-CIDR,137.220.205.114/32,no-resolve
 IP-CIDR,137.220.205.17/32,no-resolve
 IP-CIDR,138.199.221.194/32,no-resolve
 IP-CIDR,138.199.48.113/32,no-resolve
@@ -884,7 +900,6 @@ IP-CIDR,154.222.17.227/32,no-resolve
 IP-CIDR,154.31.217.202/32,no-resolve
 IP-CIDR,154.37.219.102/32,no-resolve
 IP-CIDR,154.80.128.137/32,no-resolve
-IP-CIDR,154.91.51.175/32,no-resolve
 IP-CIDR,154.91.52.182/32,no-resolve
 IP-CIDR,154.91.52.184/32,no-resolve
 IP-CIDR,154.91.52.185/32,no-resolve
@@ -1312,10 +1327,8 @@ IP-CIDR,45.61.145.161/32,no-resolve
 IP-CIDR,45.76.145.171/32,no-resolve
 IP-CIDR,45.76.99.126/32,no-resolve
 IP-CIDR,45.83.31.203/32,no-resolve
-IP-CIDR,45.87.53.10/32,no-resolve
 IP-CIDR,45.87.53.14/32,no-resolve
 IP-CIDR,45.87.53.4/32,no-resolve
-IP-CIDR,46.19.140.50/32,no-resolve
 IP-CIDR,46.224.147.190/32,no-resolve
 IP-CIDR,46.246.6.6/32,no-resolve
 IP-CIDR,46.4.88.118/32,no-resolve
@@ -1351,7 +1364,6 @@ IP-CIDR,47.79.3.101/32,no-resolve
 IP-CIDR,47.79.3.188/32,no-resolve
 IP-CIDR,47.79.6.212/32,no-resolve
 IP-CIDR,47.79.7.248/32,no-resolve
-IP-CIDR,47.80.241.141/32,no-resolve
 IP-CIDR,47.82.0.41/32,no-resolve
 IP-CIDR,47.82.148.152/32,no-resolve
 IP-CIDR,47.82.154.9/32,no-resolve
