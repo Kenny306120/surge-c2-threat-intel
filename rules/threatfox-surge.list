@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-09T03:14:34.900328+00:00
+# Generated UTC 2026-11-09T04:29:04.126105+00:00
 DOMAIN,3131.lol
 DOMAIN,3169.lol
 DOMAIN,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
@@ -574,6 +574,7 @@ DOMAIN,z.allbaslot.org
 DOMAIN,z.cou4d.org
 DOMAIN,z.d300m.org
 DOMAIN,z.dak69.org
+DOMAIN,z4.amor76.com
 DOMAIN,z59ux9.he2o9t.com
 DOMAIN,z7kqxbhjtn8ntgspd3.pages.dev
 DOMAIN,zbabuvj.lol
@@ -801,6 +802,7 @@ IP-CIDR,116.62.81.99/32,no-resolve
 IP-CIDR,117.72.220.70/32,no-resolve
 IP-CIDR,117.72.75.21/32,no-resolve
 IP-CIDR,118.107.16.167/32,no-resolve
+IP-CIDR,118.196.123.204/32,no-resolve
 IP-CIDR,118.31.45.229/32,no-resolve
 IP-CIDR,119.45.10.40/32,no-resolve
 IP-CIDR,120.79.19.159/32,no-resolve
@@ -811,7 +813,6 @@ IP-CIDR,123.60.37.114/32,no-resolve
 IP-CIDR,124.221.123.110/32,no-resolve
 IP-CIDR,124.221.142.210/32,no-resolve
 IP-CIDR,124.221.175.211/32,no-resolve
-IP-CIDR,124.222.254.87/32,no-resolve
 IP-CIDR,128.1.12.106/32,no-resolve
 IP-CIDR,128.1.12.13/32,no-resolve
 IP-CIDR,128.1.12.190/32,no-resolve
@@ -1308,6 +1309,7 @@ IP-CIDR,38.55.17.101/32,no-resolve
 IP-CIDR,38.55.17.113/32,no-resolve
 IP-CIDR,38.55.252.139/32,no-resolve
 IP-CIDR,39.105.214.210/32,no-resolve
+IP-CIDR,39.107.48.89/32,no-resolve
 IP-CIDR,39.107.50.187/32,no-resolve
 IP-CIDR,39.98.168.196/32,no-resolve
 IP-CIDR,42.192.113.152/32,no-resolve
@@ -1385,7 +1387,6 @@ IP-CIDR,45.136.154.98/32,no-resolve
 IP-CIDR,45.136.154.99/32,no-resolve
 IP-CIDR,45.141.117.158/32,no-resolve
 IP-CIDR,45.147.251.71/32,no-resolve
-IP-CIDR,45.153.34.71/32,no-resolve
 IP-CIDR,45.154.98.118/32,no-resolve
 IP-CIDR,45.192.213.11/32,no-resolve
 IP-CIDR,45.192.99.236/32,no-resolve
