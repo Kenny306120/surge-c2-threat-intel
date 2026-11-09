@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-09T19:46:45.048243+00:00
+# Generated UTC 2026-11-09T20:42:30.560825+00:00
 DOMAIN,3131.lol
 DOMAIN,3169.lol
 DOMAIN,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
@@ -153,6 +153,7 @@ DOMAIN,ewababa.sbs
 DOMAIN,f.akasia988.net
 DOMAIN,f.amanlay.org
 DOMAIN,f.dak69.org
+DOMAIN,f4.ampelbet.org
 DOMAIN,f6.alloha4d.org
 DOMAIN,fairmoor.cc
 DOMAIN,falveth.cc
@@ -784,6 +785,7 @@ IP-CIDR,2.29.45.84/32,no-resolve
 IP-CIDR,20.235.65.170/32,no-resolve
 IP-CIDR,202.170.75.107/32,no-resolve
 IP-CIDR,202.6.205.18/32,no-resolve
+IP-CIDR,202.95.12.131/32,no-resolve
 IP-CIDR,202.95.13.142/32,no-resolve
 IP-CIDR,203.202.232.21/32,no-resolve
 IP-CIDR,203.202.232.26/32,no-resolve
@@ -825,6 +827,7 @@ IP-CIDR,38.147.172.79/32,no-resolve
 IP-CIDR,38.174.217.97/32,no-resolve
 IP-CIDR,38.55.17.113/32,no-resolve
 IP-CIDR,38.55.252.139/32,no-resolve
+IP-CIDR,38.60.252.179/32,no-resolve
 IP-CIDR,38.76.183.197/32,no-resolve
 IP-CIDR,39.105.214.210/32,no-resolve
 IP-CIDR,39.107.48.89/32,no-resolve
