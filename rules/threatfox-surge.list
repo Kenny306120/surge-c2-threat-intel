@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-09T07:06:50.788353+00:00
+# Generated UTC 2026-11-09T08:43:24.088075+00:00
 DOMAIN,3131.lol
 DOMAIN,3169.lol
 DOMAIN,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
@@ -48,6 +48,7 @@ DOMAIN,b.akuntoti.net
 DOMAIN,b.bro50.org
 DOMAIN,b.coy9.com
 DOMAIN,b.d200n.com
+DOMAIN,b.dax96.org
 DOMAIN,b0.alloha4d.org
 DOMAIN,b5.aksara87.org
 DOMAIN,b6.akasia988.net
@@ -58,7 +59,6 @@ DOMAIN,bb001.tx-devmetrics.net
 DOMAIN,bellwick.cc
 DOMAIN,bigriemp.com
 DOMAIN,billy.collegefan.org
-DOMAIN,birchcore.cc
 DOMAIN,blisterup.com
 DOMAIN,bo787.com
 DOMAIN,bob78.org
@@ -107,6 +107,7 @@ DOMAIN,d.bosmj.org
 DOMAIN,d200n.com
 DOMAIN,d300m.org
 DOMAIN,d9.amarikatoto.com
+DOMAIN,d97.amor76.com
 DOMAIN,dak69.org
 DOMAIN,dapplefenland.cc
 DOMAIN,dav88.org
@@ -313,7 +314,6 @@ DOMAIN,l5.amanlay.org
 DOMAIN,l8.amanbet87.org
 DOMAIN,larkfen.cc
 DOMAIN,lastabuse.lol
-DOMAIN,lb.birchcore.cc
 DOMAIN,ldy.albino77.org
 DOMAIN,leap19.com
 DOMAIN,lh.amin90.org
@@ -493,6 +493,7 @@ DOMAIN,tg.alloha4d.org
 DOMAIN,thornmere.cc
 DOMAIN,tj.amanbet89.org
 DOMAIN,tn.amanplya.org
+DOMAIN,toddloftindds.com
 DOMAIN,tu.aloytoto.org
 DOMAIN,ty.afktogel.org
 DOMAIN,tz.alloha4d.org
@@ -866,7 +867,6 @@ IP-CIDR,138.199.57.6/32,no-resolve
 IP-CIDR,138.199.57.7/32,no-resolve
 IP-CIDR,138.199.57.8/32,no-resolve
 IP-CIDR,139.196.57.120/32,no-resolve
-IP-CIDR,139.196.74.76/32,no-resolve
 IP-CIDR,141.98.10.213/32,no-resolve
 IP-CIDR,144.172.91.133/32,no-resolve
 IP-CIDR,144.31.166.182/32,no-resolve
@@ -1107,7 +1107,6 @@ IP-CIDR,193.161.193.99/32,no-resolve
 IP-CIDR,193.187.91.224/32,no-resolve
 IP-CIDR,193.42.24.215/32,no-resolve
 IP-CIDR,194.156.79.165/32,no-resolve
-IP-CIDR,194.29.187.168/32,no-resolve
 IP-CIDR,194.59.30.40/32,no-resolve
 IP-CIDR,195.15.201.210/32,no-resolve
 IP-CIDR,195.15.201.249/32,no-resolve
