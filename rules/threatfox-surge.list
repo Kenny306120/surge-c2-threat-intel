@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-10T00:08:13.882447+00:00
+# Generated UTC 2026-11-10T01:34:09.557709+00:00
 DOMAIN,3131.lol
 DOMAIN,3169.lol
 DOMAIN,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
@@ -504,6 +504,7 @@ DOMAIN,sablecroft.cc
 DOMAIN,sablehurstby.cc
 DOMAIN,sablewoodton.cc
 DOMAIN,sb.alloha4d.org
+DOMAIN,sb.amper888.net
 DOMAIN,schinner.icu
 DOMAIN,screwinnal520.instrumentopiano.cfd
 DOMAIN,scrimantanpor.instrumentobaixo.cfd
@@ -774,7 +775,6 @@ IP-CIDR,195.15.201.210/32,no-resolve
 IP-CIDR,195.15.201.249/32,no-resolve
 IP-CIDR,195.15.203.34/32,no-resolve
 IP-CIDR,195.15.207.179/32,no-resolve
-IP-CIDR,195.206.234.176/32,no-resolve
 IP-CIDR,195.86.147.250/32,no-resolve
 IP-CIDR,196.251.102.41/32,no-resolve
 IP-CIDR,198.206.152.4/32,no-resolve
@@ -856,6 +856,7 @@ IP-CIDR,45.13.232.234/32,no-resolve
 IP-CIDR,45.141.117.158/32,no-resolve
 IP-CIDR,45.141.148.75/32,no-resolve
 IP-CIDR,45.147.251.71/32,no-resolve
+IP-CIDR,45.153.34.74/32,no-resolve
 IP-CIDR,45.154.98.118/32,no-resolve
 IP-CIDR,45.192.213.11/32,no-resolve
 IP-CIDR,45.192.99.236/32,no-resolve
@@ -894,7 +895,6 @@ IP-CIDR,5.231.31.129/32,no-resolve
 IP-CIDR,5.231.31.130/32,no-resolve
 IP-CIDR,5.231.31.131/32,no-resolve
 IP-CIDR,5.231.31.57/32,no-resolve
-IP-CIDR,5.231.31.64/32,no-resolve
 IP-CIDR,51.210.65.37/32,no-resolve
 IP-CIDR,51.79.168.5/32,no-resolve
 IP-CIDR,51.89.166.173/32,no-resolve
@@ -903,7 +903,6 @@ IP-CIDR,59.110.172.210/32,no-resolve
 IP-CIDR,61.110.5.174/32,no-resolve
 IP-CIDR,61.220.133.191/32,no-resolve
 IP-CIDR,62.238.50.223/32,no-resolve
-IP-CIDR,62.60.226.30/32,no-resolve
 IP-CIDR,62.83.98.38/32,no-resolve
 IP-CIDR,64.224.17.29/32,no-resolve
 IP-CIDR,64.81.30.24/32,no-resolve
@@ -955,7 +954,6 @@ IP-CIDR,95.216.197.0/32,no-resolve
 IP-CIDR,95.216.206.217/32,no-resolve
 IP-CIDR,95.40.247.230/32,no-resolve
 IP-CIDR,96.62.250.142/32,no-resolve
-IP-CIDR,96.62.250.146/32,no-resolve
 IP-CIDR,96.62.250.234/32,no-resolve
 IP-CIDR,96.62.250.235/32,no-resolve
 IP-CIDR,96.62.250.236/32,no-resolve
