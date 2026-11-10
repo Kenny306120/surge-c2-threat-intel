@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-10T03:40:22.053572+00:00
+# Generated UTC 2026-11-10T04:42:36.712181+00:00
 DOMAIN,3131.lol
 DOMAIN,3169.lol
 DOMAIN,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
@@ -568,6 +568,7 @@ DOMAIN,uq.alan4d.org
 DOMAIN,uu.alan4d.org
 DOMAIN,uu.coy9.com
 DOMAIN,v.ampelbet.org
+DOMAIN,v.ampluna.com
 DOMAIN,v.bro50.org
 DOMAIN,v.cuit8.org
 DOMAIN,v.d300m.org
@@ -654,6 +655,7 @@ IP-CIDR,101.42.182.92/32,no-resolve
 IP-CIDR,101.42.255.92/32,no-resolve
 IP-CIDR,101.42.47.73/32,no-resolve
 IP-CIDR,101.94.133.75/32,no-resolve
+IP-CIDR,102.129.165.177/32,no-resolve
 IP-CIDR,103.153.183.144/32,no-resolve
 IP-CIDR,103.164.81.65/32,no-resolve
 IP-CIDR,103.167.65.157/32,no-resolve
@@ -696,6 +698,7 @@ IP-CIDR,123.60.37.114/32,no-resolve
 IP-CIDR,124.198.132.157/32,no-resolve
 IP-CIDR,124.221.142.210/32,no-resolve
 IP-CIDR,124.221.175.211/32,no-resolve
+IP-CIDR,124.221.227.209/32,no-resolve
 IP-CIDR,128.90.105.171/32,no-resolve
 IP-CIDR,129.211.213.240/32,no-resolve
 IP-CIDR,13.218.18.142/32,no-resolve
