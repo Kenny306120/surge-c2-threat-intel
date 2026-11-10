@@ -1,9 +1,10 @@
-# Generated UTC 2026-11-10T01:34:09.557709+00:00
+# Generated UTC 2026-11-10T02:40:58.201639+00:00
 DOMAIN,3131.lol
 DOMAIN,3169.lol
 DOMAIN,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
 DOMAIN,7dak.lol
 DOMAIN,7dfw4p3pzo3zlcy5hzm7y43z3kfke2rhd3eudncmvknwhsqqvseadkad.onion
+DOMAIN,a.dewa2.org
 DOMAIN,a.dewii.net
 DOMAIN,a8.akun269.org
 DOMAIN,a8.coy9.com
@@ -122,6 +123,7 @@ DOMAIN,dav88.org
 DOMAIN,dax96.org
 DOMAIN,dc.amin90.org
 DOMAIN,deleeue.lol
+DOMAIN,dewa2.org
 DOMAIN,dewii.net
 DOMAIN,dexgrow.quest
 DOMAIN,dfgdfhdftiudrtjrgjgdf.mom
@@ -491,6 +493,7 @@ DOMAIN,rushwick.cc
 DOMAIN,rw.aksara87.org
 DOMAIN,rw.akun269.org
 DOMAIN,rx.aloytoto.org
+DOMAIN,s.amper888.net
 DOMAIN,s.bola7.net
 DOMAIN,s.cuit8.org
 DOMAIN,s.dav88.org
@@ -688,7 +691,6 @@ IP-CIDR,122.234.227.242/32,no-resolve
 IP-CIDR,123.57.205.120/32,no-resolve
 IP-CIDR,123.60.37.114/32,no-resolve
 IP-CIDR,124.198.132.157/32,no-resolve
-IP-CIDR,124.221.123.110/32,no-resolve
 IP-CIDR,124.221.142.210/32,no-resolve
 IP-CIDR,124.221.175.211/32,no-resolve
 IP-CIDR,128.90.105.171/32,no-resolve
@@ -713,7 +715,6 @@ IP-CIDR,151.244.72.155/32,no-resolve
 IP-CIDR,154.219.101.163/32,no-resolve
 IP-CIDR,154.222.24.60/32,no-resolve
 IP-CIDR,154.31.217.202/32,no-resolve
-IP-CIDR,154.37.219.102/32,no-resolve
 IP-CIDR,154.80.128.137/32,no-resolve
 IP-CIDR,156.238.237.103/32,no-resolve
 IP-CIDR,157.137.227.61/32,no-resolve
@@ -925,7 +926,6 @@ IP-CIDR,8.138.174.123/32,no-resolve
 IP-CIDR,8.138.194.14/32,no-resolve
 IP-CIDR,8.140.239.162/32,no-resolve
 IP-CIDR,8.141.88.204/32,no-resolve
-IP-CIDR,8.160.189.25/32,no-resolve
 IP-CIDR,8.217.254.211/32,no-resolve
 IP-CIDR,80.87.206.91/32,no-resolve
 IP-CIDR,80.87.206.95/32,no-resolve
