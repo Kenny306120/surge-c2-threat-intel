@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-11T00:57:07.812492+00:00
+# Generated UTC 2026-11-11T01:54:35.875236+00:00
 DOMAIN,0611proklyod.com
 DOMAIN,3131.lol
 DOMAIN,3169.lol
@@ -97,6 +97,7 @@ DOMAIN,c.dewii.net
 DOMAIN,c5.amanbet99.net
 DOMAIN,cairnwood.cc
 DOMAIN,caltvora.cc
+DOMAIN,cg.andora188.org
 DOMAIN,ch.ampelbet.org
 DOMAIN,chocolatemilf.fun
 DOMAIN,ci.anakraja87.org
@@ -653,7 +654,6 @@ DOMAIN,zn.alsg96.org
 DOMAIN,zoo101.ydns.eu
 IP-CIDR,1.117.76.217/32,no-resolve
 IP-CIDR,101.133.170.144/32,no-resolve
-IP-CIDR,101.34.218.233/32,no-resolve
 IP-CIDR,101.42.182.92/32,no-resolve
 IP-CIDR,101.42.255.92/32,no-resolve
 IP-CIDR,101.42.47.73/32,no-resolve
@@ -733,6 +733,7 @@ IP-CIDR,160.187.211.210/32,no-resolve
 IP-CIDR,160.202.46.32/32,no-resolve
 IP-CIDR,161.35.202.19/32,no-resolve
 IP-CIDR,162.55.91.69/32,no-resolve
+IP-CIDR,165.22.247.146/32,no-resolve
 IP-CIDR,166.88.90.53/32,no-resolve
 IP-CIDR,167.172.122.204/32,no-resolve
 IP-CIDR,167.172.26.20/32,no-resolve
@@ -807,6 +808,7 @@ IP-CIDR,203.91.77.154/32,no-resolve
 IP-CIDR,204.194.51.97/32,no-resolve
 IP-CIDR,206.119.104.39/32,no-resolve
 IP-CIDR,206.119.182.47/32,no-resolve
+IP-CIDR,206.189.48.169/32,no-resolve
 IP-CIDR,207.180.250.181/32,no-resolve
 IP-CIDR,207.57.126.175/32,no-resolve
 IP-CIDR,211.154.28.214/32,no-resolve
@@ -830,6 +832,7 @@ IP-CIDR,34.172.105.193/32,no-resolve
 IP-CIDR,35.179.100.178/32,no-resolve
 IP-CIDR,35.212.135.58/32,no-resolve
 IP-CIDR,36.212.147.39/32,no-resolve
+IP-CIDR,36.255.97.15/32,no-resolve
 IP-CIDR,38.174.217.97/32,no-resolve
 IP-CIDR,38.55.17.113/32,no-resolve
 IP-CIDR,38.55.252.139/32,no-resolve
@@ -870,13 +873,12 @@ IP-CIDR,47.116.40.77/32,no-resolve
 IP-CIDR,47.122.106.5/32,no-resolve
 IP-CIDR,47.238.116.190/32,no-resolve
 IP-CIDR,47.239.109.26/32,no-resolve
+IP-CIDR,47.242.46.219/32,no-resolve
 IP-CIDR,47.97.197.89/32,no-resolve
 IP-CIDR,47.97.215.190/32,no-resolve
 IP-CIDR,47.98.218.28/32,no-resolve
 IP-CIDR,49.232.202.134/32,no-resolve
 IP-CIDR,49.232.220.131/32,no-resolve
-IP-CIDR,49.235.172.25/32,no-resolve
-IP-CIDR,49.235.179.14/32,no-resolve
 IP-CIDR,5.231.31.111/32,no-resolve
 IP-CIDR,5.231.31.114/32,no-resolve
 IP-CIDR,5.231.31.116/32,no-resolve
