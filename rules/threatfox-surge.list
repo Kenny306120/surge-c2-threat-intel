@@ -1,13 +1,11 @@
-# Generated UTC 2026-11-12T04:48:47.591442+00:00
+# Generated UTC 2026-11-12T05:50:56.993578+00:00
 DOMAIN,0411proklayod.com
 DOMAIN,0611proklyod.com
 DOMAIN,3131.lol
 DOMAIN,3169.lol
-DOMAIN,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
 DOMAIN,5ahn3sxya4fdj642cutemvxdwi4rfwa2ugtggnu3gkmct6wsugpdefyd.onion
 DOMAIN,5hfn5z4to3bqwrytemyfxtci7pfqmmq5625lym3h3hvec4ylbiiuxkyd.onion
 DOMAIN,7dak.lol
-DOMAIN,7dfw4p3pzo3zlcy5hzm7y43z3kfke2rhd3eudncmvknwhsqqvseadkad.onion
 DOMAIN,a.dewa2.org
 DOMAIN,a.dewii.net
 DOMAIN,a4.andraslotlink.org
@@ -20,7 +18,6 @@ DOMAIN,ahmetaga.lol
 DOMAIN,akuntoti.net
 DOMAIN,al6.amanbet87.org
 DOMAIN,alexsi4d.org
-DOMAIN,alphaslot677.org
 DOMAIN,alsg96.org
 DOMAIN,altertogel.net
 DOMAIN,alxeabet.org
@@ -163,7 +160,6 @@ DOMAIN,e.dav88.org
 DOMAIN,e.dhawa.net
 DOMAIN,e6.alxeabet.org
 DOMAIN,e7t.angkt777.org
-DOMAIN,ea52lfk4w6dza6hmmb4o6ndef7ep45wkkjxuo7sfzkyqt7rplyph3zyd.onion
 DOMAIN,eb.amarikatoto.com
 DOMAIN,ecs.amanlay.org
 DOMAIN,ef.amper888.net
@@ -198,7 +194,6 @@ DOMAIN,fu.amanbet99.net
 DOMAIN,funrat.lol
 DOMAIN,g.amin90.org
 DOMAIN,g.anakraja87.org
-DOMAIN,g.cuit8.org
 DOMAIN,g.dak69.org
 DOMAIN,g.dax96.org
 DOMAIN,g4.alsg96.org
@@ -363,6 +358,7 @@ DOMAIN,larkfen.cc
 DOMAIN,lastabuse.lol
 DOMAIN,leap19.com
 DOMAIN,lh.amin90.org
+DOMAIN,lh.angsa44d.org
 DOMAIN,li.amoy323.org
 DOMAIN,lik101.click
 DOMAIN,lintmoorley.cc
@@ -498,7 +494,6 @@ DOMAIN,qp.andora188.org
 DOMAIN,qs.alphaslot677.org
 DOMAIN,quillmoorston.cc
 DOMAIN,qv.alphaslot677.org
-DOMAIN,qvfgzg2yukem4ldat2zk6umidqbzydhf7au5ecfybp7d65av6q3jyjad.onion
 DOMAIN,qw.anek4d.org
 DOMAIN,r.cuit8.org
 DOMAIN,r7w.ampluna.com
@@ -521,7 +516,6 @@ DOMAIN,s.dav88.org
 DOMAIN,s.dewii.net
 DOMAIN,s.dhawa.net
 DOMAIN,s.dps69.org
-DOMAIN,s27k4va5sqe2h2sbw4wmbikibaz6lnwdjngl4v3qptcffsvtrdxx7yyd.onion
 DOMAIN,s8.amarta89.org
 DOMAIN,sablecroft.cc
 DOMAIN,sablehurstby.cc
@@ -614,7 +608,6 @@ DOMAIN,wrenmereton.cc
 DOMAIN,wt.ameriktoto.org
 DOMAIN,wuhhuu.lol
 DOMAIN,www.ms-telemetry.us
-DOMAIN,x.alphaslot677.org
 DOMAIN,x.anek4d.org
 DOMAIN,x.d200n.com
 DOMAIN,x.dav88.org
@@ -672,6 +665,7 @@ IP-CIDR,101.42.255.92/32,no-resolve
 IP-CIDR,101.94.133.75/32,no-resolve
 IP-CIDR,102.129.165.177/32,no-resolve
 IP-CIDR,103.153.183.144/32,no-resolve
+IP-CIDR,103.67.163.102/32,no-resolve
 IP-CIDR,103.91.144.201/32,no-resolve
 IP-CIDR,104.143.218.57/32,no-resolve
 IP-CIDR,104.153.209.122/32,no-resolve
@@ -679,7 +673,6 @@ IP-CIDR,104.153.209.123/32,no-resolve
 IP-CIDR,104.168.101.25/32,no-resolve
 IP-CIDR,104.168.115.88/32,no-resolve
 IP-CIDR,104.249.10.148/32,no-resolve
-IP-CIDR,106.13.176.233/32,no-resolve
 IP-CIDR,109.120.137.118/32,no-resolve
 IP-CIDR,109.177.241.252/32,no-resolve
 IP-CIDR,109.237.98.234/32,no-resolve
@@ -700,6 +693,7 @@ IP-CIDR,118.107.16.167/32,no-resolve
 IP-CIDR,118.196.123.204/32,no-resolve
 IP-CIDR,119.45.10.40/32,no-resolve
 IP-CIDR,119.91.140.188/32,no-resolve
+IP-CIDR,120.53.28.97/32,no-resolve
 IP-CIDR,120.79.19.159/32,no-resolve
 IP-CIDR,121.37.135.88/32,no-resolve
 IP-CIDR,122.234.227.242/32,no-resolve
@@ -866,7 +860,6 @@ IP-CIDR,47.116.40.77/32,no-resolve
 IP-CIDR,47.122.106.5/32,no-resolve
 IP-CIDR,47.238.116.190/32,no-resolve
 IP-CIDR,47.238.159.91/32,no-resolve
-IP-CIDR,47.239.109.26/32,no-resolve
 IP-CIDR,47.242.46.219/32,no-resolve
 IP-CIDR,47.93.136.226/32,no-resolve
 IP-CIDR,47.97.215.190/32,no-resolve
