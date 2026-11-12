@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-12T00:11:44.760995+00:00
+# Generated UTC 2026-11-12T01:44:47.888880+00:00
 DOMAIN,0411proklayod.com
 DOMAIN,0611proklyod.com
 DOMAIN,3131.lol
@@ -161,6 +161,7 @@ DOMAIN,e.bro50.org
 DOMAIN,e.dav88.org
 DOMAIN,e.dhawa.net
 DOMAIN,e6.alxeabet.org
+DOMAIN,e7t.angkt777.org
 DOMAIN,ea52lfk4w6dza6hmmb4o6ndef7ep45wkkjxuo7sfzkyqt7rplyph3zyd.onion
 DOMAIN,eb.amarikatoto.com
 DOMAIN,ecs.amanlay.org
@@ -222,7 +223,6 @@ DOMAIN,h.d200n.com
 DOMAIN,h.dewa2.org
 DOMAIN,h0.amper888.net
 DOMAIN,h3.amoy323.org
-DOMAIN,h7.aloytoto.org
 DOMAIN,ha.alsg96.org
 DOMAIN,hartbrookley.cc
 DOMAIN,hazeis.baby
@@ -822,7 +822,6 @@ IP-CIDR,218.237.58.53/32,no-resolve
 IP-CIDR,23.158.232.71/32,no-resolve
 IP-CIDR,23.94.252.99/32,no-resolve
 IP-CIDR,31.56.19.10/32,no-resolve
-IP-CIDR,31.56.53.146/32,no-resolve
 IP-CIDR,31.56.53.202/32,no-resolve
 IP-CIDR,31.57.216.19/32,no-resolve
 IP-CIDR,31.57.216.20/32,no-resolve
@@ -877,7 +876,6 @@ IP-CIDR,47.238.159.91/32,no-resolve
 IP-CIDR,47.239.109.26/32,no-resolve
 IP-CIDR,47.242.46.219/32,no-resolve
 IP-CIDR,47.93.136.226/32,no-resolve
-IP-CIDR,47.97.197.89/32,no-resolve
 IP-CIDR,47.97.215.190/32,no-resolve
 IP-CIDR,47.98.218.28/32,no-resolve
 IP-CIDR,49.232.202.134/32,no-resolve
@@ -892,6 +890,11 @@ IP-CIDR,5.231.31.128/32,no-resolve
 IP-CIDR,5.231.31.129/32,no-resolve
 IP-CIDR,5.231.31.130/32,no-resolve
 IP-CIDR,5.231.31.131/32,no-resolve
+IP-CIDR,5.231.31.147/32,no-resolve
+IP-CIDR,5.231.31.151/32,no-resolve
+IP-CIDR,5.231.31.160/32,no-resolve
+IP-CIDR,5.231.31.161/32,no-resolve
+IP-CIDR,5.231.31.168/32,no-resolve
 IP-CIDR,5.231.31.57/32,no-resolve
 IP-CIDR,51.210.65.37/32,no-resolve
 IP-CIDR,51.79.168.5/32,no-resolve
@@ -916,7 +919,6 @@ IP-CIDR,79.171.152.224/32,no-resolve
 IP-CIDR,8.133.225.94/32,no-resolve
 IP-CIDR,8.136.38.10/32,no-resolve
 IP-CIDR,8.138.174.123/32,no-resolve
-IP-CIDR,8.138.194.14/32,no-resolve
 IP-CIDR,8.140.239.162/32,no-resolve
 IP-CIDR,8.217.254.211/32,no-resolve
 IP-CIDR,80.78.19.62/32,no-resolve
