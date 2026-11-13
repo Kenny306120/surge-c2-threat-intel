@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-13T17:40:55.875053+00:00
+# Generated UTC 2026-11-13T18:40:03.989287+00:00
 DOMAIN,0411proklayod.com
 DOMAIN,0611proklyod.com
 DOMAIN,3131.lol
@@ -373,6 +373,7 @@ DOMAIN,nosql.mireglenland.cc
 DOMAIN,novtelyx.cc
 DOMAIN,nq.amarta89.org
 DOMAIN,nqsiw6w6ptspmu24fq6diwfmprlvyj7xzu2xkqfua66wqenrdjkfv3qd.onion
+DOMAIN,nvidla.my
 DOMAIN,o.cou4d.org
 DOMAIN,o.dewii.net
 DOMAIN,o5.amarta89.org
@@ -596,8 +597,6 @@ DOMAIN,ztwyw7pv2be5b327wrjnm2jxj44xw4lssxz6rat5nomwgkdrityraryd.onion
 IP-CIDR,1.117.76.217/32,no-resolve
 IP-CIDR,1.15.82.253/32,no-resolve
 IP-CIDR,101.132.188.89/32,no-resolve
-IP-CIDR,101.42.182.92/32,no-resolve
-IP-CIDR,101.42.255.92/32,no-resolve
 IP-CIDR,102.129.165.177/32,no-resolve
 IP-CIDR,103.67.163.102/32,no-resolve
 IP-CIDR,103.91.144.201/32,no-resolve
@@ -777,10 +776,7 @@ IP-CIDR,45.91.202.58/32,no-resolve
 IP-CIDR,45.94.37.86/32,no-resolve
 IP-CIDR,46.8.102.144/32,no-resolve
 IP-CIDR,47.100.6.95/32,no-resolve
-IP-CIDR,47.101.140.195/32,no-resolve
-IP-CIDR,47.109.183.168/32,no-resolve
 IP-CIDR,47.115.221.177/32,no-resolve
-IP-CIDR,47.116.40.77/32,no-resolve
 IP-CIDR,47.238.116.190/32,no-resolve
 IP-CIDR,47.238.159.91/32,no-resolve
 IP-CIDR,47.242.46.219/32,no-resolve
@@ -834,6 +830,7 @@ IP-CIDR,81.70.21.248/32,no-resolve
 IP-CIDR,81.88.18.141/32,no-resolve
 IP-CIDR,82.156.127.116/32,no-resolve
 IP-CIDR,82.156.78.212/32,no-resolve
+IP-CIDR,82.21.200.56/32,no-resolve
 IP-CIDR,82.47.102.37/32,no-resolve
 IP-CIDR,82.47.160.127/32,no-resolve
 IP-CIDR,83.172.159.224/32,no-resolve
