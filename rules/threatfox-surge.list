@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-13T20:43:32.800440+00:00
+# Generated UTC 2026-11-13T21:39:16.466104+00:00
 DOMAIN,0411proklayod.com
 DOMAIN,0611proklyod.com
 DOMAIN,3131.lol
@@ -221,6 +221,7 @@ DOMAIN,g7.anka69.org
 DOMAIN,gelmedi.lol
 DOMAIN,gepan.kaiketsu.moe
 DOMAIN,gerlace.com
+DOMAIN,ghostnfc.site
 DOMAIN,gjendw2d6oqjs6nxnwwuc6khpa5g5gzp7pyuiwzamalzzzk6vomm7xid.onion
 DOMAIN,glintmereley.cc
 DOMAIN,gm.antres138.org
@@ -692,7 +693,6 @@ IP-CIDR,176.121.50.1/32,no-resolve
 IP-CIDR,176.121.60.1/32,no-resolve
 IP-CIDR,176.121.62.10/32,no-resolve
 IP-CIDR,176.65.132.37/32,no-resolve
-IP-CIDR,178.128.20.3/32,no-resolve
 IP-CIDR,178.128.201.120/32,no-resolve
 IP-CIDR,178.128.51.4/32,no-resolve
 IP-CIDR,179.236.147.181/32,no-resolve
@@ -709,7 +709,6 @@ IP-CIDR,188.213.128.89/32,no-resolve
 IP-CIDR,188.253.107.199/32,no-resolve
 IP-CIDR,191.217.233.144/32,no-resolve
 IP-CIDR,191.217.233.165/32,no-resolve
-IP-CIDR,192.210.193.156/32,no-resolve
 IP-CIDR,192.241.176.233/32,no-resolve
 IP-CIDR,192.6.120.17/32,no-resolve
 IP-CIDR,193.161.193.99/32,no-resolve
