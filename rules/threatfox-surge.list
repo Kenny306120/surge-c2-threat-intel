@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-13T21:39:16.466104+00:00
+# Generated UTC 2026-11-13T22:35:59.800587+00:00
 DOMAIN,0411proklayod.com
 DOMAIN,0611proklyod.com
 DOMAIN,3131.lol
@@ -78,6 +78,7 @@ DOMAIN,birchdaleham.cc
 DOMAIN,bizpse.onl
 DOMAIN,bk.antres138.org
 DOMAIN,bl.anka4d.org
+DOMAIN,blapt.tattoo
 DOMAIN,br.amanbet87.org
 DOMAIN,brackendellham.cc
 DOMAIN,brasscourt.cfd
@@ -147,6 +148,7 @@ DOMAIN,dax96.org
 DOMAIN,dc.amin90.org
 DOMAIN,dcccore.noip.at
 DOMAIN,dd.anka4d.org
+DOMAIN,debuginfo.org
 DOMAIN,deleeue.lol
 DOMAIN,deskharbor.net
 DOMAIN,dewa2.org
@@ -207,6 +209,7 @@ DOMAIN,fortifivebackup.net
 DOMAIN,fortifivemain.net
 DOMAIN,foxdellway.cc
 DOMAIN,foxwarrenston.cc
+DOMAIN,frees.tattoo
 DOMAIN,friendsgrove.cfd
 DOMAIN,fsbrf.org
 DOMAIN,ftp.robotidegazon.ro
@@ -805,6 +808,7 @@ IP-CIDR,5.231.31.57/32,no-resolve
 IP-CIDR,51.210.65.37/32,no-resolve
 IP-CIDR,51.89.166.173/32,no-resolve
 IP-CIDR,52.64.238.126/32,no-resolve
+IP-CIDR,54.232.140.167/32,no-resolve
 IP-CIDR,62.234.49.223/32,no-resolve
 IP-CIDR,62.83.98.38/32,no-resolve
 IP-CIDR,64.227.167.254/32,no-resolve
@@ -813,9 +817,6 @@ IP-CIDR,64.23.218.195/32,no-resolve
 IP-CIDR,65.20.84.227/32,no-resolve
 IP-CIDR,70.163.121.189/32,no-resolve
 IP-CIDR,72.5.42.221/32,no-resolve
-IP-CIDR,77.232.36.212/32,no-resolve
-IP-CIDR,77.232.36.216/32,no-resolve
-IP-CIDR,77.232.42.5/32,no-resolve
 IP-CIDR,77.238.235.31/32,no-resolve
 IP-CIDR,77.239.124.15/32,no-resolve
 IP-CIDR,77.239.124.167/32,no-resolve
@@ -836,10 +837,11 @@ IP-CIDR,82.47.102.37/32,no-resolve
 IP-CIDR,82.47.160.127/32,no-resolve
 IP-CIDR,83.172.159.224/32,no-resolve
 IP-CIDR,85.122.114.16/32,no-resolve
+IP-CIDR,85.189.45.191/32,no-resolve
 IP-CIDR,85.189.58.158/32,no-resolve
 IP-CIDR,86.48.16.94/32,no-resolve
-IP-CIDR,91.142.77.220/32,no-resolve
 IP-CIDR,91.92.40.12/32,no-resolve
+IP-CIDR,92.118.232.18/32,no-resolve
 IP-CIDR,93.152.209.36/32,no-resolve
 IP-CIDR,93.152.213.131/32,no-resolve
 IP-CIDR,94.156.154.12/32,no-resolve
