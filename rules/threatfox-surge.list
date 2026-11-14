@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-14T21:09:47.051155+00:00
+# Generated UTC 2026-11-14T22:02:35.450419+00:00
 DOMAIN,0411proklayod.com
 DOMAIN,0611proklyod.com
 DOMAIN,3131.lol
@@ -789,6 +789,7 @@ IP-CIDR,23.158.232.71/32,no-resolve
 IP-CIDR,23.227.196.115/32,no-resolve
 IP-CIDR,3.165.190.81/32,no-resolve
 IP-CIDR,31.56.19.10/32,no-resolve
+IP-CIDR,31.56.19.143/32,no-resolve
 IP-CIDR,31.57.216.180/32,no-resolve
 IP-CIDR,31.57.216.19/32,no-resolve
 IP-CIDR,31.57.216.20/32,no-resolve
