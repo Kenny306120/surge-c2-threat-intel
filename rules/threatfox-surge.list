@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-14T19:34:22.858156+00:00
+# Generated UTC 2026-11-14T20:27:48.423285+00:00
 DOMAIN,0411proklayod.com
 DOMAIN,0611proklyod.com
 DOMAIN,3131.lol
@@ -310,8 +310,8 @@ DOMAIN,jjd7mnfahw6sk45c6ozeuhd2g4653dwncojppqtn42amedvqg6hfy6ad.onion
 DOMAIN,jk.apaljitu.org
 DOMAIN,jr.amerika88.org
 DOMAIN,jump77.click
+DOMAIN,jxv.appel4d.com
 DOMAIN,jyc.amanbet99.net
-DOMAIN,k.dak69.org
 DOMAIN,k.dewii.net
 DOMAIN,k0.amanplya.org
 DOMAIN,k1.amin90.org
@@ -360,6 +360,7 @@ DOMAIN,lourohamiv.blog
 DOMAIN,lv.andraslotlink.org
 DOMAIN,m.dax96.org
 DOMAIN,m.gam99.org
+DOMAIN,m.geng7.org
 DOMAIN,m2.antonhoki.org
 DOMAIN,m5.angkt777.org
 DOMAIN,main.gardencourt.work
@@ -525,7 +526,6 @@ DOMAIN,suportetii.minhacasa.tv
 DOMAIN,sylvetyx.cc
 DOMAIN,sync-node-serv.com
 DOMAIN,syncgrab.cc
-DOMAIN,t.amanbet99.net
 DOMAIN,t.dak69.org
 DOMAIN,t.doyok.net
 DOMAIN,tallowmereton.cc
@@ -679,6 +679,7 @@ IP-CIDR,120.79.172.40/32,no-resolve
 IP-CIDR,120.79.19.159/32,no-resolve
 IP-CIDR,122.51.215.90/32,no-resolve
 IP-CIDR,123.60.37.114/32,no-resolve
+IP-CIDR,124.156.204.199/32,no-resolve
 IP-CIDR,124.198.131.34/32,no-resolve
 IP-CIDR,124.198.132.157/32,no-resolve
 IP-CIDR,124.220.157.55/32,no-resolve
@@ -804,12 +805,14 @@ IP-CIDR,38.60.242.17/32,no-resolve
 IP-CIDR,38.60.252.179/32,no-resolve
 IP-CIDR,38.76.183.197/32,no-resolve
 IP-CIDR,39.107.48.89/32,no-resolve
+IP-CIDR,39.108.102.94/32,no-resolve
 IP-CIDR,42.192.113.152/32,no-resolve
 IP-CIDR,42.194.241.175/32,no-resolve
 IP-CIDR,42.51.37.74/32,no-resolve
 IP-CIDR,43.160.212.132/32,no-resolve
 IP-CIDR,43.228.157.37/32,no-resolve
 IP-CIDR,43.242.33.64/32,no-resolve
+IP-CIDR,45.116.78.205/32,no-resolve
 IP-CIDR,45.138.16.246/32,no-resolve
 IP-CIDR,45.141.117.158/32,no-resolve
 IP-CIDR,45.141.148.75/32,no-resolve
@@ -832,7 +835,6 @@ IP-CIDR,47.238.116.190/32,no-resolve
 IP-CIDR,47.238.159.91/32,no-resolve
 IP-CIDR,47.242.46.219/32,no-resolve
 IP-CIDR,47.93.136.226/32,no-resolve
-IP-CIDR,47.97.215.190/32,no-resolve
 IP-CIDR,47.98.218.28/32,no-resolve
 IP-CIDR,49.232.220.131/32,no-resolve
 IP-CIDR,49.234.39.80/32,no-resolve
