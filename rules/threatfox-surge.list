@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-14T04:42:45.973078+00:00
+# Generated UTC 2026-11-14T05:40:28.516069+00:00
 DOMAIN,0411proklayod.com
 DOMAIN,0611proklyod.com
 DOMAIN,3131.lol
@@ -78,7 +78,6 @@ DOMAIN,bizpse.onl
 DOMAIN,bk.antres138.org
 DOMAIN,bl.anka4d.org
 DOMAIN,blapt.tattoo
-DOMAIN,br.amanbet87.org
 DOMAIN,brackendellham.cc
 DOMAIN,brasscourt.cfd
 DOMAIN,brevtor.cc
@@ -592,11 +591,11 @@ DOMAIN,ztwyw7pv2be5b327wrjnm2jxj44xw4lssxz6rat5nomwgkdrityraryd.onion
 IP-CIDR,1.117.76.217/32,no-resolve
 IP-CIDR,1.15.82.253/32,no-resolve
 IP-CIDR,101.132.188.89/32,no-resolve
+IP-CIDR,101.42.255.92/32,no-resolve
 IP-CIDR,102.129.165.177/32,no-resolve
 IP-CIDR,103.112.172.143/32,no-resolve
 IP-CIDR,103.67.163.102/32,no-resolve
 IP-CIDR,103.91.144.201/32,no-resolve
-IP-CIDR,104.143.218.57/32,no-resolve
 IP-CIDR,104.168.115.88/32,no-resolve
 IP-CIDR,104.249.10.148/32,no-resolve
 IP-CIDR,104.251.181.64/32,no-resolve
@@ -653,6 +652,8 @@ IP-CIDR,146.103.41.86/32,no-resolve
 IP-CIDR,146.190.101.87/32,no-resolve
 IP-CIDR,147.90.182.129/32,no-resolve
 IP-CIDR,147.90.182.32/32,no-resolve
+IP-CIDR,149.104.87.239/32,no-resolve
+IP-CIDR,149.104.92.194/32,no-resolve
 IP-CIDR,149.30.247.60/32,no-resolve
 IP-CIDR,151.241.228.128/32,no-resolve
 IP-CIDR,151.244.72.155/32,no-resolve
@@ -698,7 +699,6 @@ IP-CIDR,185.7.214.167/32,no-resolve
 IP-CIDR,185.84.161.153/32,no-resolve
 IP-CIDR,188.190.6.25/32,no-resolve
 IP-CIDR,188.191.96.147/32,no-resolve
-IP-CIDR,188.213.128.89/32,no-resolve
 IP-CIDR,188.253.107.199/32,no-resolve
 IP-CIDR,191.217.233.144/32,no-resolve
 IP-CIDR,191.217.233.165/32,no-resolve
@@ -706,10 +706,7 @@ IP-CIDR,192.241.176.233/32,no-resolve
 IP-CIDR,192.6.120.17/32,no-resolve
 IP-CIDR,193.161.193.99/32,no-resolve
 IP-CIDR,194.156.79.165/32,no-resolve
-IP-CIDR,194.59.30.40/32,no-resolve
-IP-CIDR,195.15.201.249/32,no-resolve
 IP-CIDR,195.15.203.34/32,no-resolve
-IP-CIDR,195.15.207.179/32,no-resolve
 IP-CIDR,198.44.116.156/32,no-resolve
 IP-CIDR,2.26.225.39/32,no-resolve
 IP-CIDR,2.27.105.132/32,no-resolve
@@ -742,8 +739,9 @@ IP-CIDR,35.179.100.178/32,no-resolve
 IP-CIDR,35.212.135.58/32,no-resolve
 IP-CIDR,36.255.97.15/32,no-resolve
 IP-CIDR,38.174.217.97/32,no-resolve
-IP-CIDR,38.55.252.139/32,no-resolve
+IP-CIDR,38.60.136.208/32,no-resolve
 IP-CIDR,38.60.214.47/32,no-resolve
+IP-CIDR,38.60.242.17/32,no-resolve
 IP-CIDR,38.60.252.179/32,no-resolve
 IP-CIDR,38.76.183.197/32,no-resolve
 IP-CIDR,39.107.48.89/32,no-resolve
@@ -821,6 +819,7 @@ IP-CIDR,80.87.206.91/32,no-resolve
 IP-CIDR,80.87.206.95/32,no-resolve
 IP-CIDR,81.88.18.141/32,no-resolve
 IP-CIDR,82.156.127.116/32,no-resolve
+IP-CIDR,82.156.197.147/32,no-resolve
 IP-CIDR,82.156.78.212/32,no-resolve
 IP-CIDR,82.21.200.56/32,no-resolve
 IP-CIDR,82.21.200.57/32,no-resolve
