@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-14T23:01:11.155624+00:00
+# Generated UTC 2026-11-14T23:58:51.977461+00:00
 DOMAIN,0411proklayod.com
 DOMAIN,0611proklyod.com
 DOMAIN,3131.lol
@@ -145,7 +145,6 @@ DOMAIN,d.dps69.org
 DOMAIN,d0.angkajitu.org
 DOMAIN,d2.andraslotlink.org
 DOMAIN,d8.antirungkad.org
-DOMAIN,d9.amarikatoto.com
 DOMAIN,d97.amor76.com
 DOMAIN,daerk.tattoo
 DOMAIN,dam28.click
@@ -203,6 +202,7 @@ DOMAIN,event.dis4cle.info
 DOMAIN,ewababa.sbs
 DOMAIN,eycho.tattoo
 DOMAIN,f.amanlay.org
+DOMAIN,f.apaljitu.org
 DOMAIN,f.dog69.net
 DOMAIN,f.dps69.org
 DOMAIN,f.geng7.org
@@ -270,7 +270,6 @@ DOMAIN,heathmoorston.cc
 DOMAIN,helelele.lol
 DOMAIN,hhalo.tattoo
 DOMAIN,hk.anakraja87.org
-DOMAIN,hl.amanbet99.net
 DOMAIN,hl.apij4ya.org
 DOMAIN,hollowfernston.cc
 DOMAIN,hollowick.cc
@@ -281,10 +280,8 @@ DOMAIN,hudb9.click
 DOMAIN,hxd.lovie.me
 DOMAIN,hy.ankasanet.org
 DOMAIN,i.ameriktoto.org
-DOMAIN,i.dak69.org
 DOMAIN,i.dav88.org
 DOMAIN,i.dewa2.org
-DOMAIN,i.dewii.net
 DOMAIN,i.dhawa.net
 DOMAIN,ic.amav5d.org
 DOMAIN,iccon.tattoo
@@ -410,6 +407,7 @@ DOMAIN,nq.amarta89.org
 DOMAIN,nqsiw6w6ptspmu24fq6diwfmprlvyj7xzu2xkqfua66wqenrdjkfv3qd.onion
 DOMAIN,nvidla.my
 DOMAIN,o.gam99.org
+DOMAIN,o.geng7.org
 DOMAIN,o5.amarta89.org
 DOMAIN,o54.angkajitu.org
 DOMAIN,octhvnjoh.duckdns.org
@@ -549,6 +547,7 @@ DOMAIN,trhue.tattoo
 DOMAIN,turbch.wiki
 DOMAIN,turbeb.onl
 DOMAIN,tx.apigcor88.org
+DOMAIN,ty.appel88.org
 DOMAIN,tyroky.cc
 DOMAIN,u.dax96.org
 DOMAIN,u.doyok.net
@@ -749,6 +748,12 @@ IP-CIDR,176.65.132.37/32,no-resolve
 IP-CIDR,178.128.201.120/32,no-resolve
 IP-CIDR,178.128.51.4/32,no-resolve
 IP-CIDR,179.236.147.181/32,no-resolve
+IP-CIDR,18.239.18.119/32,no-resolve
+IP-CIDR,18.239.18.122/32,no-resolve
+IP-CIDR,18.239.18.126/32,no-resolve
+IP-CIDR,18.65.39.125/32,no-resolve
+IP-CIDR,18.65.39.38/32,no-resolve
+IP-CIDR,18.65.39.69/32,no-resolve
 IP-CIDR,180.178.56.138/32,no-resolve
 IP-CIDR,181.215.115.186/32,no-resolve
 IP-CIDR,185.100.87.214/32,no-resolve
@@ -817,6 +822,7 @@ IP-CIDR,43.160.212.132/32,no-resolve
 IP-CIDR,43.228.157.37/32,no-resolve
 IP-CIDR,43.242.33.64/32,no-resolve
 IP-CIDR,45.116.78.205/32,no-resolve
+IP-CIDR,45.130.84.171/32,no-resolve
 IP-CIDR,45.138.16.246/32,no-resolve
 IP-CIDR,45.141.117.158/32,no-resolve
 IP-CIDR,45.141.148.75/32,no-resolve
@@ -824,6 +830,7 @@ IP-CIDR,45.153.34.74/32,no-resolve
 IP-CIDR,45.153.34.76/32,no-resolve
 IP-CIDR,45.156.87.230/32,no-resolve
 IP-CIDR,45.192.213.153/32,no-resolve
+IP-CIDR,45.198.224.73/32,no-resolve
 IP-CIDR,45.207.208.51/32,no-resolve
 IP-CIDR,45.227.255.157/32,no-resolve
 IP-CIDR,45.61.183.64/32,no-resolve
@@ -894,3 +901,4 @@ IP-CIDR,93.152.213.131/32,no-resolve
 IP-CIDR,94.156.154.12/32,no-resolve
 IP-CIDR,94.26.106.200/32,no-resolve
 IP-CIDR,98.177.81.185/32,no-resolve
+IP-CIDR,99.86.91.25/32,no-resolve
