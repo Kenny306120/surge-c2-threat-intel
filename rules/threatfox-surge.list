@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-14T15:07:20.854080+00:00
+# Generated UTC 2026-11-14T16:06:13.027709+00:00
 DOMAIN,0411proklayod.com
 DOMAIN,0611proklyod.com
 DOMAIN,3131.lol
@@ -166,7 +166,6 @@ DOMAIN,dlcore.cc
 DOMAIN,dlforge.cc
 DOMAIN,dns.cdn-syncnode-server.com
 DOMAIN,dns.timesyncserver-312453.com
-DOMAIN,do.amanbet89.org
 DOMAIN,dog69.net
 DOMAIN,doyok.net
 DOMAIN,dps69.org
@@ -260,6 +259,7 @@ DOMAIN,h.amerika88.org
 DOMAIN,h.dewa2.org
 DOMAIN,h0.amper888.net
 DOMAIN,h3.amoy323.org
+DOMAIN,h99.anka69.org
 DOMAIN,hartbrookley.cc
 DOMAIN,hazeis.baby
 DOMAIN,hazelcroftway.cc
@@ -573,7 +573,6 @@ DOMAIN,v.doyok.net
 DOMAIN,vdibe.tattoo
 DOMAIN,veritycraft.lol
 DOMAIN,versioncrccheck.com
-DOMAIN,vf.amanbet89.org
 DOMAIN,viebe.tattoo
 DOMAIN,visualupdate.ddns.com.br
 DOMAIN,volt.zyvy.life
@@ -632,6 +631,7 @@ DOMAIN,z.dewa2.org
 DOMAIN,z.dhawa.net
 DOMAIN,z.gam99.org
 DOMAIN,z4.amor76.com
+DOMAIN,z8t.appel4d.com
 DOMAIN,zb.angkt777.org
 DOMAIN,zb.angsa44d.org
 DOMAIN,zbabuvj.lol
@@ -688,6 +688,8 @@ IP-CIDR,124.222.63.111/32,no-resolve
 IP-CIDR,129.211.183.201/32,no-resolve
 IP-CIDR,129.226.135.188/32,no-resolve
 IP-CIDR,130.12.181.125/32,no-resolve
+IP-CIDR,130.94.10.21/32,no-resolve
+IP-CIDR,130.94.13.23/32,no-resolve
 IP-CIDR,130.94.67.43/32,no-resolve
 IP-CIDR,134.122.191.154/32,no-resolve
 IP-CIDR,134.199.159.81/32,no-resolve
@@ -762,6 +764,7 @@ IP-CIDR,192.6.120.17/32,no-resolve
 IP-CIDR,193.161.193.99/32,no-resolve
 IP-CIDR,194.156.79.165/32,no-resolve
 IP-CIDR,195.15.203.34/32,no-resolve
+IP-CIDR,197.206.148.126/32,no-resolve
 IP-CIDR,2.26.225.39/32,no-resolve
 IP-CIDR,2.27.105.132/32,no-resolve
 IP-CIDR,20.189.122.18/32,no-resolve
@@ -794,6 +797,8 @@ IP-CIDR,35.212.135.58/32,no-resolve
 IP-CIDR,36.255.97.15/32,no-resolve
 IP-CIDR,38.174.217.97/32,no-resolve
 IP-CIDR,38.60.136.208/32,no-resolve
+IP-CIDR,38.60.205.67/32,no-resolve
+IP-CIDR,38.60.206.178/32,no-resolve
 IP-CIDR,38.60.214.47/32,no-resolve
 IP-CIDR,38.60.242.17/32,no-resolve
 IP-CIDR,38.60.252.179/32,no-resolve
@@ -868,6 +873,7 @@ IP-CIDR,78.152.188.235/32,no-resolve
 IP-CIDR,8.133.225.94/32,no-resolve
 IP-CIDR,8.140.239.162/32,no-resolve
 IP-CIDR,8.148.13.187/32,no-resolve
+IP-CIDR,8.162.11.200/32,no-resolve
 IP-CIDR,8.163.98.217/32,no-resolve
 IP-CIDR,80.78.19.62/32,no-resolve
 IP-CIDR,80.87.206.91/32,no-resolve
