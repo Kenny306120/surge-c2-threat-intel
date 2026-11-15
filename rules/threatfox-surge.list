@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-15T21:13:12.870254+00:00
+# Generated UTC 2026-11-15T22:03:24.821024+00:00
 DOMAIN,0411proklayod.com
 DOMAIN,0611proklyod.com
 DOMAIN,544504d7fe1e.xyz
@@ -115,6 +115,7 @@ DOMAIN,cl.amav5d.org
 DOMAIN,cl.amor76.com
 DOMAIN,clicus.onl
 DOMAIN,clientservices12.cozyloft.cc
+DOMAIN,cloudvault-app.com
 DOMAIN,compasssummit.xyz
 DOMAIN,corge.tattoo
 DOMAIN,corralos.beer
@@ -701,8 +702,10 @@ IP-CIDR,191.217.233.144/32,no-resolve
 IP-CIDR,191.217.233.165/32,no-resolve
 IP-CIDR,192.162.199.218/32,no-resolve
 IP-CIDR,192.241.176.233/32,no-resolve
+IP-CIDR,192.30.240.25/32,no-resolve
 IP-CIDR,192.6.120.17/32,no-resolve
 IP-CIDR,193.161.193.99/32,no-resolve
+IP-CIDR,196.251.102.216/32,no-resolve
 IP-CIDR,197.206.148.126/32,no-resolve
 IP-CIDR,2.27.105.132/32,no-resolve
 IP-CIDR,20.189.122.18/32,no-resolve
