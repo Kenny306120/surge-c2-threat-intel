@@ -1,10 +1,11 @@
-# Generated UTC 2026-11-16T18:20:23.739043+00:00
+# Generated UTC 2026-11-16T19:27:14.781299+00:00
 DOMAIN,0411proklayod.com
 DOMAIN,0611proklyod.com
 DOMAIN,544504d7fe1e.xyz
 DOMAIN,5ahn3sxya4fdj642cutemvxdwi4rfwa2ugtggnu3gkmct6wsugpdefyd.onion
 DOMAIN,5hfn5z4to3bqwrytemyfxtci7pfqmmq5625lym3h3hvec4ylbiiuxkyd.onion
 DOMAIN,92apigacor889.org
+DOMAIN,a.arenapildun.org
 DOMAIN,a.dewa2.org
 DOMAIN,a.gki4d.org
 DOMAIN,a4.andraslotlink.org
@@ -338,7 +339,6 @@ DOMAIN,mt.angsa44d.org
 DOMAIN,myname2026songs-42488.portmap.host
 DOMAIN,myname2026songs-43016.portmap.host
 DOMAIN,myprome44.duckdns.org
-DOMAIN,n.ampelbet.org
 DOMAIN,n.dax96.org
 DOMAIN,nantifivebackup.net
 DOMAIN,nantifivemain.net
@@ -396,8 +396,8 @@ DOMAIN,q.apigacor889.org
 DOMAIN,q.dog69.net
 DOMAIN,q.dps69.org
 DOMAIN,qa.araytoto.org
+DOMAIN,qft.apigacor77.org
 DOMAIN,qm.anek4d.org
-DOMAIN,qp.amarta89.org
 DOMAIN,qp.andora188.org
 DOMAIN,qqvictory888.co
 DOMAIN,queue.prooutlet58.website
@@ -610,10 +610,10 @@ IP-CIDR,120.79.172.40/32,no-resolve
 IP-CIDR,122.51.215.90/32,no-resolve
 IP-CIDR,124.156.204.199/32,no-resolve
 IP-CIDR,124.198.131.34/32,no-resolve
-IP-CIDR,124.198.132.157/32,no-resolve
 IP-CIDR,124.220.157.55/32,no-resolve
 IP-CIDR,124.221.227.209/32,no-resolve
 IP-CIDR,124.222.63.111/32,no-resolve
+IP-CIDR,124.71.5.74/32,no-resolve
 IP-CIDR,129.211.183.201/32,no-resolve
 IP-CIDR,129.226.135.188/32,no-resolve
 IP-CIDR,130.12.181.125/32,no-resolve
@@ -623,7 +623,6 @@ IP-CIDR,130.94.118.208/32,no-resolve
 IP-CIDR,130.94.13.23/32,no-resolve
 IP-CIDR,130.94.67.43/32,no-resolve
 IP-CIDR,134.122.191.154/32,no-resolve
-IP-CIDR,134.199.159.81/32,no-resolve
 IP-CIDR,134.209.242.168/32,no-resolve
 IP-CIDR,138.197.215.50/32,no-resolve
 IP-CIDR,139.180.158.193/32,no-resolve
@@ -635,6 +634,8 @@ IP-CIDR,141.98.10.157/32,no-resolve
 IP-CIDR,141.98.10.160/32,no-resolve
 IP-CIDR,141.98.10.172/32,no-resolve
 IP-CIDR,143.198.88.76/32,no-resolve
+IP-CIDR,143.20.80.137/32,no-resolve
+IP-CIDR,143.20.80.138/32,no-resolve
 IP-CIDR,143.244.143.24/32,no-resolve
 IP-CIDR,143.246.203.148/32,no-resolve
 IP-CIDR,145.63.138.67/32,no-resolve
