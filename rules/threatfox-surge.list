@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-17T21:43:06.350885+00:00
+# Generated UTC 2026-11-17T22:44:36.769133+00:00
 DOMAIN,0411proklayod.com
 DOMAIN,544504d7fe1e.xyz
 DOMAIN,5ahn3sxya4fdj642cutemvxdwi4rfwa2ugtggnu3gkmct6wsugpdefyd.onion
@@ -332,7 +332,6 @@ DOMAIN,ov.apacu500.org
 DOMAIN,ow.amerika88.org
 DOMAIN,ow.apibet99.net
 DOMAIN,owqkoqoqoqoqoqqoqoo.info
-DOMAIN,p.dog69.net
 DOMAIN,p.doyok.net
 DOMAIN,p.gg180.net
 DOMAIN,p37.anka4d.org
@@ -360,7 +359,6 @@ DOMAIN,qa.araytoto.org
 DOMAIN,qft.apigacor77.org
 DOMAIN,qkp.anka69.org
 DOMAIN,qm.anek4d.org
-DOMAIN,qp.andora188.org
 DOMAIN,qqvictory888.co
 DOMAIN,qs.aria88.net
 DOMAIN,queue.prooutlet58.website
@@ -380,6 +378,8 @@ DOMAIN,relay.newmansamba.icu
 DOMAIN,rh.angkajitu.org
 DOMAIN,rj.amav5d.org
 DOMAIN,ro.apacu500.org
+DOMAIN,ros.anka69.org
+DOMAIN,rr.arusmenang.org
 DOMAIN,rt.ankasanet.org
 DOMAIN,rte.anka69.org
 DOMAIN,rushmereham.cc
@@ -547,6 +547,9 @@ IP-CIDR,103.112.172.143/32,no-resolve
 IP-CIDR,103.114.163.234/32,no-resolve
 IP-CIDR,103.118.254.61/32,no-resolve
 IP-CIDR,103.144.139.185/32,no-resolve
+IP-CIDR,103.163.214.134/32,no-resolve
+IP-CIDR,103.163.214.135/32,no-resolve
+IP-CIDR,103.163.214.137/32,no-resolve
 IP-CIDR,103.170.217.170/32,no-resolve
 IP-CIDR,103.213.248.105/32,no-resolve
 IP-CIDR,103.213.248.62/32,no-resolve
