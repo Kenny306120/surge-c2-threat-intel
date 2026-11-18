@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-18T04:27:13.262414+00:00
+# Generated UTC 2026-11-18T05:30:28.804698+00:00
 DOMAIN,0411proklayod.com
 DOMAIN,544504d7fe1e.xyz
 DOMAIN,5ahn3sxya4fdj642cutemvxdwi4rfwa2ugtggnu3gkmct6wsugpdefyd.onion
@@ -8,7 +8,6 @@ DOMAIN,a.arenapildun.org
 DOMAIN,a.gki4d.org
 DOMAIN,a4.andraslotlink.org
 DOMAIN,a4.antirungkad.org
-DOMAIN,a5.andraslotlink.org
 DOMAIN,a5.apigacor77.org
 DOMAIN,a8.animtoto.org
 DOMAIN,a8f2aac37385.xyz
@@ -157,6 +156,7 @@ DOMAIN,e.antonhoki.org
 DOMAIN,e.appel4d.com
 DOMAIN,e.geng7.org
 DOMAIN,e.gki4d.org
+DOMAIN,e7.arwanageming.org
 DOMAIN,e7t.angkt777.org
 DOMAIN,edvge.tattoo
 DOMAIN,elchapodonpablos.duckdns.org
@@ -259,6 +259,7 @@ DOMAIN,k7.anka4d.org
 DOMAIN,k7.aria88.net
 DOMAIN,k8.arenapildun.org
 DOMAIN,k9.amerika88.org
+DOMAIN,ka.go33.org
 DOMAIN,kc.appel4d.com
 DOMAIN,kernelscv.cfd
 DOMAIN,kfkwrfdd.xyz
@@ -394,7 +395,6 @@ DOMAIN,runwayunfreeze.cc
 DOMAIN,rushmereham.cc
 DOMAIN,rxise.tattoo
 DOMAIN,s.angkt777.org
-DOMAIN,s.dps69.org
 DOMAIN,s.gg180.net
 DOMAIN,s7.apigacor77.org
 DOMAIN,sablecroftber.cc
@@ -622,6 +622,7 @@ IP-CIDR,129.204.34.61/32,no-resolve
 IP-CIDR,129.211.183.201/32,no-resolve
 IP-CIDR,129.211.7.207/32,no-resolve
 IP-CIDR,129.226.135.188/32,no-resolve
+IP-CIDR,13.59.60.122/32,no-resolve
 IP-CIDR,130.12.181.125/32,no-resolve
 IP-CIDR,130.12.182.183/32,no-resolve
 IP-CIDR,130.12.182.230/32,no-resolve
@@ -805,6 +806,10 @@ IP-CIDR,23.227.202.7/32,no-resolve
 IP-CIDR,23.254.174.175/32,no-resolve
 IP-CIDR,23.254.242.101/32,no-resolve
 IP-CIDR,23.26.20.55/32,no-resolve
+IP-CIDR,3.135.250.11/32,no-resolve
+IP-CIDR,3.137.60.53/32,no-resolve
+IP-CIDR,3.141.234.177/32,no-resolve
+IP-CIDR,3.150.141.41/32,no-resolve
 IP-CIDR,3.165.190.81/32,no-resolve
 IP-CIDR,31.210.43.145/32,no-resolve
 IP-CIDR,31.56.19.143/32,no-resolve
@@ -871,7 +876,6 @@ IP-CIDR,45.83.85.72/32,no-resolve
 IP-CIDR,45.90.163.37/32,no-resolve
 IP-CIDR,45.91.202.58/32,no-resolve
 IP-CIDR,45.94.37.86/32,no-resolve
-IP-CIDR,46.8.102.144/32,no-resolve
 IP-CIDR,47.100.6.95/32,no-resolve
 IP-CIDR,47.114.86.18/32,no-resolve
 IP-CIDR,47.238.116.190/32,no-resolve
