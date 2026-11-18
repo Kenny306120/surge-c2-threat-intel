@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-18T00:52:27.709399+00:00
+# Generated UTC 2026-11-18T02:09:42.118700+00:00
 DOMAIN,0411proklayod.com
 DOMAIN,544504d7fe1e.xyz
 DOMAIN,5ahn3sxya4fdj642cutemvxdwi4rfwa2ugtggnu3gkmct6wsugpdefyd.onion
@@ -101,7 +101,6 @@ DOMAIN,cdn-assets-api.busykifukek2-8psk.workers.dev
 DOMAIN,cdn-assets-api.cfchk902834.workers.dev
 DOMAIN,cdn-assets-api.kessler-m88.workers.dev
 DOMAIN,cdn-assets-api.makeneg458.workers.dev
-DOMAIN,cg.andora188.org
 DOMAIN,ci.ankasanet.org
 DOMAIN,cihqobpe.receivewelfarebenefits.com
 DOMAIN,cindercoveber.cc
@@ -119,7 +118,6 @@ DOMAIN,ctn.apigacor889.org
 DOMAIN,cufbe.tattoo
 DOMAIN,cy.angkt777.org
 DOMAIN,d.arusmenang.org
-DOMAIN,d.dps69.org
 DOMAIN,d.gl111.org
 DOMAIN,d0.angkajitu.org
 DOMAIN,d1.arema39.org
@@ -220,6 +218,7 @@ DOMAIN,hhalo.tattoo
 DOMAIN,hl.apij4ya.org
 DOMAIN,hollowfernston.cc
 DOMAIN,hollowick.cc
+DOMAIN,hr.arusmenang.org
 DOMAIN,hy.ankasanet.org
 DOMAIN,i.aretabetlink.org
 DOMAIN,iccon.tattoo
@@ -323,6 +322,7 @@ DOMAIN,o2.aradi777.org
 DOMAIN,o54.angkajitu.org
 DOMAIN,o6.aria88.net
 DOMAIN,obsidianpickaxe.com
+DOMAIN,oc.arusmenang.org
 DOMAIN,od.angkajitu.org
 DOMAIN,officmasy.cloud.xenzhao.sbs
 DOMAIN,oh.go33.org
@@ -455,7 +455,6 @@ DOMAIN,uoverlazyt.com
 DOMAIN,uqm.antres138.org
 DOMAIN,uv.aretabetlink.org
 DOMAIN,uy.araytoto.org
-DOMAIN,v.andora188.org
 DOMAIN,v.doyok.net
 DOMAIN,v.gg180.net
 DOMAIN,v5.apigacor77.org
@@ -475,6 +474,7 @@ DOMAIN,wearecook.cc.cd
 DOMAIN,webnus.wiki
 DOMAIN,wfave.tattoo
 DOMAIN,wickenfellton.cc
+DOMAIN,winne.mynetav.net
 DOMAIN,wiqld.tattoo
 DOMAIN,wl.apaljitu.org
 DOMAIN,wl.aradi777.org
@@ -495,6 +495,7 @@ DOMAIN,x2uegexhalau7yn5aa6pkmq6vxx54p7hpda5fie66lhz2vlul65sjzyd.onion
 DOMAIN,x7.antirungkad.org
 DOMAIN,xenzhao.sbs
 DOMAIN,xhj.amerika88.org
+DOMAIN,xk.go33.org
 DOMAIN,xkiff5vbghynlgg533rutay4agfrux4b72d5oclecgzviyxjzmxqcqqd.onion
 DOMAIN,xm.apigcor88.org
 DOMAIN,xn.amav5d.org
@@ -624,7 +625,6 @@ IP-CIDR,134.122.154.82/32,no-resolve
 IP-CIDR,134.122.191.154/32,no-resolve
 IP-CIDR,134.122.200.18/32,no-resolve
 IP-CIDR,134.209.100.51/32,no-resolve
-IP-CIDR,134.209.242.168/32,no-resolve
 IP-CIDR,135.181.53.66/32,no-resolve
 IP-CIDR,137.184.174.149/32,no-resolve
 IP-CIDR,138.197.215.50/32,no-resolve
@@ -684,7 +684,6 @@ IP-CIDR,16.178.143.163/32,no-resolve
 IP-CIDR,162.14.122.146/32,no-resolve
 IP-CIDR,164.132.247.190/32,no-resolve
 IP-CIDR,164.92.203.129/32,no-resolve
-IP-CIDR,165.22.247.146/32,no-resolve
 IP-CIDR,165.227.143.154/32,no-resolve
 IP-CIDR,165.227.231.9/32,no-resolve
 IP-CIDR,165.227.38.82/32,no-resolve
@@ -694,7 +693,6 @@ IP-CIDR,165.232.183.248/32,no-resolve
 IP-CIDR,165.232.36.128/32,no-resolve
 IP-CIDR,166.88.141.236/32,no-resolve
 IP-CIDR,167.148.201.67/32,no-resolve
-IP-CIDR,167.172.122.204/32,no-resolve
 IP-CIDR,167.99.141.182/32,no-resolve
 IP-CIDR,168.107.49.6/32,no-resolve
 IP-CIDR,168.138.161.66/32,no-resolve
@@ -767,7 +765,6 @@ IP-CIDR,206.119.172.161/32,no-resolve
 IP-CIDR,206.119.182.47/32,no-resolve
 IP-CIDR,206.187.196.174/32,no-resolve
 IP-CIDR,206.189.132.151/32,no-resolve
-IP-CIDR,206.189.48.169/32,no-resolve
 IP-CIDR,206.189.58.244/32,no-resolve
 IP-CIDR,206.189.91.57/32,no-resolve
 IP-CIDR,206.238.123.12/32,no-resolve
@@ -812,11 +809,11 @@ IP-CIDR,31.76.103.99/32,no-resolve
 IP-CIDR,31.77.124.14/32,no-resolve
 IP-CIDR,34.21.198.14/32,no-resolve
 IP-CIDR,35.221.147.129/32,no-resolve
-IP-CIDR,36.255.97.15/32,no-resolve
 IP-CIDR,37.156.44.136/32,no-resolve
 IP-CIDR,38.207.176.218/32,no-resolve
 IP-CIDR,38.244.14.113/32,no-resolve
 IP-CIDR,38.244.44.222/32,no-resolve
+IP-CIDR,38.46.15.204/32,no-resolve
 IP-CIDR,38.55.192.244/32,no-resolve
 IP-CIDR,38.55.215.81/32,no-resolve
 IP-CIDR,38.60.126.45/32,no-resolve
@@ -864,7 +861,6 @@ IP-CIDR,47.114.86.18/32,no-resolve
 IP-CIDR,47.238.116.190/32,no-resolve
 IP-CIDR,47.238.159.91/32,no-resolve
 IP-CIDR,47.238.198.242/32,no-resolve
-IP-CIDR,47.242.46.219/32,no-resolve
 IP-CIDR,47.243.57.116/32,no-resolve
 IP-CIDR,47.253.46.171/32,no-resolve
 IP-CIDR,47.84.33.107/32,no-resolve
