@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-17T23:41:25.117041+00:00
+# Generated UTC 2026-11-18T00:52:27.709399+00:00
 DOMAIN,0411proklayod.com
 DOMAIN,544504d7fe1e.xyz
 DOMAIN,5ahn3sxya4fdj642cutemvxdwi4rfwa2ugtggnu3gkmct6wsugpdefyd.onion
@@ -147,7 +147,6 @@ DOMAIN,duskbrookby.cc
 DOMAIN,duskcroftley.cc
 DOMAIN,dux.aprendizajeeslibertad.cl
 DOMAIN,dv.angsa44d.org
-DOMAIN,dx.andora188.org
 DOMAIN,dx.arena003.org
 DOMAIN,e.anka69.org
 DOMAIN,e.antonhoki.org
@@ -279,6 +278,7 @@ DOMAIN,m.gg180.net
 DOMAIN,m2.antonhoki.org
 DOMAIN,m5.angkt777.org
 DOMAIN,m5.arena003.org
+DOMAIN,m5.arusmenang.org
 DOMAIN,mainenteew.top
 DOMAIN,mavrk.tattoo
 DOMAIN,mc.heyiwei.net
@@ -642,7 +642,6 @@ IP-CIDR,141.98.10.160/32,no-resolve
 IP-CIDR,141.98.10.172/32,no-resolve
 IP-CIDR,142.248.139.61/32,no-resolve
 IP-CIDR,143.109.37.87/32,no-resolve
-IP-CIDR,143.198.88.76/32,no-resolve
 IP-CIDR,143.20.80.137/32,no-resolve
 IP-CIDR,143.20.80.138/32,no-resolve
 IP-CIDR,143.244.143.24/32,no-resolve
@@ -682,7 +681,6 @@ IP-CIDR,159.203.61.118/32,no-resolve
 IP-CIDR,159.223.27.166/32,no-resolve
 IP-CIDR,16.170.157.239/32,no-resolve
 IP-CIDR,16.178.143.163/32,no-resolve
-IP-CIDR,161.35.202.19/32,no-resolve
 IP-CIDR,162.14.122.146/32,no-resolve
 IP-CIDR,164.132.247.190/32,no-resolve
 IP-CIDR,164.92.203.129/32,no-resolve
@@ -697,8 +695,6 @@ IP-CIDR,165.232.36.128/32,no-resolve
 IP-CIDR,166.88.141.236/32,no-resolve
 IP-CIDR,167.148.201.67/32,no-resolve
 IP-CIDR,167.172.122.204/32,no-resolve
-IP-CIDR,167.172.26.20/32,no-resolve
-IP-CIDR,167.71.206.3/32,no-resolve
 IP-CIDR,167.99.141.182/32,no-resolve
 IP-CIDR,168.107.49.6/32,no-resolve
 IP-CIDR,168.138.161.66/32,no-resolve
@@ -901,7 +897,6 @@ IP-CIDR,64.227.188.32/32,no-resolve
 IP-CIDR,64.227.23.225/32,no-resolve
 IP-CIDR,64.227.70.4/32,no-resolve
 IP-CIDR,64.227.78.25/32,no-resolve
-IP-CIDR,64.23.218.195/32,no-resolve
 IP-CIDR,64.90.7.21/32,no-resolve
 IP-CIDR,65.20.84.227/32,no-resolve
 IP-CIDR,65.75.211.151/32,no-resolve
