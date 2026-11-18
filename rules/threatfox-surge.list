@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-18T09:29:08.816015+00:00
+# Generated UTC 2026-11-18T10:30:06.288627+00:00
 DOMAIN,544504d7fe1e.xyz
 DOMAIN,92apigacor889.org
 DOMAIN,a.arenapildun.org
@@ -148,6 +148,7 @@ DOMAIN,e.antonhoki.org
 DOMAIN,e.appel4d.com
 DOMAIN,e.geng7.org
 DOMAIN,e.gki4d.org
+DOMAIN,e4.ary303.org
 DOMAIN,e7.arwanageming.org
 DOMAIN,e7t.angkt777.org
 DOMAIN,edvge.tattoo
@@ -353,7 +354,6 @@ DOMAIN,qs.aria88.net
 DOMAIN,queue.prooutlet58.website
 DOMAIN,quietcrate.xyz
 DOMAIN,quillvaleway.cc
-DOMAIN,qw.anek4d.org
 DOMAIN,r.ankasanet.org
 DOMAIN,r.gg180.net
 DOMAIN,r0.angsa44d.org
@@ -671,6 +671,7 @@ IP-CIDR,16.170.157.239/32,no-resolve
 IP-CIDR,16.178.143.163/32,no-resolve
 IP-CIDR,162.14.122.146/32,no-resolve
 IP-CIDR,162.19.132.48/32,no-resolve
+IP-CIDR,162.35.43.166/32,no-resolve
 IP-CIDR,164.132.247.190/32,no-resolve
 IP-CIDR,164.92.203.129/32,no-resolve
 IP-CIDR,165.227.143.154/32,no-resolve
@@ -837,6 +838,7 @@ IP-CIDR,45.207.208.51/32,no-resolve
 IP-CIDR,45.207.226.234/32,no-resolve
 IP-CIDR,45.227.255.157/32,no-resolve
 IP-CIDR,45.251.240.174/32,no-resolve
+IP-CIDR,45.63.60.57/32,no-resolve
 IP-CIDR,45.76.161.8/32,no-resolve
 IP-CIDR,45.77.32.201/32,no-resolve
 IP-CIDR,45.77.62.178/32,no-resolve
