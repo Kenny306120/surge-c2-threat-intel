@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-18T21:43:53.916633+00:00
+# Generated UTC 2026-11-18T22:43:30.804863+00:00
 DOMAIN,544504d7fe1e.xyz
 DOMAIN,92apigacor889.org
 DOMAIN,a.arenapildun.org
@@ -271,6 +271,7 @@ DOMAIN,main9.nodewest.work
 DOMAIN,mainenteew.top
 DOMAIN,mavrk.tattoo
 DOMAIN,mc.heyiwei.net
+DOMAIN,md.asas777.org
 DOMAIN,me.ankapaito.org
 DOMAIN,meood.tattoo
 DOMAIN,meta3.grovestack.one
@@ -488,7 +489,6 @@ DOMAIN,y.angsa44d.org
 DOMAIN,y.geng7.org
 DOMAIN,y.gki4d.org
 DOMAIN,y.gl111.org
-DOMAIN,y0.angkt777.org
 DOMAIN,yd.arema39.org
 DOMAIN,yqj3z8dm.cloud.xenzhao.sbs
 DOMAIN,yw4.anka69.org
@@ -629,6 +629,7 @@ IP-CIDR,134.122.153.218/32,no-resolve
 IP-CIDR,134.122.154.82/32,no-resolve
 IP-CIDR,134.122.191.154/32,no-resolve
 IP-CIDR,134.122.200.18/32,no-resolve
+IP-CIDR,134.175.236.45/32,no-resolve
 IP-CIDR,134.209.100.51/32,no-resolve
 IP-CIDR,135.181.53.66/32,no-resolve
 IP-CIDR,137.184.174.149/32,no-resolve
@@ -747,6 +748,7 @@ IP-CIDR,182.16.61.90/32,no-resolve
 IP-CIDR,182.16.61.91/32,no-resolve
 IP-CIDR,182.16.61.93/32,no-resolve
 IP-CIDR,185.166.152.23/32,no-resolve
+IP-CIDR,185.174.252.102/32,no-resolve
 IP-CIDR,185.216.119.123/32,no-resolve
 IP-CIDR,185.224.132.148/32,no-resolve
 IP-CIDR,185.227.153.148/32,no-resolve
@@ -772,9 +774,11 @@ IP-CIDR,191.217.210.215/32,no-resolve
 IP-CIDR,191.44.109.26/32,no-resolve
 IP-CIDR,192.161.167.18/32,no-resolve
 IP-CIDR,192.162.199.218/32,no-resolve
+IP-CIDR,192.163.172.91/32,no-resolve
 IP-CIDR,192.206.117.22/32,no-resolve
 IP-CIDR,192.210.162.35/32,no-resolve
 IP-CIDR,192.238.181.195/32,no-resolve
+IP-CIDR,192.238.253.214/32,no-resolve
 IP-CIDR,192.253.229.113/32,no-resolve
 IP-CIDR,192.255.246.220/32,no-resolve
 IP-CIDR,192.30.240.25/32,no-resolve
@@ -892,6 +896,8 @@ IP-CIDR,45.197.4.50/32,no-resolve
 IP-CIDR,45.198.224.73/32,no-resolve
 IP-CIDR,45.199.130.114/32,no-resolve
 IP-CIDR,45.199.130.232/32,no-resolve
+IP-CIDR,45.203.216.162/32,no-resolve
+IP-CIDR,45.204.71.168/32,no-resolve
 IP-CIDR,45.207.208.51/32,no-resolve
 IP-CIDR,45.207.226.234/32,no-resolve
 IP-CIDR,45.227.255.157/32,no-resolve
