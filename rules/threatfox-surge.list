@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-18T02:09:42.118700+00:00
+# Generated UTC 2026-11-18T03:19:52.167511+00:00
 DOMAIN,0411proklayod.com
 DOMAIN,544504d7fe1e.xyz
 DOMAIN,5ahn3sxya4fdj642cutemvxdwi4rfwa2ugtggnu3gkmct6wsugpdefyd.onion
@@ -15,7 +15,6 @@ DOMAIN,a8f2aac37385.xyz
 DOMAIN,ad.apigcor88.org
 DOMAIN,adobdoc.icu
 DOMAIN,aj.arena213.net
-DOMAIN,andraslotlink.org
 DOMAIN,anek4d.org
 DOMAIN,angkajitu.org
 DOMAIN,angkt777.org
@@ -23,6 +22,7 @@ DOMAIN,angsa44d.org
 DOMAIN,animtoto.org
 DOMAIN,anka4d.org
 DOMAIN,anka69.org
+DOMAIN,ankapaito.org
 DOMAIN,ankasanet.org
 DOMAIN,antonhoki.org
 DOMAIN,antres138.org
@@ -52,9 +52,11 @@ DOMAIN,arena213.net
 DOMAIN,arenapildun.org
 DOMAIN,aretabetlink.org
 DOMAIN,aria88.net
+DOMAIN,armadilloundermost.cc
 DOMAIN,aromattoto.org
 DOMAIN,aruskoki.org
 DOMAIN,arusmenang.org
+DOMAIN,arwanageming.org
 DOMAIN,aseguroremcos.duckdns.org
 DOMAIN,asyncify.fun
 DOMAIN,auth.benchteam.website
@@ -133,10 +135,11 @@ DOMAIN,dd.anka4d.org
 DOMAIN,debuginfo.org
 DOMAIN,deskharbor.net
 DOMAIN,dk.aruskoki.org
+DOMAIN,dlz.arwanageming.org
 DOMAIN,dns.cdn-syncnode-server.com
 DOMAIN,dns.timesyncserver-312453.com
+DOMAIN,dollarabsence.cc
 DOMAIN,dontworryv2.su
-DOMAIN,doyok.net
 DOMAIN,dpctech.net
 DOMAIN,dr108.org
 DOMAIN,drovlix.com
@@ -289,7 +292,6 @@ DOMAIN,mg7upxjmhxcgark3td4nqhvwhuryjcrn2vbgkd7rss5jbyf2zmv6y4qd.onion
 DOMAIN,mgyth.tattoo
 DOMAIN,mifnd.tattoo
 DOMAIN,mjpzxduywp4bavus2v4egqjfypcyemnq3fqkm3ahoxcwkhquz5kms6yd.onion
-DOMAIN,mk.andraslotlink.org
 DOMAIN,ml.animtoto.org
 DOMAIN,mng.digafertiliser.com
 DOMAIN,mopsteam.cc
@@ -343,6 +345,7 @@ DOMAIN,palegroveber.cc
 DOMAIN,pceseapr.cloud.xenzhao.sbs
 DOMAIN,piuifoasf.com
 DOMAIN,pok.anka69.org
+DOMAIN,policyuntaxed.cc
 DOMAIN,pr.anek4d.org
 DOMAIN,proklayod1111.com
 DOMAIN,proklyod1211.com
@@ -377,11 +380,13 @@ DOMAIN,rawew.tattoo
 DOMAIN,re.arema39.org
 DOMAIN,relay.newmansamba.icu
 DOMAIN,rh.angkajitu.org
+DOMAIN,riotradish.cc
 DOMAIN,ro.apacu500.org
 DOMAIN,ros.anka69.org
 DOMAIN,rr.arusmenang.org
 DOMAIN,rt.ankasanet.org
 DOMAIN,rte.anka69.org
+DOMAIN,runwayunfreeze.cc
 DOMAIN,rushmereham.cc
 DOMAIN,rxise.tattoo
 DOMAIN,s.angkt777.org
@@ -413,9 +418,11 @@ DOMAIN,solanaboss.fun
 DOMAIN,sonosarcsounds.com
 DOMAIN,sonosarcsounds.net
 DOMAIN,spatialdot.top
+DOMAIN,spongemonstrous.cc
 DOMAIN,spywarehook.com
 DOMAIN,sqlserver-sqlite.com
 DOMAIN,st.arena003.org
+DOMAIN,staffchest.cc
 DOMAIN,stat9.wintergroup.one
 DOMAIN,studow.wiki
 DOMAIN,studub.onl
@@ -442,15 +449,17 @@ DOMAIN,tom.anka69.org
 DOMAIN,trhue.tattoo
 DOMAIN,turbch.wiki
 DOMAIN,turbeb.onl
+DOMAIN,turretclothes.cc
 DOMAIN,tx.apigcor88.org
 DOMAIN,ty.appel88.org
 DOMAIN,tyroky.cc
-DOMAIN,u.doyok.net
 DOMAIN,u.gg018.org
 DOMAIN,u7.arena213.net
 DOMAIN,u9.aretabetlink.org
 DOMAIN,ugo.arema39.org
+DOMAIN,ultimateconsuming.cc
 DOMAIN,uncutmaza1.cc
+DOMAIN,unhiddenfilm.cc
 DOMAIN,uoverlazyt.com
 DOMAIN,uqm.antres138.org
 DOMAIN,uv.aretabetlink.org
@@ -465,6 +474,7 @@ DOMAIN,verification-tangem.com
 DOMAIN,verifying-tangem.com
 DOMAIN,versioncrccheck.com
 DOMAIN,viebe.tattoo
+DOMAIN,vp.ankapaito.org
 DOMAIN,vvoid.tattoo
 DOMAIN,vz.aromattoto.org
 DOMAIN,w.apigacor889.org
@@ -498,7 +508,6 @@ DOMAIN,xhj.amerika88.org
 DOMAIN,xk.go33.org
 DOMAIN,xkiff5vbghynlgg533rutay4agfrux4b72d5oclecgzviyxjzmxqcqqd.onion
 DOMAIN,xm.apigcor88.org
-DOMAIN,xn.amav5d.org
 DOMAIN,xp.aprendizajeeslibertad.cl
 DOMAIN,xpfyw5zw4zpyvr7bpyww7za2konudigljazg54lyjdy2svysusq6nnqd.onion
 DOMAIN,xqsdbtrtmufdyiqnkrkvosec4gqappf2egcptzqppjtqdevsoadakyqd.onion
@@ -648,6 +657,7 @@ IP-CIDR,143.244.143.24/32,no-resolve
 IP-CIDR,143.246.203.148/32,no-resolve
 IP-CIDR,144.126.192.202/32,no-resolve
 IP-CIDR,144.202.75.159/32,no-resolve
+IP-CIDR,145.239.135.246/32,no-resolve
 IP-CIDR,145.63.138.67/32,no-resolve
 IP-CIDR,146.103.41.86/32,no-resolve
 IP-CIDR,146.190.92.100/32,no-resolve
@@ -682,6 +692,7 @@ IP-CIDR,159.223.27.166/32,no-resolve
 IP-CIDR,16.170.157.239/32,no-resolve
 IP-CIDR,16.178.143.163/32,no-resolve
 IP-CIDR,162.14.122.146/32,no-resolve
+IP-CIDR,162.19.132.48/32,no-resolve
 IP-CIDR,164.132.247.190/32,no-resolve
 IP-CIDR,164.92.203.129/32,no-resolve
 IP-CIDR,165.227.143.154/32,no-resolve
@@ -879,6 +890,7 @@ IP-CIDR,5.231.31.161/32,no-resolve
 IP-CIDR,5.231.31.168/32,no-resolve
 IP-CIDR,51.81.211.97/32,no-resolve
 IP-CIDR,51.89.166.173/32,no-resolve
+IP-CIDR,51.89.224.136/32,no-resolve
 IP-CIDR,52.64.238.126/32,no-resolve
 IP-CIDR,54.232.140.167/32,no-resolve
 IP-CIDR,59.153.167.12/32,no-resolve
