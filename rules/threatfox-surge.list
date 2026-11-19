@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-19T20:27:11.875988+00:00
+# Generated UTC 2026-11-19T21:19:58.269310+00:00
 DOMAIN,544504d7fe1e.xyz
 DOMAIN,92apigacor889.org
 DOMAIN,a.arenapildun.org
@@ -53,6 +53,7 @@ DOMAIN,asastogel.org
 DOMAIN,asdlot.org
 DOMAIN,aseguroremcos.duckdns.org
 DOMAIN,asia211.org
+DOMAIN,asia608.org
 DOMAIN,asyncify.fun
 DOMAIN,auth.benchteam.website
 DOMAIN,authorize-tangem.com
@@ -255,7 +256,6 @@ DOMAIN,l.gg018.org
 DOMAIN,l.gki4d.org
 DOMAIN,l.goo55.org
 DOMAIN,l0.asastogel.org
-DOMAIN,l2.antirungkad.org
 DOMAIN,l5.appel4d.com
 DOMAIN,laperoter.rest
 DOMAIN,lapoire10.hopto.org
@@ -356,6 +356,7 @@ DOMAIN,r3.arenapildun.org
 DOMAIN,r9.antirungkad.org
 DOMAIN,ra.appel88.org
 DOMAIN,rawew.tattoo
+DOMAIN,rc.asia608.org
 DOMAIN,re.arema39.org
 DOMAIN,rebound.digasfertilizerth.com
 DOMAIN,relay.newmansamba.icu
@@ -592,6 +593,7 @@ IP-CIDR,117.50.81.40/32,no-resolve
 IP-CIDR,117.55.229.137/32,no-resolve
 IP-CIDR,117.72.216.88/32,no-resolve
 IP-CIDR,117.72.223.114/32,no-resolve
+IP-CIDR,117.72.26.79/32,no-resolve
 IP-CIDR,118.107.19.46/32,no-resolve
 IP-CIDR,119.3.251.24/32,no-resolve
 IP-CIDR,12.202.180.125/32,no-resolve
@@ -668,6 +670,7 @@ IP-CIDR,139.59.92.114/32,no-resolve
 IP-CIDR,139.59.99.46/32,no-resolve
 IP-CIDR,14.102.238.105/32,no-resolve
 IP-CIDR,14.241.111.182/32,no-resolve
+IP-CIDR,140.210.15.208/32,no-resolve
 IP-CIDR,141.164.52.83/32,no-resolve
 IP-CIDR,142.248.139.61/32,no-resolve
 IP-CIDR,143.109.37.87/32,no-resolve
@@ -679,6 +682,7 @@ IP-CIDR,144.172.95.47/32,no-resolve
 IP-CIDR,144.172.95.48/32,no-resolve
 IP-CIDR,144.172.95.49/32,no-resolve
 IP-CIDR,144.172.95.57/32,no-resolve
+IP-CIDR,144.172.99.150/32,no-resolve
 IP-CIDR,144.202.75.159/32,no-resolve
 IP-CIDR,144.24.15.130/32,no-resolve
 IP-CIDR,144.24.249.106/32,no-resolve
@@ -823,6 +827,7 @@ IP-CIDR,194.59.31.229/32,no-resolve
 IP-CIDR,196.251.102.216/32,no-resolve
 IP-CIDR,196.251.121.142/32,no-resolve
 IP-CIDR,196.251.122.15/32,no-resolve
+IP-CIDR,196.251.69.248/32,no-resolve
 IP-CIDR,197.206.148.126/32,no-resolve
 IP-CIDR,198.13.159.101/32,no-resolve
 IP-CIDR,198.23.150.2/32,no-resolve
