@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-20T01:42:07.233448+00:00
+# Generated UTC 2026-11-20T02:44:17.348427+00:00
 DOMAIN,544504d7fe1e.xyz
 DOMAIN,92apigacor889.org
 DOMAIN,a.arenapildun.org
@@ -14,7 +14,6 @@ DOMAIN,ak.ankasanet4drtp.org
 DOMAIN,anka69.org
 DOMAIN,ankapaito.org
 DOMAIN,ankasanet4drtp.org
-DOMAIN,antonhoki.org
 DOMAIN,antres138.org
 DOMAIN,apacu500.org
 DOMAIN,apaljitu.org
@@ -264,11 +263,11 @@ DOMAIN,lifeofarebel.com
 DOMAIN,ligne.tattoo
 DOMAIN,linkrot.fypahedupal2-0maz.workers.dev
 DOMAIN,ll.gp11.org
+DOMAIN,lmf.asia608.org
 DOMAIN,m.gam99.org
 DOMAIN,m.geng7.org
 DOMAIN,m.gg180.net
 DOMAIN,m.gp108.org
-DOMAIN,m2.antonhoki.org
 DOMAIN,m5.arena003.org
 DOMAIN,m5.arusmenang.org
 DOMAIN,main9.nodewest.work
@@ -504,6 +503,7 @@ DOMAIN,zh.ankapaito.org
 DOMAIN,zh.arwanageming.org
 DOMAIN,zhfa.zhwkr.co.uk
 DOMAIN,zjero.tattoo
+DOMAIN,zm.gp11.org
 DOMAIN,zo.apaljitu.org
 DOMAIN,zonce.tattoo
 DOMAIN,zs.apij4ya.org
@@ -584,6 +584,7 @@ IP-CIDR,112.121.177.221/32,no-resolve
 IP-CIDR,112.121.177.222/32,no-resolve
 IP-CIDR,112.124.108.207/32,no-resolve
 IP-CIDR,112.213.108.23/32,no-resolve
+IP-CIDR,112.213.110.225/32,no-resolve
 IP-CIDR,114.132.204.165/32,no-resolve
 IP-CIDR,114.29.238.96/32,no-resolve
 IP-CIDR,115.190.208.155/32,no-resolve
@@ -666,6 +667,7 @@ IP-CIDR,139.155.98.40/32,no-resolve
 IP-CIDR,139.180.158.193/32,no-resolve
 IP-CIDR,139.224.202.214/32,no-resolve
 IP-CIDR,139.224.40.24/32,no-resolve
+IP-CIDR,139.224.67.151/32,no-resolve
 IP-CIDR,139.59.57.176/32,no-resolve
 IP-CIDR,139.59.58.118/32,no-resolve
 IP-CIDR,139.59.92.114/32,no-resolve
