@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-20T16:51:04.602265+00:00
+# Generated UTC 2026-11-20T17:50:14.814006+00:00
 DOMAIN,92apigacor889.org
 DOMAIN,a.arenapildun.org
 DOMAIN,a.gki4d.org
@@ -150,6 +150,7 @@ DOMAIN,fofrm.tattoo
 DOMAIN,fot.aprendizajeeslibertad.cl
 DOMAIN,fq.aruskoki.org
 DOMAIN,frees.tattoo
+DOMAIN,fz.asiabet777.org
 DOMAIN,g.aria88.net
 DOMAIN,g.asdlot.org
 DOMAIN,g.gp108.org
@@ -448,6 +449,7 @@ DOMAIN,xyz88888.top
 DOMAIN,y.geng7.org
 DOMAIN,y.gki4d.org
 DOMAIN,y.gl111.org
+DOMAIN,y.gpy88.org
 DOMAIN,yd.arema39.org
 DOMAIN,yw4.anka69.org
 DOMAIN,yy.go33.org
@@ -637,6 +639,8 @@ IP-CIDR,134.122.200.18/32,no-resolve
 IP-CIDR,134.175.236.45/32,no-resolve
 IP-CIDR,134.209.100.51/32,no-resolve
 IP-CIDR,135.181.53.66/32,no-resolve
+IP-CIDR,136.244.109.247/32,no-resolve
+IP-CIDR,136.244.98.190/32,no-resolve
 IP-CIDR,136.65.83.23/32,no-resolve
 IP-CIDR,137.184.174.149/32,no-resolve
 IP-CIDR,138.197.215.50/32,no-resolve
@@ -675,6 +679,7 @@ IP-CIDR,144.24.15.130/32,no-resolve
 IP-CIDR,144.24.249.106/32,no-resolve
 IP-CIDR,145.239.135.246/32,no-resolve
 IP-CIDR,146.103.41.178/32,no-resolve
+IP-CIDR,146.190.228.75/32,no-resolve
 IP-CIDR,146.190.92.100/32,no-resolve
 IP-CIDR,147.185.221.216/32,no-resolve
 IP-CIDR,147.185.221.23/32,no-resolve
@@ -954,6 +959,7 @@ IP-CIDR,34.97.208.38/32,no-resolve
 IP-CIDR,35.221.147.129/32,no-resolve
 IP-CIDR,37.156.44.136/32,no-resolve
 IP-CIDR,38.127.244.14/32,no-resolve
+IP-CIDR,38.146.27.97/32,no-resolve
 IP-CIDR,38.207.176.218/32,no-resolve
 IP-CIDR,38.242.150.215/32,no-resolve
 IP-CIDR,38.244.14.113/32,no-resolve
@@ -1026,6 +1032,7 @@ IP-CIDR,45.207.208.51/32,no-resolve
 IP-CIDR,45.207.226.234/32,no-resolve
 IP-CIDR,45.227.255.157/32,no-resolve
 IP-CIDR,45.251.240.174/32,no-resolve
+IP-CIDR,45.61.137.152/32,no-resolve
 IP-CIDR,45.63.60.57/32,no-resolve
 IP-CIDR,45.76.161.8/32,no-resolve
 IP-CIDR,45.76.58.98/32,no-resolve
@@ -1172,6 +1179,7 @@ IP-CIDR,92.118.232.18/32,no-resolve
 IP-CIDR,93.127.133.123/32,no-resolve
 IP-CIDR,94.26.0.15/32,no-resolve
 IP-CIDR,94.26.0.33/32,no-resolve
+IP-CIDR,95.179.213.237/32,no-resolve
 IP-CIDR,95.182.85.236/32,no-resolve
 IP-CIDR,95.182.95.143/32,no-resolve
 IP-CIDR,95.85.237.156/32,no-resolve
