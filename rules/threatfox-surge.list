@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-20T03:44:11.866836+00:00
+# Generated UTC 2026-11-20T04:51:38.690548+00:00
 DOMAIN,544504d7fe1e.xyz
 DOMAIN,92apigacor889.org
 DOMAIN,a.arenapildun.org
@@ -162,7 +162,6 @@ DOMAIN,f.geng7.org
 DOMAIN,f.nkking.com
 DOMAIN,f1.arena003.org
 DOMAIN,f7.arenapildun.org
-DOMAIN,f76.antonhoki.org
 DOMAIN,fakde.tattoo
 DOMAIN,fearedok.redirectme.net
 DOMAIN,feed.blend-season23.today
@@ -293,6 +292,7 @@ DOMAIN,mr.antres138.org
 DOMAIN,myprome44.duckdns.org
 DOMAIN,mytoolshop.servebeer.com
 DOMAIN,n3.asas777.org
+DOMAIN,n5.asia689.org
 DOMAIN,nantifivebackup.net
 DOMAIN,nantifivemain.net
 DOMAIN,nejxt.tattoo
@@ -610,7 +610,6 @@ IP-CIDR,121.36.22.82/32,no-resolve
 IP-CIDR,121.36.5.199/32,no-resolve
 IP-CIDR,121.36.63.40/32,no-resolve
 IP-CIDR,122.114.225.205/32,no-resolve
-IP-CIDR,122.51.215.90/32,no-resolve
 IP-CIDR,122.51.44.181/32,no-resolve
 IP-CIDR,122.51.82.195/32,no-resolve
 IP-CIDR,124.156.204.199/32,no-resolve
@@ -829,6 +828,7 @@ IP-CIDR,192.253.229.28/32,no-resolve
 IP-CIDR,192.255.246.220/32,no-resolve
 IP-CIDR,192.30.240.25/32,no-resolve
 IP-CIDR,193.134.211.188/32,no-resolve
+IP-CIDR,193.161.193.99/32,no-resolve
 IP-CIDR,194.180.207.85/32,no-resolve
 IP-CIDR,194.59.31.229/32,no-resolve
 IP-CIDR,196.251.102.216/32,no-resolve
