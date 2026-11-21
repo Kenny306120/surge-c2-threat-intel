@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-21T03:13:49.319971+00:00
+# Generated UTC 2026-11-21T04:21:50.360331+00:00
 DOMAIN,92apigacor889.org
 DOMAIN,a.arenapildun.org
 DOMAIN,a.gki4d.org
@@ -666,7 +666,6 @@ IP-CIDR,136.65.83.23/32,no-resolve
 IP-CIDR,137.184.174.149/32,no-resolve
 IP-CIDR,137.22.150.117/32,no-resolve
 IP-CIDR,138.124.52.36/32,no-resolve
-IP-CIDR,138.197.215.50/32,no-resolve
 IP-CIDR,138.2.70.5/32,no-resolve
 IP-CIDR,138.249.18.192/32,no-resolve
 IP-CIDR,139.155.98.40/32,no-resolve
@@ -680,7 +679,6 @@ IP-CIDR,139.5.202.182/32,no-resolve
 IP-CIDR,139.59.57.176/32,no-resolve
 IP-CIDR,139.59.58.118/32,no-resolve
 IP-CIDR,139.59.92.114/32,no-resolve
-IP-CIDR,139.59.99.46/32,no-resolve
 IP-CIDR,14.102.238.105/32,no-resolve
 IP-CIDR,14.241.111.182/32,no-resolve
 IP-CIDR,140.210.15.208/32,no-resolve
@@ -978,7 +976,6 @@ IP-CIDR,31.57.216.121/32,no-resolve
 IP-CIDR,31.57.216.141/32,no-resolve
 IP-CIDR,31.57.216.154/32,no-resolve
 IP-CIDR,31.57.216.158/32,no-resolve
-IP-CIDR,31.57.216.180/32,no-resolve
 IP-CIDR,31.57.216.212/32,no-resolve
 IP-CIDR,31.57.216.91/32,no-resolve
 IP-CIDR,31.76.103.99/32,no-resolve
@@ -1143,7 +1140,6 @@ IP-CIDR,67.43.156.23/32,no-resolve
 IP-CIDR,68.64.180.15/32,no-resolve
 IP-CIDR,68.64.182.173/32,no-resolve
 IP-CIDR,69.165.74.114/32,no-resolve
-IP-CIDR,69.67.173.150/32,no-resolve
 IP-CIDR,74.81.55.220/32,no-resolve
 IP-CIDR,75.119.137.232/32,no-resolve
 IP-CIDR,77.232.37.26/32,no-resolve
