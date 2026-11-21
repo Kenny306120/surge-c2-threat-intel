@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-21T13:50:13.433446+00:00
+# Generated UTC 2026-11-21T14:41:51.824021+00:00
 DOMAIN,a.arenapildun.org
 DOMAIN,a.gki4d.org
 DOMAIN,a5.apigacor77.org
@@ -404,7 +404,6 @@ DOMAIN,xl.asia689.org
 DOMAIN,xp.aprendizajeeslibertad.cl
 DOMAIN,xs.ankasanet4drtp.org
 DOMAIN,xyz88888.top
-DOMAIN,y.geng7.org
 DOMAIN,y.gki4d.org
 DOMAIN,y.gl111.org
 DOMAIN,y.gpy88.org
@@ -424,7 +423,6 @@ DOMAIN,zh.arwanageming.org
 DOMAIN,zhfa.zhwkr.co.uk
 DOMAIN,zm.gp11.org
 DOMAIN,zo.apaljitu.org
-DOMAIN,zs.apij4ya.org
 DOMAIN,zt.gp11.org
 DOMAIN,zv.aromattoto.org
 IP-CIDR,1.12.246.168/32,no-resolve
@@ -598,6 +596,7 @@ IP-CIDR,123.207.240.11/32,no-resolve
 IP-CIDR,124.156.204.199/32,no-resolve
 IP-CIDR,124.220.102.76/32,no-resolve
 IP-CIDR,124.220.224.8/32,no-resolve
+IP-CIDR,124.220.42.40/32,no-resolve
 IP-CIDR,124.220.83.49/32,no-resolve
 IP-CIDR,124.221.109.100/32,no-resolve
 IP-CIDR,124.221.190.118/32,no-resolve
@@ -701,6 +700,7 @@ IP-CIDR,144.172.95.49/32,no-resolve
 IP-CIDR,144.172.95.57/32,no-resolve
 IP-CIDR,144.172.99.150/32,no-resolve
 IP-CIDR,144.202.75.159/32,no-resolve
+IP-CIDR,144.225.109.87/32,no-resolve
 IP-CIDR,144.24.15.130/32,no-resolve
 IP-CIDR,144.24.249.106/32,no-resolve
 IP-CIDR,145.239.135.246/32,no-resolve
@@ -932,6 +932,7 @@ IP-CIDR,193.160.32.149/32,no-resolve
 IP-CIDR,193.161.193.99/32,no-resolve
 IP-CIDR,194.163.170.136/32,no-resolve
 IP-CIDR,194.180.207.85/32,no-resolve
+IP-CIDR,194.59.30.44/32,no-resolve
 IP-CIDR,194.59.31.229/32,no-resolve
 IP-CIDR,194.62.251.34/32,no-resolve
 IP-CIDR,195.123.217.196/32,no-resolve
@@ -1074,6 +1075,7 @@ IP-CIDR,38.46.15.203/32,no-resolve
 IP-CIDR,38.46.15.204/32,no-resolve
 IP-CIDR,38.46.15.205/32,no-resolve
 IP-CIDR,38.54.119.76/32,no-resolve
+IP-CIDR,38.54.23.114/32,no-resolve
 IP-CIDR,38.54.50.161/32,no-resolve
 IP-CIDR,38.55.192.244/32,no-resolve
 IP-CIDR,38.55.200.204/32,no-resolve
