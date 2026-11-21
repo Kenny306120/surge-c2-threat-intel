@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-21T19:39:27.975884+00:00
+# Generated UTC 2026-11-21T20:31:23.768638+00:00
 DOMAIN,a.arenapildun.org
 DOMAIN,a.gki4d.org
 DOMAIN,a5.apigacor77.org
@@ -179,7 +179,6 @@ DOMAIN,jacksons.mlbfan.org
 DOMAIN,jfn.apibet99.net
 DOMAIN,jl.apibet99.net
 DOMAIN,jx.asiabet303.net
-DOMAIN,jxv.appel4d.com
 DOMAIN,k.gg018.org
 DOMAIN,k0f.aprendizajeeslibertad.cl
 DOMAIN,k1.gp11.org
@@ -208,7 +207,6 @@ DOMAIN,lmf.asia608.org
 DOMAIN,lo.asia689.org
 DOMAIN,locanto.cam
 DOMAIN,lu5ivex.tattoo
-DOMAIN,m.geng7.org
 DOMAIN,m.gg180.net
 DOMAIN,m.gp108.org
 DOMAIN,m.gsx88.org
@@ -675,6 +673,7 @@ IP-CIDR,134.175.40.200/32,no-resolve
 IP-CIDR,134.175.89.67/32,no-resolve
 IP-CIDR,134.209.100.51/32,no-resolve
 IP-CIDR,135.181.53.66/32,no-resolve
+IP-CIDR,136.0.37.178/32,no-resolve
 IP-CIDR,136.244.109.247/32,no-resolve
 IP-CIDR,136.244.98.190/32,no-resolve
 IP-CIDR,136.65.83.23/32,no-resolve
@@ -1145,7 +1144,6 @@ IP-CIDR,43.242.130.3/32,no-resolve
 IP-CIDR,43.242.130.97/32,no-resolve
 IP-CIDR,43.247.132.175/32,no-resolve
 IP-CIDR,43.251.116.98/32,no-resolve
-IP-CIDR,45.116.78.205/32,no-resolve
 IP-CIDR,45.125.13.216/32,no-resolve
 IP-CIDR,45.127.32.126/32,no-resolve
 IP-CIDR,45.128.220.137/32,no-resolve
@@ -1214,6 +1212,7 @@ IP-CIDR,47.98.120.15/32,no-resolve
 IP-CIDR,47.99.48.84/32,no-resolve
 IP-CIDR,49.232.218.94/32,no-resolve
 IP-CIDR,49.233.199.129/32,no-resolve
+IP-CIDR,49.233.199.138/32,no-resolve
 IP-CIDR,49.234.45.13/32,no-resolve
 IP-CIDR,49.235.129.89/32,no-resolve
 IP-CIDR,49.235.131.10/32,no-resolve
