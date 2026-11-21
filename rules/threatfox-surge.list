@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-21T14:41:51.824021+00:00
+# Generated UTC 2026-11-21T15:36:22.330587+00:00
 DOMAIN,a.arenapildun.org
 DOMAIN,a.gki4d.org
 DOMAIN,a5.apigacor77.org
@@ -14,8 +14,8 @@ DOMAIN,ankapaito.org
 DOMAIN,ankasanet4drtp.org
 DOMAIN,apibet99.net
 DOMAIN,apigacor77.org
-DOMAIN,appel4d.com
 DOMAIN,appel88.org
+DOMAIN,apppulse-cdn.shop
 DOMAIN,approval-tangem.com
 DOMAIN,approve-tangem.com
 DOMAIN,aprendizajeeslibertad.cl
@@ -123,6 +123,7 @@ DOMAIN,f.apaljitu.org
 DOMAIN,f1.arena003.org
 DOMAIN,f7.arenapildun.org
 DOMAIN,fallback-c2.rplix.cc
+DOMAIN,fantvk.top
 DOMAIN,fearedok.redirectme.net
 DOMAIN,feed.blend-season23.today
 DOMAIN,fg.arusmenang.org
@@ -156,7 +157,6 @@ DOMAIN,gsx88.org
 DOMAIN,gug.anka69.org
 DOMAIN,guild.hopto.me
 DOMAIN,h8.aromattoto.org
-DOMAIN,h99.anka69.org
 DOMAIN,he.arwanageming.org
 DOMAIN,hg.aretabetlink.org
 DOMAIN,hr.arusmenang.org
@@ -179,7 +179,6 @@ DOMAIN,j4u.araytoto.org
 DOMAIN,j8.asdlot.org
 DOMAIN,jacksons.mlbfan.org
 DOMAIN,jfn.apibet99.net
-DOMAIN,jk.apaljitu.org
 DOMAIN,jl.apibet99.net
 DOMAIN,jx.asiabet303.net
 DOMAIN,jxv.appel4d.com
@@ -189,7 +188,6 @@ DOMAIN,k1.gp11.org
 DOMAIN,k7.aria88.net
 DOMAIN,k8.arenapildun.org
 DOMAIN,ka.go33.org
-DOMAIN,kc.appel4d.com
 DOMAIN,ke.gp11.org
 DOMAIN,kernelscv.cfd
 DOMAIN,kingnet1.duckdns.org
@@ -226,9 +224,12 @@ DOMAIN,mc.heyiwei.net
 DOMAIN,md.asas777.org
 DOMAIN,me.ankapaito.org
 DOMAIN,meta3.grovestack.one
+DOMAIN,metric-sync.biz
 DOMAIN,michiko.casacam.net
 DOMAIN,mng.digafertiliser.com
+DOMAIN,mnq.asiagacor777.org
 DOMAIN,mo.go33.org
+DOMAIN,mobiletoolapp.com
 DOMAIN,mooner.icu
 DOMAIN,mopsteam.cc
 DOMAIN,mq.arena213.net
@@ -247,6 +248,7 @@ DOMAIN,nlb.aruskoki.org
 DOMAIN,node.cinder.at
 DOMAIN,node.mothwick.cc
 DOMAIN,node.tutor-lens77.xyz
+DOMAIN,nodehealth-cdn.biz
 DOMAIN,not.aruskoki.org
 DOMAIN,nv.aprendizajeeslibertad.cl
 DOMAIN,nv.aruskoki.org
@@ -268,7 +270,9 @@ DOMAIN,p.gg180.net
 DOMAIN,p.goo55.org
 DOMAIN,p6a.arena213.net
 DOMAIN,pa.araytoto.org
+DOMAIN,papawork.lol
 DOMAIN,perplexityauauai.net
+DOMAIN,petrofant.top
 DOMAIN,petroodawd.top
 DOMAIN,pok.anka69.org
 DOMAIN,policyuntaxed.cc
@@ -302,6 +306,7 @@ DOMAIN,rplix.cc
 DOMAIN,rr.arusmenang.org
 DOMAIN,ru.dakjdnwgnu.sbs
 DOMAIN,runwayunfreeze.cc
+DOMAIN,ruyan.sbs
 DOMAIN,s.gg180.net
 DOMAIN,s.gsx88.org
 DOMAIN,s1.asia211.org
@@ -331,6 +336,7 @@ DOMAIN,st.arena003.org
 DOMAIN,staffchest.cc
 DOMAIN,startupclaudemain.net
 DOMAIN,stat9.wintergroup.one
+DOMAIN,static-assetcdn.buzz
 DOMAIN,supersoftwarede.com
 DOMAIN,svr.erc200.com
 DOMAIN,sweetspirit.ydns.eu
@@ -374,6 +380,7 @@ DOMAIN,verification-tangem.com
 DOMAIN,verifying-tangem.com
 DOMAIN,vf.asdselot.org
 DOMAIN,vkawdwa.top
+DOMAIN,vkfanta.top
 DOMAIN,vp.ankapaito.org
 DOMAIN,vw.asdselot.org
 DOMAIN,vz.aromattoto.org
@@ -478,6 +485,7 @@ IP-CIDR,103.231.59.33/32,no-resolve
 IP-CIDR,103.231.59.83/32,no-resolve
 IP-CIDR,103.235.74.71/32,no-resolve
 IP-CIDR,103.47.83.20/32,no-resolve
+IP-CIDR,103.48.132.4/32,no-resolve
 IP-CIDR,104.166.88.10/32,no-resolve
 IP-CIDR,104.234.50.67/32,no-resolve
 IP-CIDR,104.248.21.36/32,no-resolve
@@ -540,12 +548,14 @@ IP-CIDR,114.116.216.190/32,no-resolve
 IP-CIDR,114.116.252.13/32,no-resolve
 IP-CIDR,114.132.204.165/32,no-resolve
 IP-CIDR,114.29.238.96/32,no-resolve
+IP-CIDR,114.66.15.115/32,no-resolve
 IP-CIDR,115.159.212.22/32,no-resolve
 IP-CIDR,115.159.5.155/32,no-resolve
 IP-CIDR,115.190.208.155/32,no-resolve
 IP-CIDR,115.191.1.104/32,no-resolve
 IP-CIDR,115.191.39.183/32,no-resolve
 IP-CIDR,115.68.101.121/32,no-resolve
+IP-CIDR,116.181.17.151/32,no-resolve
 IP-CIDR,116.203.127.47/32,no-resolve
 IP-CIDR,116.204.131.95/32,no-resolve
 IP-CIDR,117.50.81.40/32,no-resolve
@@ -633,10 +643,8 @@ IP-CIDR,130.12.182.183/32,no-resolve
 IP-CIDR,130.12.182.230/32,no-resolve
 IP-CIDR,130.12.182.38/32,no-resolve
 IP-CIDR,130.94.10.192/32,no-resolve
-IP-CIDR,130.94.10.21/32,no-resolve
 IP-CIDR,130.94.11.208/32,no-resolve
 IP-CIDR,130.94.118.208/32,no-resolve
-IP-CIDR,130.94.13.23/32,no-resolve
 IP-CIDR,130.94.17.6/32,no-resolve
 IP-CIDR,130.94.29.226/32,no-resolve
 IP-CIDR,130.94.33.140/32,no-resolve
@@ -905,6 +913,7 @@ IP-CIDR,189.105.112.37/32,no-resolve
 IP-CIDR,189.105.72.245/32,no-resolve
 IP-CIDR,189.24.72.210/32,no-resolve
 IP-CIDR,189.24.81.71/32,no-resolve
+IP-CIDR,189.74.124.138/32,no-resolve
 IP-CIDR,191.107.80.209/32,no-resolve
 IP-CIDR,191.124.1.46/32,no-resolve
 IP-CIDR,191.217.210.215/32,no-resolve
@@ -1061,6 +1070,7 @@ IP-CIDR,37.156.44.136/32,no-resolve
 IP-CIDR,38.127.244.14/32,no-resolve
 IP-CIDR,38.14.199.69/32,no-resolve
 IP-CIDR,38.146.27.97/32,no-resolve
+IP-CIDR,38.180.162.39/32,no-resolve
 IP-CIDR,38.190.208.127/32,no-resolve
 IP-CIDR,38.207.176.218/32,no-resolve
 IP-CIDR,38.242.150.215/32,no-resolve
@@ -1086,8 +1096,6 @@ IP-CIDR,38.60.126.45/32,no-resolve
 IP-CIDR,38.60.157.225/32,no-resolve
 IP-CIDR,38.60.157.32/32,no-resolve
 IP-CIDR,38.60.157.46/32,no-resolve
-IP-CIDR,38.60.205.67/32,no-resolve
-IP-CIDR,38.60.206.178/32,no-resolve
 IP-CIDR,38.60.224.210/32,no-resolve
 IP-CIDR,38.60.242.188/32,no-resolve
 IP-CIDR,38.76.211.51/32,no-resolve
@@ -1308,6 +1316,7 @@ IP-CIDR,82.41.66.213/32,no-resolve
 IP-CIDR,82.47.0.54/32,no-resolve
 IP-CIDR,82.64.4.131/32,no-resolve
 IP-CIDR,83.136.208.221/32,no-resolve
+IP-CIDR,83.136.208.40/32,no-resolve
 IP-CIDR,83.141.90.134/32,no-resolve
 IP-CIDR,83.141.91.20/32,no-resolve
 IP-CIDR,83.228.228.12/32,no-resolve
