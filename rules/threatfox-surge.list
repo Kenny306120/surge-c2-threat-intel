@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-23T12:58:30.045749+00:00
+# Generated UTC 2026-11-23T14:24:14.613359+00:00
 DOMAIN,21mvlvyy.free.tryportwarp.cc
 DOMAIN,64za1rg0zh.localto.net
 DOMAIN,a.apisyncs.com
@@ -10,7 +10,6 @@ DOMAIN,adminnew.top
 DOMAIN,aez.asia211.org
 DOMAIN,af.asah189.org
 DOMAIN,aggregation.ifrjsmor.com
-DOMAIN,aj.arena213.net
 DOMAIN,ak.ankasanet4drtp.org
 DOMAIN,alert.pressweather33.wiki
 DOMAIN,all1.realdd.click
@@ -56,6 +55,7 @@ DOMAIN,ataraitoto.org
 DOMAIN,atlas198.net
 DOMAIN,atom80.org
 DOMAIN,aton108.net
+DOMAIN,atoslot.org
 DOMAIN,atqnw.anuytzc.xyz
 DOMAIN,ax.arwanageming.org
 DOMAIN,b.asia608.org
@@ -173,6 +173,7 @@ DOMAIN,griffnoria.eating-organic.net
 DOMAIN,grokaiagenticattkexp.net
 DOMAIN,gsx88.org
 DOMAIN,h8.aromattoto.org
+DOMAIN,h9.atoslot.org
 DOMAIN,he.arwanageming.org
 DOMAIN,helper-sdk.tentvs.com
 DOMAIN,hg.aretabetlink.org
@@ -209,7 +210,6 @@ DOMAIN,k8.arenapildun.org
 DOMAIN,ka.go33.org
 DOMAIN,ke.gp11.org
 DOMAIN,kernelshift.cc
-DOMAIN,kingnet1.duckdns.org
 DOMAIN,kj.asastogel.org
 DOMAIN,kkkvvvzxg.online
 DOMAIN,knhjkb-42485.portmap.host
@@ -257,7 +257,6 @@ DOMAIN,mo.asiakasino.org
 DOMAIN,mo.go33.org
 DOMAIN,mobiletoolapp.com
 DOMAIN,mooner.icu
-DOMAIN,mq.arena213.net
 DOMAIN,muckduck.duckdns.org
 DOMAIN,musko9861-30543.portmap.host
 DOMAIN,mytoolshop.servebeer.com
@@ -278,6 +277,7 @@ DOMAIN,nodehealth-cdn.biz
 DOMAIN,nodepull.cc
 DOMAIN,not.aruskoki.org
 DOMAIN,nv.aruskoki.org
+DOMAIN,nvm.aton108.net
 DOMAIN,nx.ankapaito.org
 DOMAIN,nymra.cc
 DOMAIN,o.gp108.org
@@ -447,6 +447,7 @@ DOMAIN,x.gpy88.org
 DOMAIN,x3.atlas198.net
 DOMAIN,x8.asas777.org
 DOMAIN,xa.atom80.org
+DOMAIN,xad.asdselot.org
 DOMAIN,xfile.kkoper.cc
 DOMAIN,xk.go33.org
 DOMAIN,xl.asia689.org
@@ -507,6 +508,7 @@ IP-CIDR,103.118.254.61/32,no-resolve
 IP-CIDR,103.12.148.18/32,no-resolve
 IP-CIDR,103.12.149.48/32,no-resolve
 IP-CIDR,103.144.139.185/32,no-resolve
+IP-CIDR,103.149.90.105/32,no-resolve
 IP-CIDR,103.151.40.87/32,no-resolve
 IP-CIDR,103.163.214.134/32,no-resolve
 IP-CIDR,103.163.214.135/32,no-resolve
@@ -600,7 +602,6 @@ IP-CIDR,110.42.60.76/32,no-resolve
 IP-CIDR,111.228.35.247/32,no-resolve
 IP-CIDR,111.228.6.223/32,no-resolve
 IP-CIDR,111.229.145.73/32,no-resolve
-IP-CIDR,111.229.193.40/32,no-resolve
 IP-CIDR,111.230.12.218/32,no-resolve
 IP-CIDR,111.230.167.47/32,no-resolve
 IP-CIDR,111.230.70.78/32,no-resolve
@@ -626,6 +627,7 @@ IP-CIDR,114.116.216.190/32,no-resolve
 IP-CIDR,114.116.252.13/32,no-resolve
 IP-CIDR,114.132.204.165/32,no-resolve
 IP-CIDR,114.66.15.115/32,no-resolve
+IP-CIDR,115.120.244.7/32,no-resolve
 IP-CIDR,115.159.212.22/32,no-resolve
 IP-CIDR,115.159.224.221/32,no-resolve
 IP-CIDR,115.159.5.155/32,no-resolve
@@ -670,7 +672,6 @@ IP-CIDR,120.48.16.142/32,no-resolve
 IP-CIDR,120.48.28.246/32,no-resolve
 IP-CIDR,120.55.186.125/32,no-resolve
 IP-CIDR,120.76.238.146/32,no-resolve
-IP-CIDR,120.79.172.40/32,no-resolve
 IP-CIDR,121.127.254.170/32,no-resolve
 IP-CIDR,121.196.169.99/32,no-resolve
 IP-CIDR,121.204.246.250/32,no-resolve
@@ -864,7 +865,6 @@ IP-CIDR,151.245.90.99/32,no-resolve
 IP-CIDR,151.246.186.15/32,no-resolve
 IP-CIDR,151.247.210.210/32,no-resolve
 IP-CIDR,151.247.219.145/32,no-resolve
-IP-CIDR,151.247.22.6/32,no-resolve
 IP-CIDR,151.247.8.43/32,no-resolve
 IP-CIDR,152.175.230.140/32,no-resolve
 IP-CIDR,152.175.243.56/32,no-resolve
@@ -976,7 +976,6 @@ IP-CIDR,168.110.13.57/32,no-resolve
 IP-CIDR,168.110.19.156/32,no-resolve
 IP-CIDR,168.110.211.241/32,no-resolve
 IP-CIDR,168.138.161.66/32,no-resolve
-IP-CIDR,168.220.248.106/32,no-resolve
 IP-CIDR,168.93.199.89/32,no-resolve
 IP-CIDR,169.128.70.53/32,no-resolve
 IP-CIDR,169.58.115.94/32,no-resolve
@@ -1528,6 +1527,7 @@ IP-CIDR,47.92.212.48/32,no-resolve
 IP-CIDR,47.92.48.228/32,no-resolve
 IP-CIDR,47.93.156.114/32,no-resolve
 IP-CIDR,47.93.19.128/32,no-resolve
+IP-CIDR,47.95.159.107/32,no-resolve
 IP-CIDR,47.95.2.138/32,no-resolve
 IP-CIDR,47.98.120.15/32,no-resolve
 IP-CIDR,47.98.177.143/32,no-resolve
