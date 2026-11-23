@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-23T00:09:09.409860+00:00
+# Generated UTC 2026-11-23T01:48:54.374971+00:00
 DOMAIN,a.apisyncs.com
 DOMAIN,a.arenapildun.org
 DOMAIN,a.gki4d.org
@@ -397,7 +397,6 @@ DOMAIN,xyz88888.top
 DOMAIN,y.gki4d.org
 DOMAIN,y.gl111.org
 DOMAIN,y.gpy88.org
-DOMAIN,yd.arema39.org
 DOMAIN,yerwiist.com
 DOMAIN,yw4.anka69.org
 DOMAIN,yy.asiagacor777.org
@@ -438,7 +437,6 @@ IP-CIDR,101.43.36.3/32,no-resolve
 IP-CIDR,101.47.30.91/32,no-resolve
 IP-CIDR,101.96.235.184/32,no-resolve
 IP-CIDR,102.220.161.172/32,no-resolve
-IP-CIDR,102.220.161.177/32,no-resolve
 IP-CIDR,102.220.161.178/32,no-resolve
 IP-CIDR,102.220.163.78/32,no-resolve
 IP-CIDR,103.100.176.112/32,no-resolve
@@ -502,7 +500,6 @@ IP-CIDR,104.207.73.249/32,no-resolve
 IP-CIDR,104.233.193.229/32,no-resolve
 IP-CIDR,104.233.207.18/32,no-resolve
 IP-CIDR,104.234.50.67/32,no-resolve
-IP-CIDR,104.248.21.36/32,no-resolve
 IP-CIDR,104.250.122.170/32,no-resolve
 IP-CIDR,104.250.122.7/32,no-resolve
 IP-CIDR,104.251.180.214/32,no-resolve
@@ -779,7 +776,6 @@ IP-CIDR,145.239.135.246/32,no-resolve
 IP-CIDR,146.103.41.178/32,no-resolve
 IP-CIDR,146.185.208.145/32,no-resolve
 IP-CIDR,146.190.228.75/32,no-resolve
-IP-CIDR,146.190.92.100/32,no-resolve
 IP-CIDR,147.185.221.216/32,no-resolve
 IP-CIDR,147.185.221.23/32,no-resolve
 IP-CIDR,147.189.161.66/32,no-resolve
@@ -848,10 +844,7 @@ IP-CIDR,158.247.253.164/32,no-resolve
 IP-CIDR,159.195.32.152/32,no-resolve
 IP-CIDR,159.198.36.181/32,no-resolve
 IP-CIDR,159.200.232.212/32,no-resolve
-IP-CIDR,159.203.23.254/32,no-resolve
 IP-CIDR,159.203.3.52/32,no-resolve
-IP-CIDR,159.203.61.118/32,no-resolve
-IP-CIDR,159.223.27.166/32,no-resolve
 IP-CIDR,159.253.120.87/32,no-resolve
 IP-CIDR,159.89.54.66/32,no-resolve
 IP-CIDR,16.178.143.163/32,no-resolve
@@ -1114,7 +1107,6 @@ IP-CIDR,206.187.201.19/32,no-resolve
 IP-CIDR,206.187.221.208/32,no-resolve
 IP-CIDR,206.189.132.151/32,no-resolve
 IP-CIDR,206.189.227.150/32,no-resolve
-IP-CIDR,206.189.91.57/32,no-resolve
 IP-CIDR,206.238.178.66/32,no-resolve
 IP-CIDR,207.148.119.67/32,no-resolve
 IP-CIDR,207.148.67.69/32,no-resolve
@@ -1537,7 +1529,6 @@ IP-CIDR,8.131.74.87/32,no-resolve
 IP-CIDR,8.133.217.112/32,no-resolve
 IP-CIDR,8.134.122.188/32,no-resolve
 IP-CIDR,8.134.88.246/32,no-resolve
-IP-CIDR,8.136.12.29/32,no-resolve
 IP-CIDR,8.137.202.99/32,no-resolve
 IP-CIDR,8.138.12.59/32,no-resolve
 IP-CIDR,8.138.176.115/32,no-resolve
