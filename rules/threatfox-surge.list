@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-23T10:57:03.821124+00:00
+# Generated UTC 2026-11-23T11:49:36.934333+00:00
 DOMAIN,21mvlvyy.free.tryportwarp.cc
 DOMAIN,64za1rg0zh.localto.net
 DOMAIN,a.apisyncs.com
@@ -24,7 +24,6 @@ DOMAIN,api.teloce.cc
 DOMAIN,api.terral.cc
 DOMAIN,api.trione.cc
 DOMAIN,api.vbrtex.cc
-DOMAIN,apigacor77.org
 DOMAIN,apisyncs.com
 DOMAIN,app.activity.trmaz.xyz
 DOMAIN,apppulse-cdn.shop
@@ -50,6 +49,7 @@ DOMAIN,asiabet303.net
 DOMAIN,asiabet777.org
 DOMAIN,asiagacor777.org
 DOMAIN,asiakasino.org
+DOMAIN,asiantoto88.org
 DOMAIN,assets.get-vault.website
 DOMAIN,asyik33.org
 DOMAIN,ataraitoto.org
@@ -80,7 +80,6 @@ DOMAIN,bu.ary303.org
 DOMAIN,bx.arenapildun.org
 DOMAIN,bytecore.cc
 DOMAIN,bytedrop.cc
-DOMAIN,bz.apigacor77.org
 DOMAIN,bz.asia689.org
 DOMAIN,c.apisyncs.com
 DOMAIN,c.asastogel.org
@@ -232,6 +231,7 @@ DOMAIN,lifeofarebel.com
 DOMAIN,ll.gp11.org
 DOMAIN,lm.aton108.net
 DOMAIN,lmf.asia608.org
+DOMAIN,ln.asiantoto88.org
 DOMAIN,lndpy.com
 DOMAIN,lo.asia689.org
 DOMAIN,loadsync.cc
@@ -239,7 +239,6 @@ DOMAIN,locanto.cam
 DOMAIN,log.travelvault.today
 DOMAIN,lu5ivex.tattoo
 DOMAIN,luropprt.com
-DOMAIN,m.gg180.net
 DOMAIN,m.gp108.org
 DOMAIN,m.gsx88.org
 DOMAIN,m.l1biz.sbs
@@ -295,7 +294,6 @@ DOMAIN,optimizerapi.long.tv
 DOMAIN,ot.ankasanet4drtp.org
 DOMAIN,p.goo55.org
 DOMAIN,p.hino9.net
-DOMAIN,p6a.arena213.net
 DOMAIN,p7l.aton108.net
 DOMAIN,pabcq.anuytzc.xyz
 DOMAIN,packetflow.cc
@@ -328,6 +326,7 @@ DOMAIN,quietcrate.xyz
 DOMAIN,quittkca.com
 DOMAIN,qwp.asah189.org
 DOMAIN,qwwq.hugxxdg.vip
+DOMAIN,qy.aton108.net
 DOMAIN,r0.asdselot.org
 DOMAIN,r3.arenapildun.org
 DOMAIN,r7.asiakasino.org
@@ -371,6 +370,7 @@ DOMAIN,spp.anka69.org
 DOMAIN,spywarehook.com
 DOMAIN,sqlserver-sqlite.com
 DOMAIN,staffchest.cc
+DOMAIN,staging.amediatech.net
 DOMAIN,startupclaudemain.net
 DOMAIN,static-assetcdn.buzz
 DOMAIN,supersoftwarede.com
@@ -837,6 +837,8 @@ IP-CIDR,147.185.221.216/32,no-resolve
 IP-CIDR,147.185.221.217/32,no-resolve
 IP-CIDR,147.185.221.23/32,no-resolve
 IP-CIDR,147.189.161.66/32,no-resolve
+IP-CIDR,148.113.235.183/32,no-resolve
+IP-CIDR,148.113.235.223/32,no-resolve
 IP-CIDR,148.251.120.62/32,no-resolve
 IP-CIDR,148.66.19.51/32,no-resolve
 IP-CIDR,149.104.105.125/32,no-resolve
@@ -1258,8 +1260,10 @@ IP-CIDR,34.88.86.76/32,no-resolve
 IP-CIDR,34.97.208.38/32,no-resolve
 IP-CIDR,35.198.236.64/32,no-resolve
 IP-CIDR,35.221.147.129/32,no-resolve
+IP-CIDR,35.228.27.123/32,no-resolve
 IP-CIDR,35.73.75.151/32,no-resolve
 IP-CIDR,37.152.178.109/32,no-resolve
+IP-CIDR,38.102.8.157/32,no-resolve
 IP-CIDR,38.127.244.14/32,no-resolve
 IP-CIDR,38.14.199.69/32,no-resolve
 IP-CIDR,38.146.27.97/32,no-resolve
@@ -1663,6 +1667,7 @@ IP-CIDR,84.32.220.87/32,no-resolve
 IP-CIDR,84.32.51.80/32,no-resolve
 IP-CIDR,84.32.54.28/32,no-resolve
 IP-CIDR,85.155.15.11/32,no-resolve
+IP-CIDR,85.155.15.114/32,no-resolve
 IP-CIDR,85.155.180.118/32,no-resolve
 IP-CIDR,85.189.54.77/32,no-resolve
 IP-CIDR,85.189.58.26/32,no-resolve
