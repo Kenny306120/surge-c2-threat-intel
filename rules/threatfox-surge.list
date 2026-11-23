@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-23T15:34:00.496721+00:00
+# Generated UTC 2026-11-23T16:51:51.514300+00:00
 DOMAIN,21mvlvyy.free.tryportwarp.cc
 DOMAIN,64za1rg0zh.localto.net
 DOMAIN,a.apisyncs.com
@@ -138,7 +138,6 @@ DOMAIN,em.asdselot.org
 DOMAIN,emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion
 DOMAIN,emprdrcfhpvym7uwqvxky6ympquibzxfxuor6qeexk7lz3sxz5t2ubqd.onion
 DOMAIN,f.hkb7.org
-DOMAIN,f7.arenapildun.org
 DOMAIN,fallback-c2.rplix.cc
 DOMAIN,fantvk.top
 DOMAIN,feed.blend-season23.today
@@ -280,6 +279,7 @@ DOMAIN,nv.aruskoki.org
 DOMAIN,nvm.aton108.net
 DOMAIN,nx.ankapaito.org
 DOMAIN,nymra.cc
+DOMAIN,o.atoslot.org
 DOMAIN,o.gp108.org
 DOMAIN,o.hino9.net
 DOMAIN,o6.aria88.net
@@ -356,6 +356,7 @@ DOMAIN,sg3.apisyncs.com
 DOMAIN,sg4.apisyncs.com
 DOMAIN,sg5.apisyncs.com
 DOMAIN,sgdkgdksgdkgsd.top
+DOMAIN,shelter51.com
 DOMAIN,shga3-qs3c3.159-223-110-159.sslip.io
 DOMAIN,siruvise.ydns.eu
 DOMAIN,sk.ankapaito.org
@@ -451,7 +452,6 @@ DOMAIN,xfile.kkoper.cc
 DOMAIN,xk.go33.org
 DOMAIN,xl.asia689.org
 DOMAIN,xs.ankasanet4drtp.org
-DOMAIN,y.gki4d.org
 DOMAIN,y.gl111.org
 DOMAIN,y.gpy88.org
 DOMAIN,y0s.atlas198.net
@@ -569,6 +569,7 @@ IP-CIDR,106.52.103.149/32,no-resolve
 IP-CIDR,106.53.28.109/32,no-resolve
 IP-CIDR,106.54.203.98/32,no-resolve
 IP-CIDR,106.54.249.144/32,no-resolve
+IP-CIDR,106.54.34.148/32,no-resolve
 IP-CIDR,106.55.13.72/32,no-resolve
 IP-CIDR,106.55.23.149/32,no-resolve
 IP-CIDR,106.75.225.44/32,no-resolve
@@ -1056,6 +1057,7 @@ IP-CIDR,185.242.235.141/32,no-resolve
 IP-CIDR,185.244.148.229/32,no-resolve
 IP-CIDR,185.252.232.33/32,no-resolve
 IP-CIDR,185.7.214.26/32,no-resolve
+IP-CIDR,185.72.146.97/32,no-resolve
 IP-CIDR,185.87.255.214/32,no-resolve
 IP-CIDR,185.94.230.131/32,no-resolve
 IP-CIDR,185.94.230.77/32,no-resolve
@@ -1244,7 +1246,6 @@ IP-CIDR,31.57.24.204/32,no-resolve
 IP-CIDR,31.58.216.211/32,no-resolve
 IP-CIDR,31.6.50.248/32,no-resolve
 IP-CIDR,31.76.245.71/32,no-resolve
-IP-CIDR,31.77.124.14/32,no-resolve
 IP-CIDR,31.77.168.157/32,no-resolve
 IP-CIDR,34.122.186.139/32,no-resolve
 IP-CIDR,34.125.74.130/32,no-resolve
