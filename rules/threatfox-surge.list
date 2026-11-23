@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-23T21:43:09.843799+00:00
+# Generated UTC 2026-11-23T22:42:46.792196+00:00
 DOMAIN,21mvlvyy.free.tryportwarp.cc
 DOMAIN,64za1rg0zh.localto.net
 DOMAIN,a.apisyncs.com
@@ -84,7 +84,6 @@ DOMAIN,c.orjqg.sbs
 DOMAIN,c2.rplix.cc
 DOMAIN,c4q.asia211.org
 DOMAIN,c8.asah189.org
-DOMAIN,ca.aretabetlink.org
 DOMAIN,cache-provider.com
 DOMAIN,capi.dtdcloud.com
 DOMAIN,cdn3.hsrdkt.com
@@ -116,7 +115,6 @@ DOMAIN,dk.aruskoki.org
 DOMAIN,dlz.arwanageming.org
 DOMAIN,do.asiabet777.org
 DOMAIN,dollarabsence.cc
-DOMAIN,dontworryv2.su
 DOMAIN,dp.atoslot.org
 DOMAIN,dqger4rm.free.tryportwarp.cc
 DOMAIN,duckroad.net
@@ -303,7 +301,6 @@ DOMAIN,petrofant.top
 DOMAIN,petroodawd.top
 DOMAIN,ping.forest-haven.wiki
 DOMAIN,ping8.southbazaar.work
-DOMAIN,pok.anka69.org
 DOMAIN,policyuntaxed.cc
 DOMAIN,pr.atlas198.net
 DOMAIN,privatehos.dns.army
@@ -574,6 +571,7 @@ IP-CIDR,106.54.34.148/32,no-resolve
 IP-CIDR,106.55.13.72/32,no-resolve
 IP-CIDR,106.55.23.149/32,no-resolve
 IP-CIDR,106.55.60.151/32,no-resolve
+IP-CIDR,106.75.209.24/32,no-resolve
 IP-CIDR,106.75.225.44/32,no-resolve
 IP-CIDR,106.75.254.55/32,no-resolve
 IP-CIDR,107.148.158.91/32,no-resolve
@@ -1537,6 +1535,7 @@ IP-CIDR,48.102.206.68/32,no-resolve
 IP-CIDR,48.103.145.193/32,no-resolve
 IP-CIDR,49.232.218.94/32,no-resolve
 IP-CIDR,49.232.60.40/32,no-resolve
+IP-CIDR,49.233.122.187/32,no-resolve
 IP-CIDR,49.233.199.129/32,no-resolve
 IP-CIDR,49.233.199.138/32,no-resolve
 IP-CIDR,49.234.45.13/32,no-resolve
