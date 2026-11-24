@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-24T00:49:23.350740+00:00
+# Generated UTC 2026-11-24T02:08:13.162201+00:00
 DOMAIN,21mvlvyy.free.tryportwarp.cc
 DOMAIN,64za1rg0zh.localto.net
 DOMAIN,a.apisyncs.com
@@ -102,8 +102,6 @@ DOMAIN,cv5.atlas198.net
 DOMAIN,cy.asiantoto88.org
 DOMAIN,cyberframe.cc
 DOMAIN,d.arusmenang.org
-DOMAIN,d.gl111.org
-DOMAIN,d8.aretabetlink.org
 DOMAIN,datafetch.cc
 DOMAIN,dbh.ataraitoto.org
 DOMAIN,dedication-opponent.tun.ply.gg
@@ -159,7 +157,6 @@ DOMAIN,geminoargotai.net
 DOMAIN,giabiobo.com
 DOMAIN,gk.asdlot.org
 DOMAIN,gk.asiabet303.net
-DOMAIN,gl111.org
 DOMAIN,go33.org
 DOMAIN,goo55.org
 DOMAIN,gp108.org
@@ -400,8 +397,8 @@ DOMAIN,uncvlizd.com
 DOMAIN,unhiddenfilm.cc
 DOMAIN,upload-sasdk.tentvs.com
 DOMAIN,upload.mytvos.com
+DOMAIN,us-beacon.globaltrading-fr.com
 DOMAIN,usercmp1.apisyncs.com
-DOMAIN,uv.aretabetlink.org
 DOMAIN,v.goo55.org
 DOMAIN,v.gpy88.org
 DOMAIN,v.hino9.net
@@ -496,6 +493,7 @@ IP-CIDR,102.220.163.78/32,no-resolve
 IP-CIDR,103.1.226.78/32,no-resolve
 IP-CIDR,103.100.176.112/32,no-resolve
 IP-CIDR,103.101.85.207/32,no-resolve
+IP-CIDR,103.11.67.227/32,no-resolve
 IP-CIDR,103.112.172.143/32,no-resolve
 IP-CIDR,103.112.174.114/32,no-resolve
 IP-CIDR,103.115.49.117/32,no-resolve
@@ -747,7 +745,6 @@ IP-CIDR,13.140.39.150/32,no-resolve
 IP-CIDR,13.233.232.1/32,no-resolve
 IP-CIDR,13.59.60.122/32,no-resolve
 IP-CIDR,130.12.181.142/32,no-resolve
-IP-CIDR,130.12.182.183/32,no-resolve
 IP-CIDR,130.12.182.38/32,no-resolve
 IP-CIDR,130.94.10.192/32,no-resolve
 IP-CIDR,130.94.17.6/32,no-resolve
@@ -1065,6 +1062,7 @@ IP-CIDR,185.239.238.108/32,no-resolve
 IP-CIDR,185.241.7.29/32,no-resolve
 IP-CIDR,185.242.235.141/32,no-resolve
 IP-CIDR,185.244.148.229/32,no-resolve
+IP-CIDR,185.25.50.74/32,no-resolve
 IP-CIDR,185.252.232.33/32,no-resolve
 IP-CIDR,185.7.214.26/32,no-resolve
 IP-CIDR,185.72.146.97/32,no-resolve
@@ -1355,6 +1353,7 @@ IP-CIDR,43.136.175.43/32,no-resolve
 IP-CIDR,43.138.148.193/32,no-resolve
 IP-CIDR,43.139.184.83/32,no-resolve
 IP-CIDR,43.139.224.138/32,no-resolve
+IP-CIDR,43.139.225.234/32,no-resolve
 IP-CIDR,43.142.103.54/32,no-resolve
 IP-CIDR,43.142.144.222/32,no-resolve
 IP-CIDR,43.142.22.253/32,no-resolve
