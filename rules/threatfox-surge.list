@@ -1,6 +1,10 @@
-# Generated UTC 2026-11-24T11:48:47.969703+00:00
+# Generated UTC 2026-11-24T12:58:32.292773+00:00
 DOMAIN,21mvlvyy.free.tryportwarp.cc
+DOMAIN,45dogcatmouse.net
+DOMAIN,45mousestripdog.net
 DOMAIN,64za1rg0zh.localto.net
+DOMAIN,95catsharkboss.net
+DOMAIN,95wormbiggan.net
 DOMAIN,a.apisyncs.com
 DOMAIN,abosdro-minimum.info
 DOMAIN,adminnew.top
@@ -149,6 +153,7 @@ DOMAIN,fetchbyte.cc
 DOMAIN,ffffffffffff-54100.portmap.host
 DOMAIN,fg.arusmenang.org
 DOMAIN,flush.apisyncs.com
+DOMAIN,flybeebox.fun
 DOMAIN,fq.aruskoki.org
 DOMAIN,fq.asiakasino.org
 DOMAIN,fz.asiabet777.org
@@ -176,6 +181,7 @@ DOMAIN,h8.aromattoto.org
 DOMAIN,h9.atoslot.org
 DOMAIN,he.arwanageming.org
 DOMAIN,helper-sdk.tentvs.com
+DOMAIN,heysunlab.fun
 DOMAIN,hg.autooris77.org
 DOMAIN,hino9.net
 DOMAIN,hkb7.org
@@ -291,7 +297,6 @@ DOMAIN,oc.arusmenang.org
 DOMAIN,offuubo.com
 DOMAIN,oh.go33.org
 DOMAIN,on.ary303.org
-DOMAIN,op.aromattoto.org
 DOMAIN,optimizerapi.long.tv
 DOMAIN,opyat25.duckdns.org
 DOMAIN,ot.ankasanet4drtp.org
@@ -318,6 +323,7 @@ DOMAIN,pscdom.duckdns.org
 DOMAIN,pviifuts.com
 DOMAIN,q.goo55.org
 DOMAIN,q4.atlas198.net
+DOMAIN,q5.autoslot.cc
 DOMAIN,q65.ary303.org
 DOMAIN,q7.hkb7.org
 DOMAIN,qd.asiakasino.org
@@ -593,7 +599,6 @@ IP-CIDR,107.175.63.238/32,no-resolve
 IP-CIDR,107.182.24.234/32,no-resolve
 IP-CIDR,108.165.177.205/32,no-resolve
 IP-CIDR,108.175.214.174/32,no-resolve
-IP-CIDR,108.186.221.98/32,no-resolve
 IP-CIDR,109.199.115.173/32,no-resolve
 IP-CIDR,109.206.236.18/32,no-resolve
 IP-CIDR,109.206.244.144/32,no-resolve
@@ -676,6 +681,7 @@ IP-CIDR,119.42.148.190/32,no-resolve
 IP-CIDR,119.98.98.30/32,no-resolve
 IP-CIDR,120.26.138.170/32,no-resolve
 IP-CIDR,120.26.176.139/32,no-resolve
+IP-CIDR,120.46.197.246/32,no-resolve
 IP-CIDR,120.46.48.45/32,no-resolve
 IP-CIDR,120.48.128.24/32,no-resolve
 IP-CIDR,120.48.16.142/32,no-resolve
@@ -724,6 +730,7 @@ IP-CIDR,124.221.80.161/32,no-resolve
 IP-CIDR,124.222.145.26/32,no-resolve
 IP-CIDR,124.222.151.203/32,no-resolve
 IP-CIDR,124.222.184.15/32,no-resolve
+IP-CIDR,124.222.185.226/32,no-resolve
 IP-CIDR,124.222.192.148/32,no-resolve
 IP-CIDR,124.222.76.112/32,no-resolve
 IP-CIDR,124.222.77.67/32,no-resolve
@@ -1056,6 +1063,7 @@ IP-CIDR,185.106.93.76/32,no-resolve
 IP-CIDR,185.121.15.175/32,no-resolve
 IP-CIDR,185.141.216.103/32,no-resolve
 IP-CIDR,185.165.170.178/32,no-resolve
+IP-CIDR,185.167.60.68/32,no-resolve
 IP-CIDR,185.174.252.102/32,no-resolve
 IP-CIDR,185.177.72.50/32,no-resolve
 IP-CIDR,185.183.54.8/32,no-resolve
@@ -1489,6 +1497,7 @@ IP-CIDR,45.207.226.234/32,no-resolve
 IP-CIDR,45.227.255.145/32,no-resolve
 IP-CIDR,45.251.240.174/32,no-resolve
 IP-CIDR,45.32.187.213/32,no-resolve
+IP-CIDR,45.56.115.75/32,no-resolve
 IP-CIDR,45.61.137.152/32,no-resolve
 IP-CIDR,45.61.161.207/32,no-resolve
 IP-CIDR,45.61.62.74/32,no-resolve
@@ -1517,6 +1526,7 @@ IP-CIDR,47.108.136.171/32,no-resolve
 IP-CIDR,47.109.146.27/32,no-resolve
 IP-CIDR,47.112.215.157/32,no-resolve
 IP-CIDR,47.114.86.18/32,no-resolve
+IP-CIDR,47.116.207.39/32,no-resolve
 IP-CIDR,47.116.22.141/32,no-resolve
 IP-CIDR,47.116.71.206/32,no-resolve
 IP-CIDR,47.117.89.31/32,no-resolve
