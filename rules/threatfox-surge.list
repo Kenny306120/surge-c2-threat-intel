@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-24T02:08:13.162201+00:00
+# Generated UTC 2026-11-24T03:20:43.924567+00:00
 DOMAIN,21mvlvyy.free.tryportwarp.cc
 DOMAIN,64za1rg0zh.localto.net
 DOMAIN,a.apisyncs.com
@@ -25,7 +25,6 @@ DOMAIN,apisyncs.com
 DOMAIN,app.activity.trmaz.xyz
 DOMAIN,apppulse-cdn.shop
 DOMAIN,aq.atlas198.net
-DOMAIN,aria88.net
 DOMAIN,armadilloundermost.cc
 DOMAIN,aromattoto.org
 DOMAIN,aruskoki.org
@@ -45,6 +44,7 @@ DOMAIN,asiabet777.org
 DOMAIN,asiagacor777.org
 DOMAIN,asiakasino.org
 DOMAIN,asiantoto88.org
+DOMAIN,asiioasdjasiojasodijasa.eastus.cloudapp.azure.com
 DOMAIN,assets.get-vault.website
 DOMAIN,asyik33.org
 DOMAIN,ataraitoto.org
@@ -54,6 +54,7 @@ DOMAIN,aton108.net
 DOMAIN,atoslot.org
 DOMAIN,atqnw.anuytzc.xyz
 DOMAIN,auto6slot.org
+DOMAIN,autooris77.org
 DOMAIN,ax.arwanageming.org
 DOMAIN,b.asia608.org
 DOMAIN,b.search-hub.xyz
@@ -77,6 +78,7 @@ DOMAIN,bu.ary303.org
 DOMAIN,bytecore.cc
 DOMAIN,bytedrop.cc
 DOMAIN,bz.asia689.org
+DOMAIN,c.alibaba-cloud.cloud
 DOMAIN,c.apisyncs.com
 DOMAIN,c.asastogel.org
 DOMAIN,c.orjqg.sbs
@@ -102,6 +104,7 @@ DOMAIN,cv5.atlas198.net
 DOMAIN,cy.asiantoto88.org
 DOMAIN,cyberframe.cc
 DOMAIN,d.arusmenang.org
+DOMAIN,daf.asdselot.org
 DOMAIN,datafetch.cc
 DOMAIN,dbh.ataraitoto.org
 DOMAIN,dedication-opponent.tun.ply.gg
@@ -170,6 +173,7 @@ DOMAIN,h8.aromattoto.org
 DOMAIN,h9.atoslot.org
 DOMAIN,he.arwanageming.org
 DOMAIN,helper-sdk.tentvs.com
+DOMAIN,hg.autooris77.org
 DOMAIN,hino9.net
 DOMAIN,hkb7.org
 DOMAIN,hr.arusmenang.org
@@ -277,7 +281,6 @@ DOMAIN,nymra.cc
 DOMAIN,o.atoslot.org
 DOMAIN,o.gp108.org
 DOMAIN,o.hino9.net
-DOMAIN,o6.aria88.net
 DOMAIN,o9.asia608.org
 DOMAIN,o9.aton108.net
 DOMAIN,oc.arusmenang.org
@@ -310,6 +313,7 @@ DOMAIN,q.goo55.org
 DOMAIN,q4.atlas198.net
 DOMAIN,q6.aromattoto.org
 DOMAIN,q65.ary303.org
+DOMAIN,q7.hkb7.org
 DOMAIN,qd.asiakasino.org
 DOMAIN,qj.asiabet303.net
 DOMAIN,qkp.anka69.org
@@ -427,7 +431,6 @@ DOMAIN,wishcourt.xyz
 DOMAIN,wk.asdlot.org
 DOMAIN,wk.asyik33.org
 DOMAIN,wl.asiakasino.org
-DOMAIN,wn.apigacor77.org
 DOMAIN,wnspp-37-39-98-110.run.pinggy-free.link
 DOMAIN,workstation0422.com
 DOMAIN,ww.ankasanet4drtp.org
@@ -600,6 +603,7 @@ IP-CIDR,110.41.178.247/32,no-resolve
 IP-CIDR,110.42.101.65/32,no-resolve
 IP-CIDR,110.42.242.39/32,no-resolve
 IP-CIDR,110.42.60.76/32,no-resolve
+IP-CIDR,111.228.24.209/32,no-resolve
 IP-CIDR,111.228.35.247/32,no-resolve
 IP-CIDR,111.228.6.223/32,no-resolve
 IP-CIDR,111.229.145.73/32,no-resolve
@@ -1209,6 +1213,7 @@ IP-CIDR,212.232.23.73/32,no-resolve
 IP-CIDR,213.165.38.5/32,no-resolve
 IP-CIDR,213.193.244.46/32,no-resolve
 IP-CIDR,216.176.238.209/32,no-resolve
+IP-CIDR,216.238.86.105/32,no-resolve
 IP-CIDR,216.245.184.220/32,no-resolve
 IP-CIDR,216.73.157.144/32,no-resolve
 IP-CIDR,217.182.92.79/32,no-resolve
@@ -1575,6 +1580,8 @@ IP-CIDR,63.141.227.130/32,no-resolve
 IP-CIDR,64.112.43.214/32,no-resolve
 IP-CIDR,64.118.128.131/32,no-resolve
 IP-CIDR,64.176.16.182/32,no-resolve
+IP-CIDR,64.176.171.161/32,no-resolve
+IP-CIDR,64.176.22.37/32,no-resolve
 IP-CIDR,64.188.62.110/32,no-resolve
 IP-CIDR,64.227.166.223/32,no-resolve
 IP-CIDR,64.227.70.4/32,no-resolve
@@ -1592,6 +1599,7 @@ IP-CIDR,65.75.211.151/32,no-resolve
 IP-CIDR,66.212.21.213/32,no-resolve
 IP-CIDR,66.45.243.142/32,no-resolve
 IP-CIDR,67.43.156.23/32,no-resolve
+IP-CIDR,68.183.229.72/32,no-resolve
 IP-CIDR,68.64.180.15/32,no-resolve
 IP-CIDR,68.64.182.173/32,no-resolve
 IP-CIDR,69.165.74.114/32,no-resolve
@@ -1624,6 +1632,7 @@ IP-CIDR,8.148.227.194/32,no-resolve
 IP-CIDR,8.148.245.130/32,no-resolve
 IP-CIDR,8.148.27.125/32,no-resolve
 IP-CIDR,8.148.4.65/32,no-resolve
+IP-CIDR,8.149.128.10/32,no-resolve
 IP-CIDR,8.149.134.150/32,no-resolve
 IP-CIDR,8.152.212.104/32,no-resolve
 IP-CIDR,8.163.39.188/32,no-resolve
