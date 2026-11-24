@@ -1,4 +1,4 @@
-# Generated UTC 2026-11-24T03:20:43.924567+00:00
+# Generated UTC 2026-11-24T04:30:51.729639+00:00
 DOMAIN,21mvlvyy.free.tryportwarp.cc
 DOMAIN,64za1rg0zh.localto.net
 DOMAIN,a.apisyncs.com
@@ -203,7 +203,6 @@ DOMAIN,jx.asiabet303.net
 DOMAIN,k.hino9.net
 DOMAIN,k.hkb7.org
 DOMAIN,k1.gp11.org
-DOMAIN,k7.aria88.net
 DOMAIN,ka.go33.org
 DOMAIN,ke.gp11.org
 DOMAIN,kernelshift.cc
@@ -811,6 +810,7 @@ IP-CIDR,139.59.58.118/32,no-resolve
 IP-CIDR,139.59.92.114/32,no-resolve
 IP-CIDR,139.84.169.184/32,no-resolve
 IP-CIDR,139.84.171.46/32,no-resolve
+IP-CIDR,139.84.232.105/32,no-resolve
 IP-CIDR,139.9.200.89/32,no-resolve
 IP-CIDR,14.102.238.105/32,no-resolve
 IP-CIDR,14.241.111.182/32,no-resolve
@@ -1154,6 +1154,7 @@ IP-CIDR,2.31.125.213/32,no-resolve
 IP-CIDR,2.56.118.218/32,no-resolve
 IP-CIDR,20.205.153.116/32,no-resolve
 IP-CIDR,200.9.154.200/32,no-resolve
+IP-CIDR,201.79.60.54/32,no-resolve
 IP-CIDR,201.79.98.125/32,no-resolve
 IP-CIDR,202.182.102.4/32,no-resolve
 IP-CIDR,202.6.204.155/32,no-resolve
@@ -1219,6 +1220,7 @@ IP-CIDR,216.73.157.144/32,no-resolve
 IP-CIDR,217.182.92.79/32,no-resolve
 IP-CIDR,217.216.54.78/32,no-resolve
 IP-CIDR,217.60.38.222/32,no-resolve
+IP-CIDR,217.69.2.143/32,no-resolve
 IP-CIDR,217.76.59.204/32,no-resolve
 IP-CIDR,221.14.154.41/32,no-resolve
 IP-CIDR,223.109.49.96/32,no-resolve
@@ -1581,9 +1583,11 @@ IP-CIDR,64.112.43.214/32,no-resolve
 IP-CIDR,64.118.128.131/32,no-resolve
 IP-CIDR,64.176.16.182/32,no-resolve
 IP-CIDR,64.176.171.161/32,no-resolve
+IP-CIDR,64.176.21.112/32,no-resolve
 IP-CIDR,64.176.22.37/32,no-resolve
 IP-CIDR,64.188.62.110/32,no-resolve
 IP-CIDR,64.227.166.223/32,no-resolve
+IP-CIDR,64.227.178.166/32,no-resolve
 IP-CIDR,64.227.70.4/32,no-resolve
 IP-CIDR,64.227.78.25/32,no-resolve
 IP-CIDR,64.81.30.166/32,no-resolve
@@ -1593,6 +1597,8 @@ IP-CIDR,64.83.43.184/32,no-resolve
 IP-CIDR,64.83.47.19/32,no-resolve
 IP-CIDR,64.90.7.21/32,no-resolve
 IP-CIDR,64.95.12.126/32,no-resolve
+IP-CIDR,65.20.104.205/32,no-resolve
+IP-CIDR,65.20.108.15/32,no-resolve
 IP-CIDR,65.20.73.75/32,no-resolve
 IP-CIDR,65.21.86.251/32,no-resolve
 IP-CIDR,65.75.211.151/32,no-resolve
@@ -1723,6 +1729,7 @@ IP-CIDR,94.228.162.0/32,no-resolve
 IP-CIDR,94.228.167.90/32,no-resolve
 IP-CIDR,94.249.237.7/32,no-resolve
 IP-CIDR,95.179.213.237/32,no-resolve
+IP-CIDR,95.179.234.59/32,no-resolve
 IP-CIDR,95.182.91.144/32,no-resolve
 IP-CIDR,95.182.95.143/32,no-resolve
 IP-CIDR,95.85.237.156/32,no-resolve
